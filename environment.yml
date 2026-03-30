@@ -1,0 +1,75 @@
+# ══════════════════════════════════════════════════════════════════════════════
+# environment.yml — SQuAD v2 Fine-tune + TriviaQA RAG project
+# RTX 5060 Laptop GPU (Blackwell / sm_120) compatible
+#
+# CREATE & ACTIVATE:
+#   conda env create -f environment.yml
+#   conda activate squad-rag
+#
+# After activation, install PyTorch manually (requires --index-url flag):
+#   pip install torch==2.7.0 torchvision torchaudio \
+#       --index-url https://download.pytorch.org/whl/cu128
+#
+# Then install the remaining pip dependencies:
+#   pip install -r requirements.txt
+#
+# WHY two steps?
+#   conda cannot pass --index-url, so PyTorch must be pip-installed separately
+#   to get the correct cu128 build for sm_120 (Blackwell) kernels.
+# ══════════════════════════════════════════════════════════════════════════════
+
+name: squad-rag
+
+channels:
+  - nvidia                  # for cuda-toolkit
+  - conda-forge             # preferred over defaults for most packages
+  - defaults
+
+dependencies:
+  # ── Python ──────────────────────────────────────────────────────────────────
+  - python=3.10             # 3.10 is the safest target for all pinned packages
+                            # 3.11 works but some HuggingFace wheels lag behind
+
+  # ── CUDA toolkit (must match your driver — check with: nvidia-smi) ──────────
+  - nvidia::cuda-toolkit=12.8
+
+  # ── System-level conda packages ─────────────────────────────────────────────
+  - conda-forge::git                  # needed to install some packages from source
+  - conda-forge::ninja                # speeds up torch extension compilation
+  - conda-forge::packaging
+
+  # ── pip block — everything else installed via pip ───────────────────────────
+  # NOTE: PyTorch is NOT listed here — install it manually after activation
+  # using the command at the top of this file.
+  - pip
+  - pip:
+      # ── Core ML ─────────────────────────────────────────────────────────────
+      - bitsandbytes>=0.45.0
+      - transformers>=4.46.3,<4.51
+      - peft>=0.13.2,<0.15
+      - accelerate>=1.2.0
+      - trl>=0.12.1,<0.14
+
+      # ── Data ────────────────────────────────────────────────────────────────
+      - datasets>=2.21
+      - sentencepiece>=0.2.0
+      - numpy>=1.26,<3
+      - scipy>=1.13
+
+      # ── RAG stack ───────────────────────────────────────────────────────────
+      - langchain>=0.2.0,<0.4
+      - langchain-community>=0.2.0,<0.4
+      - faiss-cpu>=1.8
+      - sentence-transformers>=3.0,<4
+
+      # ── Evaluation ──────────────────────────────────────────────────────────
+      - rouge_score>=0.1.2
+      - scikit-learn>=1.5
+
+      # ── Notebook + viz ──────────────────────────────────────────────────────
+      - jupyter>=1.0
+      - ipykernel>=6.29
+      - ipywidgets>=8.1
+      - matplotlib>=3.9
+      - pandas>=2.2
+      - tqdm>=4.66

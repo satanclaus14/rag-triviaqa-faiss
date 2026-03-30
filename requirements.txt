@@ -1,0 +1,46 @@
+# ══════════════════════════════════════════════════════════════════════════════
+# requirements.txt — SQuAD v2 Fine-tune + TriviaQA RAG project
+# RTX 5060 Laptop GPU (Blackwell / sm_120) compatible
+#
+# INSTALL ORDER — run these two lines first, then pip install -r requirements.txt
+#
+#   conda install -y -c nvidia cuda-toolkit=12.8          # or match your driver
+#   pip install torch==2.7.0 torchvision torchaudio \
+#       --index-url https://download.pytorch.org/whl/cu128
+#
+# PyTorch must be installed separately because it needs the --index-url flag.
+# Everything below is then installed on top of it.
+# ══════════════════════════════════════════════════════════════════════════════
+
+# ── Core ML ───────────────────────────────────────────────────────────────────
+# bitsandbytes 0.45+ is the first release with sm_120 (Blackwell) kernels.
+# If you still hit CUDA kernel errors, remove it and use float16 loading instead.
+bitsandbytes>=0.45.0
+transformers>=4.46.3,<4.51
+peft>=0.13.2,<0.15
+accelerate>=1.2.0
+trl>=0.12.1,<0.14
+
+# ── Data ──────────────────────────────────────────────────────────────────────
+datasets>=2.21
+sentencepiece>=0.2.0          # 0.2.x works with numpy 2.x
+numpy>=1.26,<3                # allow numpy 2.x (numpy<2 blocked sm_120 PyTorch builds)
+scipy>=1.13                   # 1.10 was pinned to numpy<2, 1.13+ is compatible
+
+# ── RAG stack ─────────────────────────────────────────────────────────────────
+langchain>=0.2.0,<0.4         # 0.1.x had breaking internal APIs; 0.2+ is stable
+langchain-community>=0.2.0,<0.4
+faiss-cpu>=1.8                # 1.7 predates numpy 2.x
+sentence-transformers>=3.0,<4 # 2.x pinned old transformers; 3.x is compatible
+
+# ── Evaluation ────────────────────────────────────────────────────────────────
+rouge_score>=0.1.2
+scikit-learn>=1.5
+
+# ── Notebook + viz ────────────────────────────────────────────────────────────
+jupyter>=1.0
+ipykernel>=6.29
+ipywidgets>=8.1
+matplotlib>=3.9
+pandas>=2.2
+tqdm>=4.66
