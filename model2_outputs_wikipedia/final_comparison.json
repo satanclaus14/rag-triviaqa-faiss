@@ -1,0 +1,32 @@
+{
+  "experiment_note": "Clean controlled comparison \u2014 both models evaluated on SQuAD v2 validation",
+  "model1_no_rag": {
+    "dataset": "SQuAD v2 validation",
+    "rouge1": 0.7629,
+    "rouge2": 0.6053,
+    "rougeL": 0.7619,
+    "faithfulness": 0.0506,
+    "hallucination": 0.95,
+    "bertscore_f1": 0.8572
+  },
+  "model2_rag": {
+    "finetune_dataset": "SQuAD v2",
+    "kb_dataset": "SQuAD v2 training contexts",
+    "eval_dataset": "SQuAD v2 validation",
+    "rouge1": 0.4994,
+    "rouge2": 0.0078,
+    "rougeL": 0.4994,
+    "faithfulness": 0.5106,
+    "hallucination": 0.478,
+    "bertscore_f1": 0.7041
+  },
+  "delta_model2_minus_model1": {
+    "rouge1": -0.2635,
+    "rouge2": -0.5975,
+    "rougeL": -0.2625,
+    "faithfulness": 0.46,
+    "hallucination": -0.472,
+    "bertscore_f1": -0.1531
+  },
+  "note": "Positive delta = Model 2 better for ROUGE/faithfulness/BERTScore. Negative delta = Model 2 better for hallucination."
+}

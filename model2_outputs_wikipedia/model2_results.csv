@@ -1,0 +1,7001 @@
+id,question,generated,reference,retrieved_context,answerable,rouge1,rouge2,rougeL,exact_match,bertscore_P,bertscore_R,bertscore_F1,faith_score,hallucinated,src_faith,src_halluc
+0,In what country is Normandy located?,France,France,"[Passage 1]
+Normandy
+
+[Passage 2]
+Normandy
+
+[Passage 3]
+Normandy
+
+[Passage 4]
+Normandy
+
+[Passage 5]
+Normandy",True,1.0,0.0,1.0,1,0.99999994,0.99999994,0.99999994,0.9772023558616638,False,0.9433857798576355,False
+1,When were the Normans in Normandy?,unanswerable,10th and 11th centuries,"[Passage 1]
+Normandy
+
+[Passage 2]
+Normandy
+
+[Passage 3]
+Normandy
+
+[Passage 4]
+Normandy
+
+[Passage 5]
+Normandy",True,0.0,0.0,0.0,0,0.25016895,0.41075635,0.3109534,0.004238189663738012,True,0.006681795231997967,True
+2,From which countries did the Norse originate?,"Iceland, Norway, Sweden","Denmark, Iceland and Norway","[Passage 1]
+Vikings
+
+[Passage 2]
+Vikings
+
+[Passage 3]
+Vikings
+
+[Passage 4]
+Vikings
+
+[Passage 5]
+Vikings",True,0.5714285714285715,0.0,0.5714285714285715,0,0.74252385,0.7429447,0.7427342,0.006022271234542131,True,0.0054124630987644196,True
+3,Who was the Norse leader?,Ivar the Boneless,Rollo,"[Passage 1]
+Vikings
+
+[Passage 2]
+Vikings
+
+[Passage 3]
+Vikings
+
+[Passage 4]
+Vikings
+
+[Passage 5]
+Vikings",True,0.0,0.0,0.0,0,0.5571934,0.6246128,0.58898,0.014154661446809769,True,0.0004623935674317181,True
+4,What century did the Normans first gain their separate identity?,10th Century,10th century,"[Passage 1]
+Anglo-Saxons
+
+[Passage 2]
+Anglo-Saxons
+
+[Passage 3]
+Anglo-Saxons
+
+[Passage 4]
+Anglo-Saxons
+
+[Passage 5]
+Anglo-Saxons",True,1.0,1.0,1.0,1,0.9749573,0.9749573,0.9749573,0.9826228618621826,False,0.006465766113251448,True
+5,Who gave their name to Normandy in the 1000's and 1100's,unanswerable,unanswerable,"[Passage 1]
+Normandy
+
+[Passage 2]
+Normandy
+
+[Passage 3]
+Normandy
+
+[Passage 4]
+Normandy
+
+[Passage 5]
+Normandy",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.006681795231997967,True
+6,What is France a region of?,unanswerable,unanswerable,"[Passage 1]
+History of France
+
+[Passage 2]
+History of France
+
+[Passage 3]
+History of France
+
+[Passage 4]
+History of France
+
+[Passage 5]
+History of France",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.004040954634547234,True
+7,Who did King Charles III swear fealty to?,unanswerable,unanswerable,"[Passage 1]
+Charles I of England
+
+[Passage 2]
+Charles I of England
+
+[Passage 3]
+Charles I of England
+
+[Passage 4]
+Charles I of England
+
+[Passage 5]
+Charles I of England",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.01788579486310482,True
+8,When did the Frankish identity emerge?,unanswerable,unanswerable,"[Passage 1]
+Charlemagne
+
+[Passage 2]
+Charlemagne
+
+[Passage 3]
+Charlemagne
+
+[Passage 4]
+Charlemagne
+
+[Passage 5]
+Charlemagne",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.014810513705015182,True
+9,Who was the duke in the battle of Hastings?,William of Normandy,William the Conqueror,"[Passage 1]
+Hastings
+
+[Passage 2]
+Hastings
+
+[Passage 3]
+Hastings
+
+[Passage 4]
+Hastings
+
+[Passage 5]
+Hastings",True,0.3333333333333333,0.0,0.3333333333333333,0,0.79270196,0.8111574,0.8018235,0.961037814617157,False,0.00024859915720298886,True
+10,Who ruled the duchy of Normandy,unanswerable,Richard I,"[Passage 1]
+Normandy
+
+[Passage 2]
+Normandy
+
+[Passage 3]
+Normandy
+
+[Passage 4]
+Normandy
+
+[Passage 5]
+Normandy",True,0.0,0.0,0.0,0,0.2782716,0.2868849,0.28251263,0.011631377041339874,True,0.006681795231997967,True
+11,What religion were the Normans,Christian,Catholic,"[Passage 1]
+History of religion
+
+[Passage 2]
+History of religion
+
+[Passage 3]
+History of religion
+
+[Passage 4]
+History of religion
+
+[Passage 5]
+History of religion",True,0.0,0.0,0.0,0,0.7867634,0.7867634,0.7867634,0.3921681046485901,False,0.0009652221924625337,True
+12,What type of major impact did the Norman dynasty have on modern Europe?,unanswerable,unanswerable,"[Passage 1]
+History of Europe
+
+[Passage 2]
+History of Europe
+
+[Passage 3]
+History of Europe
+
+[Passage 4]
+History of Europe
+
+[Passage 5]
+History of Europe",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.006155060604214668,True
+13,Who was famed for their Christian spirit?,unanswerable,unanswerable,"[Passage 1]
+History of Christianity
+
+[Passage 2]
+History of Christianity
+
+[Passage 3]
+History of Christianity
+
+[Passage 4]
+History of Christianity
+
+[Passage 5]
+History of Christianity",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.006472770124673843,True
+14,Who assimilted the Roman language?,unanswerable,unanswerable,"[Passage 1]
+Latin
+
+[Passage 2]
+Latin
+
+[Passage 3]
+Latin
+
+[Passage 4]
+Latin
+
+[Passage 5]
+Latin",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.00582438288256526,True
+15,Who ruled the country of Normandy?,unanswerable,unanswerable,"[Passage 1]
+Normandy
+
+[Passage 2]
+Normandy
+
+[Passage 3]
+Normandy
+
+[Passage 4]
+Normandy
+
+[Passage 5]
+Normandy",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.006681795231997967,True
+16,What principality did William the conquerer found?,unanswerable,unanswerable,"[Passage 1]
+William the Conqueror
+
+[Passage 2]
+William the Conqueror
+
+[Passage 3]
+William the Conqueror
+
+[Passage 4]
+William the Conqueror
+
+[Passage 5]
+William the Conqueror",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.012081890366971493,True
+17,What is the original meaning of the word Norman?,unanswerable,Viking,"[Passage 1]
+Old English
+
+[Passage 2]
+Old English
+
+[Passage 3]
+Old English
+
+[Passage 4]
+Old English
+
+[Passage 5]
+Old English",True,0.0,0.0,0.0,0,0.41511613,0.47419024,0.44269112,0.003908841870725155,True,0.013153215870261192,True
+18,When was the Latin version of the word Norman first recorded?,unanswerable,9th century,"[Passage 1]
+Pig Latin
+
+[Passage 2]
+Pig Latin
+
+[Passage 3]
+Pig Latin
+
+[Passage 4]
+Pig Latin
+
+[Passage 5]
+Pig Latin",True,0.0,0.0,0.0,0,0.29463866,0.4585713,0.3587654,0.0010972879827022552,True,0.007875301875174046,True
+19,What name comes from the English words Normans/Normanz?,Normans,unanswerable,"[Passage 1]
+Anglo-Saxons
+
+[Passage 2]
+Anglo-Saxons
+
+[Passage 3]
+Anglo-Saxons
+
+[Passage 4]
+Anglo-Saxons
+
+[Passage 5]
+Anglo-Saxons",False,0.0,0.0,0.0,0,0.3542567,0.33399966,0.34383005,0.007871202193200588,True,0.0007281397120095789,True
+20,When was the French version of the word Norman first recorded?,unanswerable,unanswerable,"[Passage 1]
+Normandy
+
+[Passage 2]
+Normandy
+
+[Passage 3]
+Normandy
+
+[Passage 4]
+Normandy
+
+[Passage 5]
+Normandy",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.006681795231997967,True
+21,When was the Duchy of Normandy founded?,unanswerable,911,"[Passage 1]
+Normandy
+
+[Passage 2]
+Normandy
+
+[Passage 3]
+Normandy
+
+[Passage 4]
+Normandy
+
+[Passage 5]
+Normandy",True,0.0,0.0,0.0,0,0.31407952,0.32697457,0.32039735,0.004755496047437191,True,0.006681795231997967,True
+22,Who did Rollo sign the treaty of Saint-Clair-sur-Epte with?,Rollo,King Charles III,"[Passage 1]
+Treaty
+
+[Passage 2]
+Treaty
+
+[Passage 3]
+Treaty
+
+[Passage 4]
+Treaty of Verdun
+
+[Passage 5]
+Treaty of Verdun",True,0.0,0.0,0.0,0,0.51110244,0.4654175,0.48719135,0.014623316936194897,True,0.10442163050174713,True
+23,What river originally bounded the Duchy,unanswerable,Seine,"[Passage 1]
+Principality of Sealand
+
+[Passage 2]
+Principality of Sealand
+
+[Passage 3]
+Principality of Sealand
+
+[Passage 4]
+Principality of Sealand
+
+[Passage 5]
+Principality of Sealand",True,0.0,0.0,0.0,0,0.36360416,0.39897096,0.3804674,0.013927406631410122,True,0.008969827555119991,True
+24,when did Nors encampments ivolve into destructive incursions?,unanswerable,unanswerable,"[Passage 1]
+Norns
+
+[Passage 2]
+Norns
+
+[Passage 3]
+Norns
+
+[Passage 4]
+Norns
+
+[Passage 5]
+Norns",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.005538958124816418,True
+25,What treaty was established in the 9th century?,unanswerable,unanswerable,"[Passage 1]
+9th century
+
+[Passage 2]
+9th century
+
+[Passage 3]
+9th century
+
+[Passage 4]
+9th century
+
+[Passage 5]
+9th century",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.009753282181918621,True
+26,Who established a treaty with King Charles the third of France?,King Charles the third of France,unanswerable,"[Passage 1]
+Treaty
+
+[Passage 2]
+Treaty
+
+[Passage 3]
+Treaty
+
+[Passage 4]
+Treaty
+
+[Passage 5]
+Treaty",False,0.0,0.0,0.0,0,0.4073716,0.24909294,0.30915114,0.007449796423316002,True,0.00029347356758080423,True
+27,What did the French promises to protect Rollo and his men from?,unanswerable,unanswerable,"[Passage 1]
+French Revolution
+
+[Passage 2]
+French Revolution
+
+[Passage 3]
+French Revolution
+
+[Passage 4]
+French Revolution
+
+[Passage 5]
+French Revolution",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.005488045047968626,True
+28,Who upon arriving gave the original viking settlers a common identity?,Icelandic law-abiding Vikings,Rollo,"[Passage 1]
+Vikings
+
+[Passage 2]
+Vikings
+
+[Passage 3]
+Vikings
+
+[Passage 4]
+Vikings
+
+[Passage 5]
+Vikings",True,0.0,0.0,0.0,0,0.41136754,0.40697867,0.40916133,0.07577577233314514,True,0.06345253437757492,True
+29,When did Rollo begin to arrive in Normandy?,unanswerable,unanswerable,"[Passage 1]
+Normandy
+
+[Passage 2]
+Normandy
+
+[Passage 3]
+Normandy
+
+[Passage 4]
+Normandy
+
+[Passage 5]
+Normandy",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.006681795231997967,True
+30,What Viking groups were conquered by Rollo?,unanswerable,unanswerable,"[Passage 1]
+Vikings
+
+[Passage 2]
+Vikings
+
+[Passage 3]
+Vikings
+
+[Passage 4]
+Vikings
+
+[Passage 5]
+Vikings",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.007578291930258274,True
+31,What was the Norman religion?,Catholics,Catholicism,"[Passage 1]
+History of religion
+
+[Passage 2]
+History of religion
+
+[Passage 3]
+History of religion
+
+[Passage 4]
+History of religion
+
+[Passage 5]
+History of religion",True,0.0,0.0,0.0,0,0.62213945,0.61727244,0.61969644,0.9556400179862976,False,0.0007614516653120518,True
+32,What part of France were the Normans located?,unanswerable,north,"[Passage 1]
+Normandy
+
+[Passage 2]
+Normandy
+
+[Passage 3]
+Normandy
+
+[Passage 4]
+Normandy
+
+[Passage 5]
+Normandy",True,0.0,0.0,0.0,0,0.3036762,0.32757732,0.31517428,0.019034363329410553,True,0.006681795231997967,True
+33,What was replace with the Norse religion?,Christianity,unanswerable,"[Passage 1]
+Old Norse
+
+[Passage 2]
+Old Norse
+
+[Passage 3]
+Old Norse
+
+[Passage 4]
+Old Norse
+
+[Passage 5]
+Old Norse",False,0.0,0.0,0.0,0,0.5417856,0.330132,0.4102699,0.0015272998716682196,True,0.011694928631186485,True
+34,What did maternal Old Norse traditions merge with?,unanswerable,unanswerable,"[Passage 1]
+Old Norse
+
+[Passage 2]
+Old Norse
+
+[Passage 3]
+Old Norse
+
+[Passage 4]
+Old Norse
+
+[Passage 5]
+Old Norse",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.007224567234516144,True
+35,What language replaced the Gallo-Romance language?,unanswerable,unanswerable,"[Passage 1]
+Romance languages
+
+[Passage 2]
+Romance languages
+
+[Passage 3]
+Romance languages
+
+[Passage 4]
+Romance languages
+
+[Passage 5]
+Romance languages",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.0039197951555252075,True
+36,What was one of the Norman's major exports?,unanswerable,fighting horsemen,"[Passage 1]
+Trade
+
+[Passage 2]
+Trade
+
+[Passage 3]
+Trade
+
+[Passage 4]
+Trade
+
+[Passage 5]
+Trade",True,0.0,0.0,0.0,0,0.34556314,0.326279,0.3356443,0.005226134322583675,True,0.001745504210703075,True
+37,Who adopted the fuedel doctrines of the Normans?,unanswerable,unanswerable,"[Passage 1]
+William the Conqueror
+
+[Passage 2]
+William the Conqueror
+
+[Passage 3]
+William the Conqueror
+
+[Passage 4]
+William the Conqueror
+
+[Passage 5]
+William the Conqueror",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.012081890366971493,True
+38,What was one of the Norman's major imports?,unanswerable,unanswerable,"[Passage 1]
+Medieval fortification
+
+[Passage 2]
+Medieval fortification
+
+[Passage 3]
+Medieval fortification
+
+[Passage 4]
+Medieval fortification
+
+[Passage 5]
+Medieval fortification",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.006077863741666079,True
+39,Who's arristocracy eventually served as avid Crusaders?,unanswerable,unanswerable,"[Passage 1]
+Knights Templar
+
+[Passage 2]
+Knights Templar
+
+[Passage 3]
+Knights Templar
+
+[Passage 4]
+Knights Templar
+
+[Passage 5]
+Knights Templar",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.003063642419874668,True
+40,"Who was the Normans' main enemy in Italy, the Byzantine Empire and Armenia?",unanswerable,Seljuk Turks,"[Passage 1]
+Cyril of Alexandria
+
+[Passage 2]
+Cyril of Alexandria
+
+[Passage 3]
+Cyril of Alexandria
+
+[Passage 4]
+Cyril of Alexandria
+
+[Passage 5]
+Cyril of Alexandria",True,0.0,0.0,0.0,0,0.3443163,0.34705037,0.34567794,0.005697545595467091,True,0.014581537805497646,True
+41,Who entered Italy soon after the Byzantine Empire?,unanswerable,unanswerable,"[Passage 1]
+Byzantium
+
+[Passage 2]
+Byzantium
+
+[Passage 3]
+Byzantium
+
+[Passage 4]
+Byzantium
+
+[Passage 5]
+Byzantium",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.004002242814749479,True
+42,Who did the Normans fight in Italy?,unanswerable,unanswerable,"[Passage 1]
+Vikings
+
+[Passage 2]
+Vikings
+
+[Passage 3]
+Vikings
+
+[Passage 4]
+Vikings
+
+[Passage 5]
+Vikings",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.007578291930258274,True
+43,Who did the Normans encourage to come to the south?,unanswerable,unanswerable,"[Passage 1]
+History of St Albans
+
+[Passage 2]
+History of St Albans
+
+[Passage 3]
+History of St Albans
+
+[Passage 4]
+History of St Albans
+
+[Passage 5]
+History of St Albans",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.003791910596191883,True
+44,During what campaign did the Vargian and Lombard fight?,unanswerable,unanswerable,"[Passage 1]
+Lombards
+
+[Passage 2]
+Lombards
+
+[Passage 3]
+Lombards
+
+[Passage 4]
+Lombards
+
+[Passage 5]
+Lombards",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.004439909476786852,True
+45,When did Herve serve as a Byzantine general?,unanswerable,1050s,"[Passage 1]
+Byzantium
+
+[Passage 2]
+Byzantium
+
+[Passage 3]
+Byzantium
+
+[Passage 4]
+Byzantium
+
+[Passage 5]
+Byzantium",True,0.0,0.0,0.0,0,0.3209355,0.30920964,0.31496346,0.008872995153069496,True,0.004002242814749479,True
+46,When did Robert Crispin go up against the Turks?,unanswerable,1060s,"[Passage 1]
+Saladin
+
+[Passage 2]
+Saladin
+
+[Passage 3]
+Saladin
+
+[Passage 4]
+Saladin
+
+[Passage 5]
+Saladin",True,0.0,0.0,0.0,0,0.32030547,0.30766922,0.3138602,0.03930520638823509,True,0.005602392368018627,True
+47,Who ruined Roussel de Bailleul's plans for an independent state?,unanswerable,Alexius Komnenos,"[Passage 1]
+French Revolution
+
+[Passage 2]
+French Revolution
+
+[Passage 3]
+French Revolution
+
+[Passage 4]
+French Revolution
+
+[Passage 5]
+French Revolution",True,0.0,0.0,0.0,0,0.33465093,0.3954141,0.3625039,0.00030969129875302315,True,0.005488045047968626,True
+48,Who was the first Byzantine mercenary to serve with the Normans?,unanswerable,unanswerable,"[Passage 1]
+William the Conqueror
+
+[Passage 2]
+William the Conqueror
+
+[Passage 3]
+William the Conqueror
+
+[Passage 4]
+William the Conqueror
+
+[Passage 5]
+William the Conqueror",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.012081890366971493,True
+49,When did Herve serve as a Norman general?,unanswerable,unanswerable,"[Passage 1]
+Hergé
+
+[Passage 2]
+Hergé
+
+[Passage 3]
+Hergé
+
+[Passage 4]
+Hergé
+
+[Passage 5]
+Hergé",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.005787183530628681,True
+50,Who ruined Alexius Komnenos plans for an independent state?,unanswerable,unanswerable,"[Passage 1]
+Alexios I Komnenos
+
+[Passage 2]
+Alexios I Komnenos
+
+[Passage 3]
+Alexios I Komnenos
+
+[Passage 4]
+Alexios I Komnenos
+
+[Passage 5]
+Alexios I Komnenos",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.0028402034658938646,True
+51,When did Herve go up against the Turks?,unanswerable,unanswerable,"[Passage 1]
+Ottoman Empire
+
+[Passage 2]
+Ottoman Empire
+
+[Passage 3]
+Ottoman Empire
+
+[Passage 4]
+Ottoman Empire
+
+[Passage 5]
+Ottoman Empire",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.004322959575802088,True
+52,What was the name of the Norman castle?,unanswerable,Afranji,"[Passage 1]
+Medieval fortification
+
+[Passage 2]
+Medieval fortification
+
+[Passage 3]
+Medieval fortification
+
+[Passage 4]
+Medieval fortification
+
+[Passage 5]
+Medieval fortification",True,0.0,0.0,0.0,0,0.39042997,0.42591777,0.40740252,0.0009349522297270596,True,0.006077863741666079,True
+53,Who was the leader when the Franks entered the Euphrates valley?,unanswerable,Oursel,"[Passage 1]
+Euphrates
+
+[Passage 2]
+Euphrates
+
+[Passage 3]
+Euphrates
+
+[Passage 4]
+Euphrates
+
+[Passage 5]
+Euphrates",True,0.0,0.0,0.0,0,0.33593383,0.3820787,0.35752344,0.5223297476768494,False,0.0023748644161969423,True
+54,Who did the Normans team up with in Anatolia?,unanswerable,Turkish forces,"[Passage 1]
+Anatolia
+
+[Passage 2]
+Anatolia
+
+[Passage 3]
+Anatolia
+
+[Passage 4]
+Anatolia
+
+[Passage 5]
+Anatolia",True,0.0,0.0,0.0,0,0.31067824,0.3408891,0.3250833,0.005902343429625034,True,0.004136636853218079,True
+55,Who joined Norman forces in the destruction of the Armenians?,unanswerable,unanswerable,"[Passage 1]
+Vikings
+
+[Passage 2]
+Vikings
+
+[Passage 3]
+Vikings
+
+[Passage 4]
+Vikings
+
+[Passage 5]
+Vikings",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.007578291930258274,True
+56,Who did the Turks take up service with?,unanswerable,unanswerable,"[Passage 1]
+Ottoman Turks
+
+[Passage 2]
+Ottoman Turks
+
+[Passage 3]
+Ottoman Turks
+
+[Passage 4]
+Ottoman Turks
+
+[Passage 5]
+Ottoman Turks",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.004059703089296818,True
+57,What Frank led Norman forces?,unanswerable,unanswerable,"[Passage 1]
+Medieval warfare
+
+[Passage 2]
+Medieval warfare
+
+[Passage 3]
+Medieval warfare
+
+[Passage 4]
+Medieval warfare
+
+[Passage 5]
+Medieval warfare",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.0013644880382344127,True
+58,Where did Oursel lead the Franks?,unanswerable,unanswerable,"[Passage 1]
+Charlemagne
+
+[Passage 2]
+Charlemagne
+
+[Passage 3]
+Charlemagne
+
+[Passage 4]
+Charlemagne
+
+[Passage 5]
+Charlemagne",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.014810513705015182,True
+59,What were the origins of the Raouliii family?,unanswerable,Norman mercenary,"[Passage 1]
+Colonna family
+
+[Passage 2]
+Colonna family
+
+[Passage 3]
+Colonna family
+
+[Passage 4]
+Colonna family
+
+[Passage 5]
+Colonna family",True,0.0,0.0,0.0,0,0.36798048,0.36346394,0.36570826,0.014136646874248981,True,0.005524416454136372,True
+60,Where were several Norman mercenary familes originate from?,unanswerable,unanswerable,"[Passage 1]
+Vikings
+
+[Passage 2]
+History of Burgundy
+
+[Passage 3]
+History of Burgundy
+
+[Passage 4]
+History of Burgundy
+
+[Passage 5]
+History of Burgundy",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.012801362201571465,True
+61,Who did the Normans serve under in the 10th century?,unanswerable,unanswerable,"[Passage 1]
+10th century
+
+[Passage 2]
+10th century
+
+[Passage 3]
+11th century
+
+[Passage 4]
+11th century
+
+[Passage 5]
+11th century",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.009944130666553974,True
+62,What expedition did George Maniaces lead in the 10th century?,unanswerable,unanswerable,"[Passage 1]
+10th century
+
+[Passage 2]
+10th century
+
+[Passage 3]
+11th century
+
+[Passage 4]
+9th century
+
+[Passage 5]
+9th century",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.013210849836468697,True
+63,What was the name of the count of Apulia ,unanswerable,Robert Guiscard,"[Passage 1]
+Apuleius
+
+[Passage 2]
+Apuleius
+
+[Passage 3]
+Apuleius
+
+[Passage 4]
+Apuleius
+
+[Passage 5]
+Apuleius",True,0.0,0.0,0.0,0,0.33566368,0.47156742,0.39217535,0.0009218804189004004,True,0.01421144139021635,True
+64,When did Dyrrachium  fall to the Normans?,unanswerable,1082,"[Passage 1]
+Kingdom of Northumbria
+
+[Passage 2]
+Kingdom of Northumbria
+
+[Passage 3]
+Kingdom of Northumbria
+
+[Passage 4]
+Kingdom of Northumbria
+
+[Passage 5]
+Kingdom of Northumbria",True,0.0,0.0,0.0,0,0.35430562,0.39607126,0.3740261,0.0074498155154287815,True,0.010334326885640621,True
+65,How many men were in Robert's army?,unanswerable,"30,000","[Passage 1]
+Robert the Bruce
+
+[Passage 2]
+Robert the Bruce
+
+[Passage 3]
+Robert the Bruce
+
+[Passage 4]
+Robert the Bruce
+
+[Passage 5]
+Robert the Bruce",True,0.0,0.0,0.0,0,0.36813816,0.54600036,0.43976608,0.00028283600113354623,True,0.022109828889369965,True
+66,Who ultimatly drove the Byzantines out of Europe?,unanswerable,unanswerable,"[Passage 1]
+Byzantium
+
+[Passage 2]
+Byzantium
+
+[Passage 3]
+Byzantium
+
+[Passage 4]
+Byzantium
+
+[Passage 5]
+Byzantium",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.004002242814749479,True
+67,What pope opposed Roberts campaign?,unanswerable,unanswerable,"[Passage 1]
+Antipope Boniface VII
+
+[Passage 2]
+Antipope Boniface VII
+
+[Passage 3]
+Antipope Boniface VII
+
+[Passage 4]
+Antipope Boniface VII
+
+[Passage 5]
+Antipope Boniface VII",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.018494943156838417,True
+68,What fell to the Normans in the 10th century?,unanswerable,unanswerable,"[Passage 1]
+10th century
+
+[Passage 2]
+10th century
+
+[Passage 3]
+11th century
+
+[Passage 4]
+9th century
+
+[Passage 5]
+9th century",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.013210849836468697,True
+69,How many men did Roberts army face?,unanswerable,unanswerable,"[Passage 1]
+Militia
+
+[Passage 2]
+Militia
+
+[Passage 3]
+Militia
+
+[Passage 4]
+Militia
+
+[Passage 5]
+Militia",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.002260090783238411,True
+70,Where did the Normans and Byzantines sign the peace treaty?,unanswerable,Deabolis,"[Passage 1]
+Treaty
+
+[Passage 2]
+Peace of Westphalia
+
+[Passage 3]
+Peace of Westphalia
+
+[Passage 4]
+Peace of Westphalia
+
+[Passage 5]
+Peace of Westphalia",True,0.0,0.0,0.0,0,0.39622417,0.3936875,0.39495176,0.03886586055159569,True,0.003990595228970051,True
+71,Who was Robert's son?,unanswerable,Bohemond,"[Passage 1]
+Robert the Bruce
+
+[Passage 2]
+Robert the Bruce
+
+[Passage 3]
+Robert the Bruce
+
+[Passage 4]
+Robert the Bruce
+
+[Passage 5]
+Robert the Bruce",True,0.0,0.0,0.0,0,0.40740535,0.43363085,0.4201092,0.0016957784537225962,True,0.022109828889369965,True
+72,What river was Petrela located by?,unanswerable,Deabolis,"[Passage 1]
+Amazon River
+
+[Passage 2]
+Amazon River
+
+[Passage 3]
+Amazon River
+
+[Passage 4]
+Amazon River
+
+[Passage 5]
+Amazon River",True,0.0,0.0,0.0,0,0.39622417,0.3936875,0.39495176,0.03886586055159569,True,0.008502822369337082,True
+73,Who did the Normans besiege in the 11th century?,unanswerable,unanswerable,"[Passage 1]
+11th century
+
+[Passage 2]
+11th century
+
+[Passage 3]
+11th century
+
+[Passage 4]
+11th century
+
+[Passage 5]
+11th century",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.008511114865541458,True
+74,Who did Robert lead agains Dyrrachium in 1107?,unanswerable,unanswerable,"[Passage 1]
+Robert the Bruce
+
+[Passage 2]
+Robert the Bruce
+
+[Passage 3]
+Robert the Bruce
+
+[Passage 4]
+Robert the Bruce
+
+[Passage 5]
+Robert the Bruce",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.022109828889369965,True
+75,Who was Bohemond's son?,unanswerable,unanswerable,"[Passage 1]
+Son of God
+
+[Passage 2]
+Son of God
+
+[Passage 3]
+Son of God
+
+[Passage 4]
+Son of God
+
+[Passage 5]
+Son of God",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.016046985983848572,True
+76,When did the Normans attack Dyrrachium?,unanswerable,1185,"[Passage 1]
+Kingdom of Northumbria
+
+[Passage 2]
+Kingdom of Northumbria
+
+[Passage 3]
+Kingdom of Northumbria
+
+[Passage 4]
+Kingdom of Northumbria
+
+[Passage 5]
+Kingdom of Northumbria",True,0.0,0.0,0.0,0,0.34525374,0.3875113,0.36516404,0.010087208822369576,True,0.010334326885640621,True
+77,What was the naval base called?,Guantanamo Bay Naval Base,Dyrrachium,"[Passage 1]
+Guantanamo Bay Naval Base
+
+[Passage 2]
+Guantanamo Bay Naval Base
+
+[Passage 3]
+Guantanamo Bay Naval Base
+
+[Passage 4]
+Guantanamo Bay Naval Base
+
+[Passage 5]
+Guantanamo Bay Naval Base",True,0.0,0.0,0.0,0,0.49249172,0.55082816,0.520029,0.025404885411262512,True,0.8555563688278198,False
+78,Where was Dyrrachium located?,unanswerable,the Adriatic,"[Passage 1]
+Bohrium
+
+[Passage 2]
+Bohrium
+
+[Passage 3]
+Bohrium
+
+[Passage 4]
+Bohrium
+
+[Passage 5]
+Bohrium",True,0.0,0.0,0.0,0,0.39526397,0.45408237,0.42263654,0.0005279285833239555,True,0.004821458365768194,True
+79,Who attacked Dyrrachium in the 11th century?,unanswerable,unanswerable,"[Passage 1]
+11th century
+
+[Passage 2]
+11th century
+
+[Passage 3]
+11th century
+
+[Passage 4]
+11th century
+
+[Passage 5]
+11th century",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.008511114865541458,True
+80,Who betrayed the Normans?,unanswerable,unanswerable,"[Passage 1]
+William the Conqueror
+
+[Passage 2]
+William the Conqueror
+
+[Passage 3]
+William the Conqueror
+
+[Passage 4]
+William the Conqueror
+
+[Passage 5]
+William the Conqueror",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.012081890366971493,True
+81,What naval base fell to the Normans?,unanswerable,unanswerable,"[Passage 1]
+Medieval fortification
+
+[Passage 2]
+Medieval fortification
+
+[Passage 3]
+Medieval fortification
+
+[Passage 4]
+Medieval fortification
+
+[Passage 5]
+Medieval fortification",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.006077863741666079,True
+82,Who did Emma Marry?,unanswerable,King Ethelred II,"[Passage 1]
+The Marriage of Figaro
+
+[Passage 2]
+The Marriage of Figaro
+
+[Passage 3]
+The Marriage of Figaro
+
+[Passage 4]
+The Marriage of Figaro
+
+[Passage 5]
+The Marriage of Figaro",True,0.0,0.0,0.0,0,0.26521266,0.37092367,0.30928484,0.0036642306949943304,True,0.01700570620596409,True
+83,Who was Emma's brother?,unanswerable,Duke Richard II,"[Passage 1]
+Emma Abbott
+
+[Passage 2]
+Emma Abbott
+
+[Passage 3]
+Emma Abbott
+
+[Passage 4]
+Emma Abbott
+
+[Passage 5]
+Emma Abbott",True,0.0,0.0,0.0,0,0.36430895,0.33994246,0.35170418,0.007633178494870663,True,0.017645463347434998,True
+84,To where did Ethelred flee?,Iceland,Normandy,"[Passage 1]
+Exile
+
+[Passage 2]
+Exile
+
+[Passage 3]
+Exile
+
+[Passage 4]
+Exile
+
+[Passage 5]
+Exile",True,0.0,0.0,0.0,0,0.5569007,0.5569007,0.5569007,0.00029485023696906865,True,0.0018006240716204047,True
+85,Who kicked Ethelred out?,unanswerable,Sweyn Forkbeard,"[Passage 1]
+Disbarment
+
+[Passage 2]
+Disbarment
+
+[Passage 3]
+Disbarment
+
+[Passage 4]
+Disbarment
+
+[Passage 5]
+Disbarment",True,0.0,0.0,0.0,0,0.33312237,0.32435465,0.32868004,0.0034444627817720175,True,0.001464294851757586,True
+86,Who married Cnut the Great?,unanswerable,unanswerable,"[Passage 1]
+Constantine the Great
+
+[Passage 2]
+Constantine the Great
+
+[Passage 3]
+Constantine the Great
+
+[Passage 4]
+Constantine the Great
+
+[Passage 5]
+Constantine the Great",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.01888630911707878,True
+87,When did Richard II flee to Normandy?,unanswerable,unanswerable,"[Passage 1]
+Normandy
+
+[Passage 2]
+Normandy
+
+[Passage 3]
+Normandy
+
+[Passage 4]
+Normandy
+
+[Passage 5]
+Normandy",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.006681795231997967,True
+88,Who's major ports were controlled by the English?,unanswerable,unanswerable,"[Passage 1]
+England
+
+[Passage 2]
+England
+
+[Passage 3]
+England
+
+[Passage 4]
+England
+
+[Passage 5]
+England",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.008377988822758198,True
+89,Who was Edward the Confessor's half-brother?,unanswerable,Harthacnut,"[Passage 1]
+Edward VI of England
+
+[Passage 2]
+Edward VI of England
+
+[Passage 3]
+Edward VI of England
+
+[Passage 4]
+Edward VI of England
+
+[Passage 5]
+Edward VI of England",True,0.0,0.0,0.0,0,0.38617676,0.35760012,0.37133944,0.0014611213700845838,True,0.026834648102521896,True
+90,When did Edward return?,unanswerable,1041,"[Passage 1]
+Edward VI of England
+
+[Passage 2]
+Edward VI of England
+
+[Passage 3]
+Edward VI of England
+
+[Passage 4]
+Edward VI of England
+
+[Passage 5]
+Edward VI of England",True,0.0,0.0,0.0,0,0.35070562,0.39853084,0.37309185,0.004618526436388493,True,0.026834648102521896,True
+91,Who did Edward make archbishop of Canterbury?,unanswerable,Robert of Jumièges,"[Passage 1]
+Archbishop of Canterbury
+
+[Passage 2]
+Archbishop of Canterbury
+
+[Passage 3]
+Archbishop of Canterbury
+
+[Passage 4]
+Archbishop of Canterbury
+
+[Passage 5]
+Archbishop of Canterbury",True,0.0,0.0,0.0,0,0.28293455,0.32861978,0.30407074,0.0004606083093676716,True,0.021951952949166298,True
+92,When did Edward the Confessor's son return from his fathers refuge?,unanswerable,unanswerable,"[Passage 1]
+Edward VI of England
+
+[Passage 2]
+Edward VI of England
+
+[Passage 3]
+Edward VI of England
+
+[Passage 4]
+Edward VI of England
+
+[Passage 5]
+Edward VI of England",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.026834648102521896,True
+93,What kind of force did Harthacnut establish?,unanswerable,unanswerable,"[Passage 1]
+Force
+
+[Passage 2]
+Force
+
+[Passage 3]
+Force
+
+[Passage 4]
+Force
+
+[Passage 5]
+Force",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.003475373378023505,True
+94,Who made Robert of Jumieges earl of Hereford?,unanswerable,unanswerable,"[Passage 1]
+Robert the Bruce
+
+[Passage 2]
+Robert the Bruce
+
+[Passage 3]
+Robert the Bruce
+
+[Passage 4]
+Robert the Bruce
+
+[Passage 5]
+Robert the Bruce",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.022109828889369965,True
+95,Where did Harold II die?,unanswerable,Battle of Hastings,"[Passage 1]
+Harold Holt
+
+[Passage 2]
+Harold Holt
+
+[Passage 3]
+Harold Holt
+
+[Passage 4]
+Harold Holt
+
+[Passage 5]
+Harold Holt",True,0.0,0.0,0.0,0,0.33306473,0.4860454,0.39526936,0.008505700156092644,True,0.0257379449903965,True
+96,Who killed Harold II? ,unanswerable,William II,"[Passage 1]
+Assassination
+
+[Passage 2]
+Assassination
+
+[Passage 3]
+Assassination
+
+[Passage 4]
+Assassination
+
+[Passage 5]
+Assassination",True,0.0,0.0,0.0,0,0.2966027,0.32586712,0.31054702,0.009914440102875233,True,0.002018140396103263,True
+97,When was the Battle of Hastings?,1066,1066,"[Passage 1]
+Hastings
+
+[Passage 2]
+Hastings
+
+[Passage 3]
+Hastings
+
+[Passage 4]
+Hastings
+
+[Passage 5]
+Hastings",True,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9900314807891846,False,0.7944524884223938,False
+98,Who was the ruling class ahead of the Normans?,the Franks,Anglo-Saxons,"[Passage 1]
+Social class
+
+[Passage 2]
+Social class
+
+[Passage 3]
+Social class
+
+[Passage 4]
+Social class
+
+[Passage 5]
+Social class",True,0.0,0.0,0.0,0,0.4619146,0.4622303,0.4620724,0.00012607619282789528,True,0.0004228136094752699,True
+99,When did King Harold II conquer England?,unanswerable,unanswerable,"[Passage 1]
+William II of England
+
+[Passage 2]
+William II of England
+
+[Passage 3]
+William II of England
+
+[Passage 4]
+William II of England
+
+[Passage 5]
+William II of England",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.021733354777097702,True
+100,What battle took place in the 10th century?,unanswerable,unanswerable,"[Passage 1]
+10th century
+
+[Passage 2]
+10th century
+
+[Passage 3]
+11th century
+
+[Passage 4]
+9th century
+
+[Passage 5]
+9th century",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.013210849836468697,True
+101,Who replaced the Normans as the ruling class?,unanswerable,unanswerable,"[Passage 1]
+Aristocracy
+
+[Passage 2]
+Aristocracy
+
+[Passage 3]
+Aristocracy
+
+[Passage 4]
+Aristocracy
+
+[Passage 5]
+Social class",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.0035458500497043133,True
+102,Who considered their land on the continent their most important holding?,unanswerable,unanswerable,"[Passage 1]
+Imperialism
+
+[Passage 2]
+Imperialism
+
+[Passage 3]
+Imperialism
+
+[Passage 4]
+Imperialism
+
+[Passage 5]
+Imperialism",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.003624595934525132,True
+103,What was the Anglo-Norman language's final form?,unanswerable,Modern English,"[Passage 1]
+Anglo-Saxons
+
+[Passage 2]
+Anglo-Saxons
+
+[Passage 3]
+Anglo-Saxons
+
+[Passage 4]
+Anglo-Saxons
+
+[Passage 5]
+Anglo-Saxons",True,0.0,0.0,0.0,0,0.36386895,0.41892904,0.38946262,0.000777668203227222,True,0.012640472501516342,True
+104,Who identified themselves as French during the Hundred Years War?,the English,unanswerable,"[Passage 1]
+History of France
+
+[Passage 2]
+History of France
+
+[Passage 3]
+History of France
+
+[Passage 4]
+History of France
+
+[Passage 5]
+History of France",False,0.0,0.0,0.0,0,0.38219234,0.33252877,0.35563508,0.00265947706066072,True,0.042250245809555054,True
+105,What was absorbed into the Anglo-Norman language?,unanswerable,unanswerable,"[Passage 1]
+Anglo-Saxons
+
+[Passage 2]
+Anglo-Saxons
+
+[Passage 3]
+Anglo-Saxons
+
+[Passage 4]
+Anglo-Saxons
+
+[Passage 5]
+Anglo-Saxons",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.012640472501516342,True
+106,Who made fun of the Latin language?,unanswerable,unanswerable,"[Passage 1]
+Latin
+
+[Passage 2]
+Latin
+
+[Passage 3]
+Latin
+
+[Passage 4]
+Latin
+
+[Passage 5]
+Latin",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.00582438288256526,True
+107,In what year did the Norman's invade at Bannow Bay?,unanswerable,1169,"[Passage 1]
+William the Conqueror
+
+[Passage 2]
+William the Conqueror
+
+[Passage 3]
+William the Conqueror
+
+[Passage 4]
+William the Conqueror
+
+[Passage 5]
+William the Conqueror",True,0.0,0.0,0.0,0,0.34876114,0.39013204,0.3682884,0.008008540607988834,True,0.012081890366971493,True
+108,What country did the Normans invade in 1169?,France,Ireland,"[Passage 1]
+11th century
+
+[Passage 2]
+11th century
+
+[Passage 3]
+11th century
+
+[Passage 4]
+11th century
+
+[Passage 5]
+11th century",True,0.0,0.0,0.0,0,0.80299187,0.80299187,0.80299187,0.00025322323199361563,True,0.008559844456613064,True
+109,What culture did the Normans combine with in Ireland?,unanswerable,Irish,"[Passage 1]
+Celts
+
+[Passage 2]
+Celts
+
+[Passage 3]
+Celts
+
+[Passage 4]
+Celts
+
+[Passage 5]
+Celts",True,0.0,0.0,0.0,0,0.29803333,0.36968562,0.330015,0.006030348129570484,True,0.006217754911631346,True
+110,Where did the Normans invade in the 11th century?,Italy,unanswerable,"[Passage 1]
+11th century
+
+[Passage 2]
+11th century
+
+[Passage 3]
+11th century
+
+[Passage 4]
+11th century
+
+[Passage 5]
+11th century",False,0.0,0.0,0.0,0,0.3493758,0.27729136,0.3091877,0.0012391024501994252,True,0.013955255039036274,True
+111,Who did the Irish culture have a profound effect on?,unanswerable,unanswerable,"[Passage 1]
+Irish diaspora
+
+[Passage 2]
+Irish diaspora
+
+[Passage 3]
+Irish diaspora
+
+[Passage 4]
+Irish diaspora
+
+[Passage 5]
+Irish diaspora",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.004266703967005014,True
+112,What castles were built by the Irish?,unanswerable,unanswerable,"[Passage 1]
+Counties of Ireland
+
+[Passage 2]
+Counties of Ireland
+
+[Passage 3]
+Counties of Ireland
+
+[Passage 4]
+Counties of Ireland
+
+[Passage 5]
+Counties of Ireland",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.008411707356572151,True
+113,Who was Margaret's brother?,unanswerable,Edgar,"[Passage 1]
+Margaret Murray
+
+[Passage 2]
+Margaret Murray
+
+[Passage 3]
+Margaret Murray
+
+[Passage 4]
+Margaret Murray
+
+[Passage 5]
+Margaret Murray",True,0.0,0.0,0.0,0,0.27947697,0.43434757,0.340112,0.008065559901297092,True,0.010730922222137451,True
+114,Who was Margaret's husband?,unanswerable,King Malcolm III of Scotland,"[Passage 1]
+Margaret Murray
+
+[Passage 2]
+Margaret Murray
+
+[Passage 3]
+Margaret Murray
+
+[Passage 4]
+Margaret Murray
+
+[Passage 5]
+Margaret Murray",True,0.0,0.0,0.0,0,0.27900124,0.3789364,0.32137915,0.007353809662163258,True,0.010730922222137451,True
+115,When was Scotland invaded by William?,unanswerable,1072,"[Passage 1]
+William the Conqueror
+
+[Passage 2]
+William the Conqueror
+
+[Passage 3]
+William the Conqueror
+
+[Passage 4]
+William the Conqueror
+
+[Passage 5]
+William the Conqueror",True,0.0,0.0,0.0,0,0.35327804,0.40506235,0.37740213,0.0060607572086155415,True,0.012081890366971493,True
+116,Who was the hostage?,unanswerable,Duncan,"[Passage 1]
+The Prisoner
+
+[Passage 2]
+The Prisoner
+
+[Passage 3]
+The Prisoner
+
+[Passage 4]
+The Prisoner
+
+[Passage 5]
+The Prisoner",True,0.0,0.0,0.0,0,0.37834895,0.4326181,0.40366772,0.0039026830345392227,True,0.016350137069821358,True
+117,Who did Edgar marry?,unanswerable,unanswerable,"[Passage 1]
+J. Edgar Hoover
+
+[Passage 2]
+J. Edgar Hoover
+
+[Passage 3]
+J. Edgar Hoover
+
+[Passage 4]
+J. Edgar Hoover
+
+[Passage 5]
+J. Edgar Hoover",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.015769919380545616,True
+118,Who invaded Scotland in the 10th century?,unanswerable,unanswerable,"[Passage 1]
+10th century
+
+[Passage 2]
+10th century
+
+[Passage 3]
+History of Scotland
+
+[Passage 4]
+History of Scotland
+
+[Passage 5]
+History of Scotland",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.01409630011767149,True
+119,Who did the Scotish king take hostage?,unanswerable,unanswerable,"[Passage 1]
+Macbeth, King of Scotland
+
+[Passage 2]
+Macbeth, King of Scotland
+
+[Passage 3]
+Macbeth, King of Scotland
+
+[Passage 4]
+Macbeth, King of Scotland
+
+[Passage 5]
+Macbeth, King of Scotland",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.01164221204817295,True
+120,Who did Alexander I marry?,unanswerable,Sybilla of Normandy,"[Passage 1]
+Alexander I of Serbia
+
+[Passage 2]
+Alexander I of Serbia
+
+[Passage 3]
+Alexander I of Serbia
+
+[Passage 4]
+Alexander I of Serbia
+
+[Passage 5]
+Alexander I of Serbia",True,0.0,0.0,0.0,0,0.3660909,0.4441729,0.4013697,0.00047487890697084367,True,0.011463562957942486,True
+121,"What culture's arrival in Scotland is know as the ""Davidian Revolution""?",unanswerable,Norman,"[Passage 1]
+History of Scotland
+
+[Passage 2]
+History of Scotland
+
+[Passage 3]
+History of Scotland
+
+[Passage 4]
+History of Scotland
+
+[Passage 5]
+History of Scotland",True,0.0,0.0,0.0,0,0.37142062,0.3974166,0.3839791,0.0073821027763187885,True,0.00544924708083272,True
+122,Who did King David I of Scotland Marry?,unanswerable,unanswerable,"[Passage 1]
+Alexander I of Scotland
+
+[Passage 2]
+Alexander I of Scotland
+
+[Passage 3]
+Alexander I of Scotland
+
+[Passage 4]
+Alexander I of Scotland
+
+[Passage 5]
+Alexander I of Scotland",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.013268130831420422,True
+123,What did Sybilla of Normandy introduce to Scotland?,unanswerable,unanswerable,"[Passage 1]
+History of Scotland
+
+[Passage 2]
+History of Scotland
+
+[Passage 3]
+History of Scotland
+
+[Passage 4]
+History of Scotland
+
+[Passage 5]
+History of Scotland",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.00544924708083272,True
+124,Where was Ralph earl of?,unanswerable,Hereford,"[Passage 1]
+Ralph Cudworth
+
+[Passage 2]
+Ralph Cudworth
+
+[Passage 3]
+Ralph Cudworth
+
+[Passage 4]
+Ralph Cudworth
+
+[Passage 5]
+Ralph Cudworth",True,0.0,0.0,0.0,0,0.33757967,0.37782735,0.35657138,0.006913906428962946,True,0.013072001747786999,True
+125,Who was Ralph in charge of being at war with?,unanswerable,the Welsh,"[Passage 1]
+The War Game
+
+[Passage 2]
+The War Game
+
+[Passage 3]
+The War Game
+
+[Passage 4]
+The War Game
+
+[Passage 5]
+The War Game",True,0.0,0.0,0.0,0,0.33467317,0.3645187,0.34895894,0.0012720082886517048,True,0.013291221112012863,True
+126,Who made Ralph earl?,unanswerable,Edward the Confessor,"[Passage 1]
+Ralph Cudworth
+
+[Passage 2]
+Ralph Cudworth
+
+[Passage 3]
+Ralph Cudworth
+
+[Passage 4]
+Ralph Cudworth
+
+[Passage 5]
+Ralph Cudworth",True,0.0,0.0,0.0,0,0.2931139,0.43177825,0.34918353,0.0053252880461514,True,0.013072001747786999,True
+127,Who came into contact with Wales after the conquest of England?,unanswerable,unanswerable,"[Passage 1]
+England
+
+[Passage 2]
+England
+
+[Passage 3]
+England
+
+[Passage 4]
+England
+
+[Passage 5]
+England",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.008377988822758198,True
+128,Who made Edward the Confessor Earl?,unanswerable,unanswerable,"[Passage 1]
+Edward VI of England
+
+[Passage 2]
+Edward VI of England
+
+[Passage 3]
+Edward VI of England
+
+[Passage 4]
+Edward VI of England
+
+[Passage 5]
+Edward VI of England",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.026834648102521896,True
+129,What country was under the control of Norman barons?,England,Wales,"[Passage 1]
+Henry I of England
+
+[Passage 2]
+Henry I of England
+
+[Passage 3]
+Henry I of England
+
+[Passage 4]
+Henry I of England
+
+[Passage 5]
+Henry I of England",True,0.0,0.0,0.0,0,0.6548349,0.6225945,0.63830787,0.0005366892437450588,True,0.8739262223243713,False
+130,What came under Williams dominace before the conquest?,unanswerable,unanswerable,"[Passage 1]
+Reconquista
+
+[Passage 2]
+Reconquista
+
+[Passage 3]
+Reconquista
+
+[Passage 4]
+Reconquista
+
+[Passage 5]
+Reconquista",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.0068274294026196,True
+131,What Welsh lords did William conquer?,unanswerable,unanswerable,"[Passage 1]
+William the Conqueror
+
+[Passage 2]
+William the Conqueror
+
+[Passage 3]
+William the Conqueror
+
+[Passage 4]
+William the Conqueror
+
+[Passage 5]
+William the Conqueror",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.012081890366971493,True
+132,What year did Roger de Tosny fail to accomplish what he set out to do?,unanswerable,1018,"[Passage 1]
+René Descartes
+
+[Passage 2]
+René Descartes
+
+[Passage 3]
+René Descartes
+
+[Passage 4]
+René Descartes
+
+[Passage 5]
+René Descartes",True,0.0,0.0,0.0,0,0.3486738,0.3853497,0.3660955,0.0032018888741731644,True,0.020114943385124207,True
+133,Who was in charge of the papal army in the War of Barbastro?,unanswerable,William of Montreuil,"[Passage 1]
+Pope
+
+[Passage 2]
+Pope
+
+[Passage 3]
+Pope
+
+[Passage 4]
+Pope
+
+[Passage 5]
+Pope",True,0.0,0.0,0.0,0,0.31020784,0.37847155,0.34095645,0.00037430404336191714,True,0.011058539152145386,True
+134,Where did the Normans carve out a principality before the First Crusade?,Guernsey,unanswerable,"[Passage 1]
+History of Guernsey
+
+[Passage 2]
+History of Guernsey
+
+[Passage 3]
+History of Guernsey
+
+[Passage 4]
+History of Guernsey
+
+[Passage 5]
+History of Guernsey",False,0.0,0.0,0.0,0,0.37693882,0.37855607,0.37774572,0.0010768118081614375,True,0.9223623275756836,False
+135,What did the Normans take part in in the 10th century?,unanswerable,unanswerable,"[Passage 1]
+10th century
+
+[Passage 2]
+10th century
+
+[Passage 3]
+11th century
+
+[Passage 4]
+11th century
+
+[Passage 5]
+11th century",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.009944130666553974,True
+136,Who carved out a state for himself from Moorish lands?,unanswerable,unanswerable,"[Passage 1]
+State (polity)
+
+[Passage 2]
+State (polity)
+
+[Passage 3]
+State (polity)
+
+[Passage 4]
+State (polity)
+
+[Passage 5]
+State (polity)",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.014801984652876854,True
+137,What war occured in the 1oth century?,unanswerable,unanswerable,"[Passage 1]
+1st century
+
+[Passage 2]
+1st century
+
+[Passage 3]
+1st century
+
+[Passage 4]
+1st century BC
+
+[Passage 5]
+1st century BC",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.01363353244960308,True
+138,When did the Siege of Antioch take place?,unanswerable,1097,"[Passage 1]
+Antioch
+
+[Passage 2]
+Antioch
+
+[Passage 3]
+Antioch
+
+[Passage 4]
+Antioch
+
+[Passage 5]
+Antioch",True,0.0,0.0,0.0,0,0.3559013,0.4005848,0.3769234,0.013560216873884201,True,0.012210370041429996,True
+139,What was the name of Bohemond's nephew?,unanswerable,Tancred,"[Passage 1]
+Elias Boudinot
+
+[Passage 2]
+Elias Boudinot
+
+[Passage 3]
+Elias Boudinot
+
+[Passage 4]
+Elias Boudinot
+
+[Passage 5]
+Elias Boudinot",True,0.0,0.0,0.0,0,0.38513923,0.4031099,0.39391974,0.007618972100317478,True,0.011307899840176105,True
+140,What major conquest did Tancred play a roll in?,unanswerable,Jerusalem,"[Passage 1]
+Muslim conquests of Afghanistan
+
+[Passage 2]
+Muslim conquests of Afghanistan
+
+[Passage 3]
+Muslim conquests of Afghanistan
+
+[Passage 4]
+Muslim conquests of Afghanistan
+
+[Passage 5]
+Muslim conquests of Afghanistan",True,0.0,0.0,0.0,0,0.3786243,0.42259243,0.39940196,0.012824233621358871,True,0.0013101062504574656,True
+141,When did Tancred lay siege to Antioch?,unanswerable,unanswerable,"[Passage 1]
+Antioch
+
+[Passage 2]
+Antioch
+
+[Passage 3]
+Antioch
+
+[Passage 4]
+Antioch
+
+[Passage 5]
+Antioch",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.012210370041429996,True
+142,What was the name of Tancred's nephew?,unanswerable,unanswerable,"[Passage 1]
+The Saint (Simon Templar)
+
+[Passage 2]
+The Saint (Simon Templar)
+
+[Passage 3]
+The Saint (Simon Templar)
+
+[Passage 4]
+The Saint (Simon Templar)
+
+[Passage 5]
+The Saint (Simon Templar)",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.016382012516260147,True
+143,How long did Western Europe control Cyprus?,unanswerable,380 years,"[Passage 1]
+Cyprus
+
+[Passage 2]
+Cyprus
+
+[Passage 3]
+Cyprus
+
+[Passage 4]
+Cyprus
+
+[Passage 5]
+Cyprus",True,0.0,0.0,0.0,0,0.3252054,0.34676492,0.3356393,0.0005151071818545461,True,0.005008642561733723,True
+144,Who defeated Anglo-Norman forces during the third Crusade?,unanswerable,unanswerable,"[Passage 1]
+Malcolm III of Scotland
+
+[Passage 2]
+Malcolm III of Scotland
+
+[Passage 3]
+Malcolm III of Scotland
+
+[Passage 4]
+Malcolm III of Scotland
+
+[Passage 5]
+Malcolm III of Scotland",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.015819348394870758,True
+145,Who dominated Western Europe for 380 years?,unanswerable,unanswerable,"[Passage 1]
+Western Europe
+
+[Passage 2]
+Western Europe
+
+[Passage 3]
+Western Europe
+
+[Passage 4]
+Western Europe
+
+[Passage 5]
+Western Europe",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.006320346612483263,True
+146,What ruined Richard's plans to reach Acre?,unanswerable,a storm,"[Passage 1]
+Richard III of England
+
+[Passage 2]
+Richard III of England
+
+[Passage 3]
+Richard III of England
+
+[Passage 4]
+Richard III of England
+
+[Passage 5]
+Richard III of England",True,0.0,0.0,0.0,0,0.38989,0.41994858,0.4043615,0.0019283564761281013,True,0.02588764950633049,True
+147,Who was Richard's fiancee?,unanswerable,Berengaria,"[Passage 1]
+Richard III of England
+
+[Passage 2]
+Richard III of England
+
+[Passage 3]
+Richard III of England
+
+[Passage 4]
+Richard III of England
+
+[Passage 5]
+Richard III of England",True,0.0,0.0,0.0,0,0.39098164,0.40494257,0.39783967,0.0010147426510229707,True,0.02588764950633049,True
+148,What year did the storm hit Richard's fleet?,unanswerable,1191,"[Passage 1]
+Richard III of England
+
+[Passage 2]
+Richard III of England
+
+[Passage 3]
+Richard III of England
+
+[Passage 4]
+Richard III of England
+
+[Passage 5]
+Richard III of England",True,0.0,0.0,0.0,0,0.331483,0.3606079,0.34543264,0.004904639441519976,True,0.02588764950633049,True
+149,Who ruled Cyprus in 1191?,Richard I of England,Isaac Komnenos,"[Passage 1]
+Cyprus
+
+[Passage 2]
+Cyprus
+
+[Passage 3]
+Cyprus
+
+[Passage 4]
+Cyprus
+
+[Passage 5]
+Cyprus",True,0.0,0.0,0.0,0,0.60423535,0.6107987,0.60749936,5.546761167352088e-05,True,3.270718298153952e-05,True
+150,Who left Messina in the 11th century?,unanswerable,unanswerable,"[Passage 1]
+11th century
+
+[Passage 2]
+11th century
+
+[Passage 3]
+11th century
+
+[Passage 4]
+11th century
+
+[Passage 5]
+11th century",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.008511114865541458,True
+151,What year did Richards fleet avoid a storm?,unanswerable,unanswerable,"[Passage 1]
+Mariner 6 and 7
+
+[Passage 2]
+Mariner 6 and 7
+
+[Passage 3]
+Mariner 6 and 7
+
+[Passage 4]
+Mariner 6 and 7
+
+[Passage 5]
+Mariner 6 and 7",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.00591990165412426,True
+152,Who ruled Cyprus in the 11th century?,unanswerable,unanswerable,"[Passage 1]
+11th century
+
+[Passage 2]
+11th century
+
+[Passage 3]
+11th century
+
+[Passage 4]
+11th century
+
+[Passage 5]
+11th century",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.008511114865541458,True
+153,Who was Guy's Rival?,unanswerable,Conrad of Montferrat,"[Passage 1]
+Perfect competition
+
+[Passage 2]
+Perfect competition
+
+[Passage 3]
+Perfect competition
+
+[Passage 4]
+Perfect competition
+
+[Passage 5]
+Perfect competition",True,0.0,0.0,0.0,0,0.35076723,0.41933078,0.38199684,0.0004016500315628946,True,0.003066442674025893,True
+154,What were Isaac's chains made out of?,silver,silver,"[Passage 1]
+Isaac
+
+[Passage 2]
+Isaac
+
+[Passage 3]
+Isaac
+
+[Passage 4]
+Isaac
+
+[Passage 5]
+Isaac",True,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9799355268478394,False,0.0053456686437129974,True
+155,Who led Richard's troops when Cyprus was conquered?,unanswerable,Guy de Lusignan,"[Passage 1]
+Richard I of England
+
+[Passage 2]
+Richard I of England
+
+[Passage 3]
+Richard I of England
+
+[Passage 4]
+Richard I of England
+
+[Passage 5]
+Richard I of England",True,0.0,0.0,0.0,0,0.3128426,0.3716349,0.3397138,0.0005822947714477777,True,0.017092125490307808,True
+156,Who's chains were made out of copper?,unanswerable,unanswerable,"[Passage 1]
+Silver
+
+[Passage 2]
+Silver
+
+[Passage 3]
+Silver
+
+[Passage 4]
+Silver
+
+[Passage 5]
+Silver",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.012196402996778488,True
+157,Who led Issacs troops to Cyprus?,unanswerable,unanswerable,"[Passage 1]
+Cyprus
+
+[Passage 2]
+Cyprus
+
+[Passage 3]
+Cyprus
+
+[Passage 4]
+Cyprus
+
+[Passage 5]
+Cyprus",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.005008642561733723,True
+158,Who offered Issac his daughter?,unanswerable,unanswerable,"[Passage 1]
+Obadiah
+
+[Passage 2]
+Obadiah
+
+[Passage 3]
+Obadiah
+
+[Passage 4]
+Obadiah
+
+[Passage 5]
+Obadiah",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.009324598126113415,True
+159,What continent are the Canarian Islands off the coast of?,Europe,Africa,"[Passage 1]
+Canary Islands
+
+[Passage 2]
+Canary Islands
+
+[Passage 3]
+Canary Islands
+
+[Passage 4]
+Canary Islands
+
+[Passage 5]
+Canary Islands",True,0.0,0.0,0.0,0,0.6632518,0.64579844,0.65440875,0.0003101233742199838,True,0.005704003386199474,True
+160,Who conquered the Canary Island in the 14th century?,unanswerable,unanswerable,"[Passage 1]
+Canary Islands
+
+[Passage 2]
+Canary Islands
+
+[Passage 3]
+Canary Islands
+
+[Passage 4]
+Canary Islands
+
+[Passage 5]
+Canary Islands",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.004430943634361029,True
+161,What Islands are of the coast of Asia?,unanswerable,unanswerable,"[Passage 1]
+Asia
+
+[Passage 2]
+Asia
+
+[Passage 3]
+Asia
+
+[Passage 4]
+Asia
+
+[Passage 5]
+Asia",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.004063842352479696,True
+162,Who became the King of the Canary Islands?,unanswerable,Bethencourt,"[Passage 1]
+Canary Islands
+
+[Passage 2]
+Canary Islands
+
+[Passage 3]
+Canary Islands
+
+[Passage 4]
+Canary Islands
+
+[Passage 5]
+Canary Islands",True,0.0,0.0,0.0,0,0.32763508,0.35927153,0.3427248,0.0011827544076368213,True,0.004430943634361029,True
+163,Who bought the rights?,unanswerable,Enrique Pérez de Guzmán,"[Passage 1]
+Cross ownership
+
+[Passage 2]
+Cross ownership
+
+[Passage 3]
+Cross ownership
+
+[Passage 4]
+Cross ownership
+
+[Passage 5]
+Acquire",True,0.0,0.0,0.0,0,0.3351688,0.36380154,0.34889874,0.004313751123845577,True,0.0076303500682115555,True
+164,Who sold the rights?,unanswerable,Maciot de Bethencourt,"[Passage 1]
+Cross ownership
+
+[Passage 2]
+Cross ownership
+
+[Passage 3]
+Cross ownership
+
+[Passage 4]
+Cross ownership
+
+[Passage 5]
+Motion Picture Patents Company",True,0.0,0.0,0.0,0,0.3212225,0.38532072,0.35036412,0.00029387042741291225,True,0.00120390800293535,True
+165,What title did Henry II take in the Canary Island?,unanswerable,unanswerable,"[Passage 1]
+Canary Islands
+
+[Passage 2]
+Canary Islands
+
+[Passage 3]
+Canary Islands
+
+[Passage 4]
+Canary Islands
+
+[Passage 5]
+Canary Islands",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.004430943634361029,True
+166,Who sold the rights to the island in the 14th century?,unanswerable,unanswerable,"[Passage 1]
+14th century
+
+[Passage 2]
+14th century
+
+[Passage 3]
+14 BC
+
+[Passage 4]
+14 BC
+
+[Passage 5]
+1280s",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.011677125468850136,True
+167,Where are Jersey and Guernsey,Isle of Man,Channel Islands,"[Passage 1]
+Guernsey
+
+[Passage 2]
+Guernsey
+
+[Passage 3]
+Guernsey
+
+[Passage 4]
+Guernsey
+
+[Passage 5]
+Guernsey",True,0.0,0.0,0.0,0,0.6335275,0.61126167,0.6221955,0.0009244749671779573,True,0.002685458166524768,True
+168,How many customaries does Norman customary law have?,unanswerable,two,"[Passage 1]
+Statute
+
+[Passage 2]
+Statute
+
+[Passage 3]
+Statute
+
+[Passage 4]
+Statute
+
+[Passage 5]
+Statute",True,0.0,0.0,0.0,0,0.2865064,0.4000624,0.33389354,0.00849947240203619,True,0.0031328247860074043,True
+169,What Norman law wasdeveloped between 1000 and 1300?,Norman law,unanswerable,"[Passage 1]
+11th century
+
+[Passage 2]
+11th century
+
+[Passage 3]
+11th century
+
+[Passage 4]
+11th century
+
+[Passage 5]
+11th century",False,0.0,0.0,0.0,0,0.3994162,0.4023672,0.40088627,0.00037521490594372153,True,0.002708087908104062,True
+170,What law has 3 customeries?,Clarke's three laws,unanswerable,"[Passage 1]
+Clarke's three laws
+
+[Passage 2]
+Clarke's three laws
+
+[Passage 3]
+Clarke's three laws
+
+[Passage 4]
+Clarke's three laws
+
+[Passage 5]
+Clarke's three laws",False,0.0,0.0,0.0,0,0.35383242,0.38795665,0.37010962,0.0012132753618061543,True,0.9755303859710693,False
+171,What was authored in the 12th century?,unanswerable,unanswerable,"[Passage 1]
+11th century
+
+[Passage 2]
+11th century
+
+[Passage 3]
+11th century
+
+[Passage 4]
+11th century
+
+[Passage 5]
+11th century",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.008511114865541458,True
+172,What is the Norman architecture idiom?,unanswerable,Romanesque,"[Passage 1]
+Dictum of Kenilworth
+
+[Passage 2]
+Dictum of Kenilworth
+
+[Passage 3]
+Dictum of Kenilworth
+
+[Passage 4]
+Dictum of Kenilworth
+
+[Passage 5]
+Dictum of Kenilworth",True,0.0,0.0,0.0,0,0.39217395,0.457367,0.42226905,0.13685423135757446,True,0.004354776348918676,True
+173,What kind of arches does Norman architecture have?,unanswerable,rounded,"[Passage 1]
+Delicate Arch
+
+[Passage 2]
+Delicate Arch
+
+[Passage 3]
+Delicate Arch
+
+[Passage 4]
+Delicate Arch
+
+[Passage 5]
+Delicate Arch",True,0.0,0.0,0.0,0,0.33162326,0.36281022,0.34651643,0.006273551378399134,True,0.010283438488841057,True
+174,What type of arch did the Normans invent?,unanswerable,unanswerable,"[Passage 1]
+Delicate Arch
+
+[Passage 2]
+Delicate Arch
+
+[Passage 3]
+Delicate Arch
+
+[Passage 4]
+Delicate Arch
+
+[Passage 5]
+Delicate Arch",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.010283438488841057,True
+175,What architecture type came after Norman in England?,Gothic,Early Gothic,"[Passage 1]
+History of England
+
+[Passage 2]
+History of England
+
+[Passage 3]
+History of England
+
+[Passage 4]
+History of England
+
+[Passage 5]
+History of England",True,0.6666666666666666,0.0,0.6666666666666666,0,0.39623892,0.5280107,0.45273134,0.9479137063026428,False,0.006679283920675516,True
+176,What architecture type came before Norman in England?,unanswerable,Anglo-Saxon,"[Passage 1]
+History of England
+
+[Passage 2]
+History of England
+
+[Passage 3]
+History of England
+
+[Passage 4]
+History of England
+
+[Passage 5]
+History of England",True,0.0,0.0,0.0,0,0.40314406,0.45396268,0.42704684,0.0012391033815219998,True,0.0070216418243944645,True
+177,What place had the Norman Arab architectural style?,unanswerable,Sicily,"[Passage 1]
+Arabs
+
+[Passage 2]
+Arabs
+
+[Passage 3]
+Arabs
+
+[Passage 4]
+Arabs
+
+[Passage 5]
+Arabs",True,0.0,0.0,0.0,0,0.37253022,0.37290457,0.37271732,0.0028728621546179056,True,0.00775583740323782,True
+178,What precedes the period of Anglo-Saxon architecture?,Ireland,unanswerable,"[Passage 1]
+Anglo-Saxons
+
+[Passage 2]
+Anglo-Saxons
+
+[Passage 3]
+Anglo-Saxons
+
+[Passage 4]
+Anglo-Saxons
+
+[Passage 5]
+Anglo-Saxons",False,0.0,0.0,0.0,0,0.37411052,0.31309557,0.34089437,0.0013069360284134746,True,0.015961525961756706,True
+179,What architecture type came after Early Gothic?,High Gothic,unanswerable,"[Passage 1]
+Goths
+
+[Passage 2]
+Goths
+
+[Passage 3]
+Goths
+
+[Passage 4]
+Goths
+
+[Passage 5]
+Goths",False,0.0,0.0,0.0,0,0.44012982,0.30476284,0.36014643,0.016142839565873146,True,0.0043389149941504,True
+180,"Who incorperated Islamic, LOmbard, and Byzantine building techniques in England?",unanswerable,unanswerable,"[Passage 1]
+Tower of London
+
+[Passage 2]
+Tower of London
+
+[Passage 3]
+Tower of London
+
+[Passage 4]
+Tower of London
+
+[Passage 5]
+Tower of London",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.005136311054229736,True
+181,When did the church reform begin?,unanswerable,early 11th century,"[Passage 1]
+Reformation
+
+[Passage 2]
+Reformation
+
+[Passage 3]
+Reformation
+
+[Passage 4]
+Reformation
+
+[Passage 5]
+Reformation",True,0.0,0.0,0.0,0,0.3120438,0.43417463,0.36311483,0.006506053730845451,True,0.0025745409075170755,True
+182,Who used the church to unify themselves?,Churches Uniting in Christ,dukes,"[Passage 1]
+Churches Uniting in Christ
+
+[Passage 2]
+Churches Uniting in Christ
+
+[Passage 3]
+Churches Uniting in Christ
+
+[Passage 4]
+Churches Uniting in Christ
+
+[Passage 5]
+Churches Uniting in Christ",True,0.0,0.0,0.0,0,0.41203666,0.4268589,0.41931686,0.09204759448766708,True,0.9324845671653748,False
+183,What kind of art did the Normans have a rich tradition of?,unanswerable,unanswerable,"[Passage 1]
+Tradition
+
+[Passage 2]
+Tradition
+
+[Passage 3]
+Tradition
+
+[Passage 4]
+Tradition
+
+[Passage 5]
+Tradition",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.003204459324479103,True
+184,Who began a program of church reform in the 1100s,unanswerable,unanswerable,"[Passage 1]
+11th century
+
+[Passage 2]
+11th century
+
+[Passage 3]
+11th century
+
+[Passage 4]
+11th century
+
+[Passage 5]
+11th century",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.008511114865541458,True
+185,Who was divided by the church?,unanswerable,unanswerable,"[Passage 1]
+Sect
+
+[Passage 2]
+Sect
+
+[Passage 3]
+Sect
+
+[Passage 4]
+Sect
+
+[Passage 5]
+Sect",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.0022773456294089556,True
+186,Who experienced aa golden age in the 1100s and 1200s,unanswerable,unanswerable,"[Passage 1]
+11th century
+
+[Passage 2]
+11th century
+
+[Passage 3]
+11th century
+
+[Passage 4]
+11th century
+
+[Passage 5]
+11th century",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.008511114865541458,True
+187,When were the French wars of religion?,unanswerable,16th century,"[Passage 1]
+History of France
+
+[Passage 2]
+History of France
+
+[Passage 3]
+History of France
+
+[Passage 4]
+History of France
+
+[Passage 5]
+History of France",True,0.0,0.0,0.0,0,0.28378195,0.45694125,0.35012183,0.002441366435959935,True,0.004040954634547234,True
+188,What wars did France fight in the 1600s?,unanswerable,unanswerable,"[Passage 1]
+History of France
+
+[Passage 2]
+History of France
+
+[Passage 3]
+History of France
+
+[Passage 4]
+History of France
+
+[Passage 5]
+History of France",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.004040954634547234,True
+189,What revolution was fought in the 1899's?,unanswerable,unanswerable,"[Passage 1]
+Revolution
+
+[Passage 2]
+Revolution
+
+[Passage 3]
+Revolution
+
+[Passage 4]
+Revolution
+
+[Passage 5]
+Revolution",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.0017980342963710427,True
+190,What kind of needlework was used in the creation of the Bayeux Tapestry?,embroidery,embroidery,"[Passage 1]
+Embroidery
+
+[Passage 2]
+Embroidery
+
+[Passage 3]
+Embroidery
+
+[Passage 4]
+Embroidery
+
+[Passage 5]
+Embroidery",True,1.0,0.0,1.0,1,0.99999994,0.99999994,0.99999994,0.9758874773979187,False,0.8200200796127319,False
+191,What is Norman art's most well known piece?,unanswerable,Bayeux Tapestry,"[Passage 1]
+Art
+
+[Passage 2]
+Art
+
+[Passage 3]
+Art
+
+[Passage 4]
+Art
+
+[Passage 5]
+Art",True,0.0,0.0,0.0,0,0.37555647,0.4906462,0.4254555,0.002968398155644536,True,0.00919632613658905,True
+192,Who commissioned the Tapestry?,unanswerable,Odo,"[Passage 1]
+History painting
+
+[Passage 2]
+History painting
+
+[Passage 3]
+History painting
+
+[Passage 4]
+History painting
+
+[Passage 5]
+History painting",True,0.0,0.0,0.0,0,0.37402338,0.40477496,0.38879207,0.0270664244890213,True,0.0031915055587887764,True
+193,What is the oldest work of Norman art?,unanswerable,unanswerable,"[Passage 1]
+Art
+
+[Passage 2]
+Art
+
+[Passage 3]
+Art
+
+[Passage 4]
+Art
+
+[Passage 5]
+Art",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.00919632613658905,True
+194,Who commissioned Danish vikings to create the Bayeux Tapestry?,unanswerable,unanswerable,"[Passage 1]
+Vikings
+
+[Passage 2]
+Vikings
+
+[Passage 3]
+Vikings
+
+[Passage 4]
+Vikings
+
+[Passage 5]
+Vikings",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.007578291930258274,True
+195,What is the most important type of Norman art preserved in churches?,unanswerable,mosaics,"[Passage 1]
+Church of England
+
+[Passage 2]
+Church of England
+
+[Passage 3]
+Church of England
+
+[Passage 4]
+Church of England
+
+[Passage 5]
+Church of England",True,0.0,0.0,0.0,0,0.3783732,0.5132092,0.43559542,0.003910529427230358,True,0.007313254289329052,True
+196,How has British art survived in Normandy?,unanswerable,unanswerable,"[Passage 1]
+Normandy
+
+[Passage 2]
+Normandy
+
+[Passage 3]
+Normandy
+
+[Passage 4]
+Normandy
+
+[Passage 5]
+Normandy",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.006681795231997967,True
+197,What is the most common form of Norman art in churches?,unanswerable,unanswerable,"[Passage 1]
+Church of England
+
+[Passage 2]
+Church of England
+
+[Passage 3]
+Church of England
+
+[Passage 4]
+Church of England
+
+[Passage 5]
+Church of England",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.007313254289329052,True
+198,What was a centre of ivorywork in the 1100s?,unanswerable,unanswerable,"[Passage 1]
+11th century
+
+[Passage 2]
+11th century
+
+[Passage 3]
+11th century
+
+[Passage 4]
+11th century
+
+[Passage 5]
+11th century",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.008511114865541458,True
+199,In what century did important classical music developments occur in Normandy?,18th century,11th,"[Passage 1]
+Normandy
+
+[Passage 2]
+Normandy
+
+[Passage 3]
+Normandy
+
+[Passage 4]
+Normandy
+
+[Passage 5]
+Normandy",True,0.0,0.0,0.0,0,0.62290823,0.56870973,0.5945764,0.0005173616809770465,True,0.09346122294664383,True
+200,Who were the two abbots at Fécamp Abbey?,unanswerable,William of Volpiano and John of Ravenna,"[Passage 1]
+Abbot
+
+[Passage 2]
+Abbot
+
+[Passage 3]
+Abbot
+
+[Passage 4]
+Abbot
+
+[Passage 5]
+Abbot",True,0.0,0.0,0.0,0,0.28564852,0.3736034,0.32375866,0.00028974085580557585,True,0.006056902930140495,True
+201,What developed in Normandy during the 1100s?,the Duchy of Normandy,unanswerable,"[Passage 1]
+Normandy
+
+[Passage 2]
+Normandy
+
+[Passage 3]
+Normandy
+
+[Passage 4]
+Normandy
+
+[Passage 5]
+Normandy",False,0.0,0.0,0.0,0,0.4455106,0.3510648,0.39268872,0.01578141748905182,True,0.25340354442596436,True
+202,What was Fecamp Abby the center of?,unanswerable,unanswerable,"[Passage 1]
+The Center
+
+[Passage 2]
+The Center
+
+[Passage 3]
+The Center
+
+[Passage 4]
+The Center
+
+[Passage 5]
+Abigail",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.006768594030290842,True
+203,Where did the monks flee to?,unanswerable,southern Italy,"[Passage 1]
+Pilgrimage
+
+[Passage 2]
+Pilgrimage
+
+[Passage 3]
+Pilgrimage
+
+[Passage 4]
+Pilgrimage
+
+[Passage 5]
+Pilgrimage",True,0.0,0.0,0.0,0,0.34322745,0.3672299,0.35482323,0.006898663938045502,True,0.0014193108072504401,True
+204,What monastery did the Saint-Evroul monks establish in Italy?,unanswerable,Latin monastery at Sant'Eufemia.,"[Passage 1]
+Monasticism
+
+[Passage 2]
+Monasticism
+
+[Passage 3]
+Monasticism
+
+[Passage 4]
+Monasticism
+
+[Passage 5]
+Monasticism",True,0.0,0.0,0.0,0,0.3098048,0.4248039,0.35830313,0.00048491699271835387,True,0.005068647675216198,True
+205,Who patronized the monks in Italy? ,unanswerable,Robert Guiscard,"[Passage 1]
+Benedictines
+
+[Passage 2]
+Benedictines
+
+[Passage 3]
+Benedictines
+
+[Passage 4]
+Benedictines
+
+[Passage 5]
+Benedictines",True,0.0,0.0,0.0,0,0.33566368,0.47156742,0.39217535,0.0009218839113600552,True,0.009894377551972866,True
+206,What tradition were the Saint-Evroul monks known for?,unanswerable,singing,"[Passage 1]
+Monasticism
+
+[Passage 2]
+Monasticism
+
+[Passage 3]
+Monasticism
+
+[Passage 4]
+Monasticism
+
+[Passage 5]
+Monasticism",True,0.0,0.0,0.0,0,0.4086054,0.39776814,0.40311396,0.006909437943249941,True,0.005068647675216198,True
+207,Who fled from southern Italy?,unanswerable,unanswerable,"[Passage 1]
+Italy
+
+[Passage 2]
+Italy
+
+[Passage 3]
+Italy
+
+[Passage 4]
+Italy
+
+[Passage 5]
+Italy",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.007699454203248024,True
+208,What branch of theoretical computer science deals with broadly classifying computational problems by difficulty and class of relationship?,complexity theory,Computational complexity theory,"[Passage 1]
+Computer science
+
+[Passage 2]
+Computer science
+
+[Passage 3]
+Computer science
+
+[Passage 4]
+Computer science
+
+[Passage 5]
+Computer science",True,0.8,0.6666666666666666,0.8,0,0.8842136,0.7892804,0.8340543,0.4084036946296692,False,0.0003294455527793616,True
+209,By what main attribute are computational problems classified utilizing computational complexity theory? ,main attribute,inherent difficulty,"[Passage 1]
+Computational complexity
+
+[Passage 2]
+Computational complexity
+
+[Passage 3]
+Computational complexity
+
+[Passage 4]
+Computational complexity
+
+[Passage 5]
+Computational complexity",True,0.0,0.0,0.0,0,0.48885858,0.47046947,0.47948778,0.8580048680305481,False,0.05785052105784416,True
+210,What is the term for a task that generally lends itself to being solved by a computer?,computation,computational problems,"[Passage 1]
+Computing
+
+[Passage 2]
+Computing
+
+[Passage 3]
+Computing
+
+[Passage 4]
+Computing
+
+[Passage 5]
+Computing",True,0.6666666666666666,0.0,0.6666666666666666,0,0.7244086,0.71744907,0.72091204,0.8545284271240234,False,0.4735516905784607,False
+211,What is computational complexity principle?,unanswerable,unanswerable,"[Passage 1]
+Computational complexity
+
+[Passage 2]
+Computational complexity
+
+[Passage 3]
+Computational complexity
+
+[Passage 4]
+Computational complexity
+
+[Passage 5]
+Computational complexity",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.0009421533904969692,True
+212,What branch of theoretical computer class deals with broadly classifying computational problems by difficulty and class of relationship?,class (computer programming),unanswerable,"[Passage 1]
+Class (computer programming)
+
+[Passage 2]
+Class (computer programming)
+
+[Passage 3]
+Class (computer programming)
+
+[Passage 4]
+Class (computer programming)
+
+[Passage 5]
+Class (computer programming)",False,0.0,0.0,0.0,0,0.4050011,0.31673872,0.35547307,0.028579890727996826,True,0.9890605211257935,False
+213,What is understood to be a task that is in principle not amendable to being solved by a computer?,unanswerable,unanswerable,"[Passage 1]
+Computing
+
+[Passage 2]
+Computing
+
+[Passage 3]
+Computing
+
+[Passage 4]
+Computing
+
+[Passage 5]
+Computing",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.004374338313937187,True
+214, What cannot be solved by mechanical application of mathematical steps?,unanswerable,unanswerable,"[Passage 1]
+Mechanics
+
+[Passage 2]
+Mechanics
+
+[Passage 3]
+Mechanics
+
+[Passage 4]
+Mechanics
+
+[Passage 5]
+Mechanics",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.005468349903821945,True
+215,What is a manual application of mathematical steps?,unanswerable,unanswerable,"[Passage 1]
+Mathematical model
+
+[Passage 2]
+Mathematical model
+
+[Passage 3]
+Mathematical model
+
+[Passage 4]
+Mathematical model
+
+[Passage 5]
+Mathematical model",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.0013399820309132338,True
+216,What measure of a computational problem broadly defines the inherent difficulty of the solution?,inherent difficulty of the solution,if its solution requires significant resources,"[Passage 1]
+Computational complexity
+
+[Passage 2]
+Computational complexity
+
+[Passage 3]
+Computational complexity
+
+[Passage 4]
+Computational complexity
+
+[Passage 5]
+Computational complexity",True,0.1818181818181818,0.0,0.1818181818181818,0,0.6190907,0.6274132,0.6232242,0.0021535486448556185,True,0.17645952105522156,True
+217,What method is used to intuitively assess or quantify the amount of resources required to solve a computational problem?,unanswerable,mathematical models of computation,"[Passage 1]
+Computational complexity
+
+[Passage 2]
+Computational complexity
+
+[Passage 3]
+Computational complexity
+
+[Passage 4]
+Computational complexity
+
+[Passage 5]
+Computation",True,0.0,0.0,0.0,0,0.44213998,0.46818572,0.45479023,0.00030154449632391334,True,0.0008159957942552865,True
+218,What are two basic primary resources used to guage complexity?,unanswerable,time and storage,"[Passage 1]
+Complexity
+
+[Passage 2]
+Complexity
+
+[Passage 3]
+Complexity
+
+[Passage 4]
+Complexity
+
+[Passage 5]
+Complexity",True,0.0,0.0,0.0,0,0.34893376,0.36889294,0.35863584,0.00026746257208287716,True,0.0014574796659871936,True
+219,What unit is measured to determine circuit complexity?,unanswerable,number of gates in a circuit,"[Passage 1]
+Complexity
+
+[Passage 2]
+Complexity
+
+[Passage 3]
+Complexity
+
+[Passage 4]
+Complexity
+
+[Passage 5]
+Complexity",True,0.0,0.0,0.0,0,0.34200978,0.40889168,0.3724722,0.0010785479098558426,True,0.0014574796659871936,True
+220,What practical role does defining the complexity of problems play in everyday computing?,unanswerable,determine the practical limits on what computers can and cannot do,"[Passage 1]
+Computational complexity
+
+[Passage 2]
+Computational complexity
+
+[Passage 3]
+Computational complexity
+
+[Passage 4]
+Computational complexity
+
+[Passage 5]
+Computational complexity",True,0.0,0.0,0.0,0,0.38069457,0.39322418,0.38685793,0.00020108534954488277,True,0.0009421533904969692,True
+221,What measure of computational problem broadly defines the inherent simplicity of the solution?,unanswerable,unanswerable,"[Passage 1]
+Computational complexity
+
+[Passage 2]
+Computational complexity
+
+[Passage 3]
+Computational complexity
+
+[Passage 4]
+Computational complexity
+
+[Passage 5]
+Computational complexity",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.0009421533904969692,True
+222,What method is not used to intuitively assess or quantify the amount of resources required to solve a computational problem??,unanswerable,unanswerable,"[Passage 1]
+Computational complexity
+
+[Passage 2]
+Computational complexity
+
+[Passage 3]
+Computational complexity
+
+[Passage 4]
+Computational complexity
+
+[Passage 5]
+Computation",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.0008159957942552865,True
+223,What are three basic primary resources used to gauge complexity?,unanswerable,unanswerable,"[Passage 1]
+Complexity
+
+[Passage 2]
+Complexity
+
+[Passage 3]
+Complexity
+
+[Passage 4]
+Complexity
+
+[Passage 5]
+Complexity",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.0014574796659871936,True
+224,What unit is measured to determine circuit simplicity?,unanswerable,unanswerable,"[Passage 1]
+Measurement
+
+[Passage 2]
+Measurement
+
+[Passage 3]
+Measurement
+
+[Passage 4]
+Measurement
+
+[Passage 5]
+Measurement",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.004555120598524809,True
+225,What number is used in perpendicular computing?,unanswerable,unanswerable,"[Passage 1]
+Zero-based numbering
+
+[Passage 2]
+Zero-based numbering
+
+[Passage 3]
+Zero-based numbering
+
+[Passage 4]
+Zero-based numbering
+
+[Passage 5]
+Zero-based numbering",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.0014450845774263144,True
+226,What two fields of theoretical computer science closely mirror computational complexity theory?,theoretical analysis of algorithms,analysis of algorithms and computability theory,"[Passage 1]
+Computational complexity theory
+
+[Passage 2]
+Computational complexity theory
+
+[Passage 3]
+Computational complexity theory
+
+[Passage 4]
+Computational complexity theory
+
+[Passage 5]
+Computational complexity theory",True,0.6,0.5,0.6,0,0.83983135,0.77637863,0.80685943,0.9745734930038452,False,0.04411333426833153,True
+227,What field of computer science analyzes the resource requirements of a specific algorithm isolated unto itself within a given problem?,unanswerable,analysis of algorithms,"[Passage 1]
+Analysis of algorithms
+
+[Passage 2]
+Analysis of algorithms
+
+[Passage 3]
+Analysis of algorithms
+
+[Passage 4]
+Analysis of algorithms
+
+[Passage 5]
+Analysis of algorithms",True,0.0,0.0,0.0,0,0.37440926,0.51833874,0.43477178,0.00010841907351277769,True,0.0016014209249988198,True
+228,What field of computer science analyzes all possible algorithms in aggregate to determine the resource requirements needed to solve to a given problem?  ,Theoretical Computer Science,computational complexity theory,"[Passage 1]
+Computer science
+
+[Passage 2]
+Computer science
+
+[Passage 3]
+Computer science
+
+[Passage 4]
+Computer science
+
+[Passage 5]
+Computer science",True,0.3333333333333333,0.0,0.3333333333333333,0,0.74340624,0.74718165,0.74528915,0.7966963648796082,False,0.0031403563916683197,True
+229,What field of computer science is primarily concerned with determining the likelihood of whether or not a problem can ultimately be solved using algorithms?,Theoretical Computer Science,computability theory,"[Passage 1]
+Computer science
+
+[Passage 2]
+Computer science
+
+[Passage 3]
+Computer science
+
+[Passage 4]
+Computer science
+
+[Passage 5]
+Computer science",True,0.4,0.0,0.4,0,0.7007109,0.72740966,0.7138107,0.9376032948493958,False,0.0031403563916683197,True
+230,What are two fields of theoretical computer science that closely mirror computational simplicity theory?,unanswerable,unanswerable,"[Passage 1]
+Theory of computation
+
+[Passage 2]
+Theory of computation
+
+[Passage 3]
+Theory of computation
+
+[Passage 4]
+Theory of computation
+
+[Passage 5]
+Theory of computation",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.001445548958145082,True
+231,What is not the key distinction between analysis of algorithms and computational complexity theory?,unanswerable,unanswerable,"[Passage 1]
+Computational complexity
+
+[Passage 2]
+Computational complexity
+
+[Passage 3]
+Computational complexity
+
+[Passage 4]
+Computational complexity
+
+[Passage 5]
+Computational complexity",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.0009421533904969692,True
+232,What is the process of analyzing the amount of resources needed by a particular algorithm to solve a hypothesis?,unanswerable,unanswerable,"[Passage 1]
+Analysis of algorithms
+
+[Passage 2]
+Analysis of algorithms
+
+[Passage 3]
+Analysis of algorithms
+
+[Passage 4]
+Analysis of algorithms
+
+[Passage 5]
+Analysis of algorithms",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.0016014209249988198,True
+233,What is the process that asks a more specific question about all possible algorithms that could not be used to solve the same problem?,unanswerable,unanswerable,"[Passage 1]
+Search algorithm
+
+[Passage 2]
+Search algorithm
+
+[Passage 3]
+Search algorithm
+
+[Passage 4]
+Search algorithm
+
+[Passage 5]
+Search algorithm",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.0006108207162469625,True
+234,What process classifies problems that can and cannot be solved with approximately unlimited resources?,BPP (complexity),unanswerable,"[Passage 1]
+BPP (complexity)
+
+[Passage 2]
+BPP (complexity)
+
+[Passage 3]
+BPP (complexity)
+
+[Passage 4]
+BPP (complexity)
+
+[Passage 5]
+BPP (complexity)",False,0.0,0.0,0.0,0,0.5109635,0.383664,0.43825683,0.05300459265708923,True,0.9556798338890076,False
+235,What is the name given to the input string of a computational problem?,input string,problem instance,"[Passage 1]
+String (computer science)
+
+[Passage 2]
+String (computer science)
+
+[Passage 3]
+String (computer science)
+
+[Passage 4]
+String (computer science)
+
+[Passage 5]
+String (computer science)",True,0.0,0.0,0.0,0,0.5439214,0.5439214,0.5439214,0.0177223589271307,True,0.008836496621370316,True
+236,"In computational complexity theory, what is the term given to describe the baseline abstract question needing to be solved? ",unanswerable,the problem,"[Passage 1]
+Computational complexity theory
+
+[Passage 2]
+Computational complexity theory
+
+[Passage 3]
+Computational complexity theory
+
+[Passage 4]
+Computational complexity theory
+
+[Passage 5]
+Computational complexity theory",True,0.0,0.0,0.0,0,0.3543957,0.40909332,0.37978518,0.002543067093938589,True,0.0012006990145891905,True
+237,Is a problem instance typically characterized as abstract or concrete?,concrete,concrete,"[Passage 1]
+Abstraction
+
+[Passage 2]
+Abstraction
+
+[Passage 3]
+Abstraction
+
+[Passage 4]
+Abstraction
+
+[Passage 5]
+Abstraction",True,1.0,0.0,1.0,1,0.99999994,0.99999994,0.99999994,0.972480058670044,False,0.2531973123550415,True
+238,What is another name for any given measure of input associated with a problem?,unanswerable,instances,"[Passage 1]
+Measurement
+
+[Passage 2]
+Measurement
+
+[Passage 3]
+Measurement
+
+[Passage 4]
+Measurement
+
+[Passage 5]
+Measurement",True,0.0,0.0,0.0,0,0.32526448,0.37710866,0.3492732,0.0656229555606842,True,0.004555120598524809,True
+239,What is the general term used to describe the output to any given input in a problem instance?,unanswerable,solution,"[Passage 1]
+Generalization
+
+[Passage 2]
+Generalization
+
+[Passage 3]
+Generalization
+
+[Passage 4]
+Generalization
+
+[Passage 5]
+Generalization",True,0.0,0.0,0.0,0,0.45937353,0.5077348,0.48234499,8.136944961734116e-05,True,0.006140356417745352,True
+240,What can be viewed as a limited collection of instances together with a solution for every instance?,Solution,unanswerable,"[Passage 1]
+Solution
+
+[Passage 2]
+Solution
+
+[Passage 3]
+Solution
+
+[Passage 4]
+Solution
+
+[Passage 5]
+Solution",False,0.0,0.0,0.0,0,0.3495265,0.32363483,0.33608273,0.0003900984884239733,True,0.46686485409736633,False
+241,What is the name given to the input string of a computational solution?,input string,unanswerable,"[Passage 1]
+String (computer science)
+
+[Passage 2]
+String (computer science)
+
+[Passage 3]
+String (computer science)
+
+[Passage 4]
+String (computer science)
+
+[Passage 5]
+String (computer science)",False,0.0,0.0,0.0,0,0.42411983,0.40748036,0.41563362,0.011626262217760086,True,0.008836496621370316,True
+242,What term refers to the concrete question to be solved?,unanswerable,unanswerable,"[Passage 1]
+Concrete
+
+[Passage 2]
+Concrete
+
+[Passage 3]
+Concrete
+
+[Passage 4]
+Concrete
+
+[Passage 5]
+Concrete",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.005128063261508942,True
+243,What is the output corresponding to the given question?,unanswerable,unanswerable,"[Passage 1]
+Loaded question
+
+[Passage 2]
+Loaded question
+
+[Passage 3]
+Loaded question
+
+[Passage 4]
+Loaded question
+
+[Passage 5]
+Leading question",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.009836357086896896,True
+244,What is a particular measure input associated with the a theory?,unanswerable,unanswerable,"[Passage 1]
+Measurement
+
+[Passage 2]
+Measurement
+
+[Passage 3]
+Measurement
+
+[Passage 4]
+Measurement
+
+[Passage 5]
+Measurement",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.004555120598524809,True
+245,By how many kilometers does the traveling salesman problem seek to classify a route between the 15 largest cities in Germany?,unanswerable,2000,"[Passage 1]
+Travelling salesman problem
+
+[Passage 2]
+Travelling salesman problem
+
+[Passage 3]
+Travelling salesman problem
+
+[Passage 4]
+Travelling salesman problem
+
+[Passage 5]
+Travelling salesman problem",True,0.0,0.0,0.0,0,0.27075794,0.32282397,0.29450747,0.014404629357159138,True,0.0008775871829129755,True
+246,What is one example of an instance that the quantitative answer to the traveling salesman problem fails to answer?,unanswerable,round trip through all sites in Milan,"[Passage 1]
+Travelling salesman problem
+
+[Passage 2]
+Travelling salesman problem
+
+[Passage 3]
+Travelling salesman problem
+
+[Passage 4]
+Travelling salesman problem
+
+[Passage 5]
+Travelling salesman problem",True,0.0,0.0,0.0,0,0.34819636,0.32659978,0.33705246,0.0003552506968844682,True,0.0008775871829129755,True
+247,What does computational complexity theory most specifically seek to answer? ,unanswerable,computational problems,"[Passage 1]
+Computational complexity theory
+
+[Passage 2]
+Computational complexity theory
+
+[Passage 3]
+Computational complexity theory
+
+[Passage 4]
+Computational complexity theory
+
+[Passage 5]
+Computational complexity theory",True,0.0,0.0,0.0,0,0.44994798,0.5373891,0.48979652,0.0012746239081025124,True,0.0012006990145891905,True
+248,How many miles does the traveling salesman problem seek to classify a route between the 15 smallest cities in Germany?,unanswerable,unanswerable,"[Passage 1]
+Travelling salesman problem
+
+[Passage 2]
+Travelling salesman problem
+
+[Passage 3]
+Travelling salesman problem
+
+[Passage 4]
+Travelling salesman problem
+
+[Passage 5]
+Travelling salesman problem",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.0008775871829129755,True
+249,What is the qualitative answer to this particular problem instance?,unanswerable,unanswerable,"[Passage 1]
+Solution
+
+[Passage 2]
+Solution
+
+[Passage 3]
+Solution
+
+[Passage 4]
+Solution
+
+[Passage 5]
+Solution",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.0024628276005387306,True
+250,What is one example of an instance that the qualitative answer to the traveling salesman fails to answer?,unanswerable,unanswerable,"[Passage 1]
+Travelling salesman problem
+
+[Passage 2]
+Travelling salesman problem
+
+[Passage 3]
+Travelling salesman problem
+
+[Passage 4]
+Travelling salesman problem
+
+[Passage 5]
+Travelling salesman problem",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.0008775871829129755,True
+251,What does computational simplicity theory most specifically seek to answer?,unanswerable,unanswerable,"[Passage 1]
+Computational complexity
+
+[Passage 2]
+Computational complexity
+
+[Passage 3]
+Computational complexity
+
+[Passage 4]
+Computational complexity
+
+[Passage 5]
+Computational complexity",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.0009421533904969692,True
+252,"In a computational problem, what can be described as a string over an alphabet?",a sequence of symbols from an alphabet,problem instance,"[Passage 1]
+String (computer science)
+
+[Passage 2]
+String (computer science)
+
+[Passage 3]
+String (computer science)
+
+[Passage 4]
+String (computer science)
+
+[Passage 5]
+String (computer science)",True,0.0,0.0,0.0,0,0.46159172,0.3614127,0.40540516,0.8681290745735168,False,0.9680866003036499,False
+253,What is the name of the alphabet is most commonly used in a problem instance?,unanswerable,binary alphabet,"[Passage 1]
+Alphabet
+
+[Passage 2]
+Alphabet
+
+[Passage 3]
+Alphabet
+
+[Passage 4]
+Alphabet
+
+[Passage 5]
+Alphabet",True,0.0,0.0,0.0,0,0.3949473,0.40316182,0.39901227,0.001812167465686798,True,0.00969337671995163,True
+254,What is another term for the string of a problem instance?,problem instance,bitstrings,"[Passage 1]
+String (computer science)
+
+[Passage 2]
+String (computer science)
+
+[Passage 3]
+String (computer science)
+
+[Passage 4]
+String (computer science)
+
+[Passage 5]
+String (computer science)",True,0.0,0.0,0.0,0,0.45594192,0.45594192,0.45594192,0.148233100771904,True,0.013498897664248943,True
+255,"In the encoding of mathematical objects, what is the way in which integers are commonly expressed?",commonly expressed,binary notation,"[Passage 1]
+Integer (computer science)
+
+[Passage 2]
+Integer (computer science)
+
+[Passage 3]
+Integer (computer science)
+
+[Passage 4]
+Integer (computer science)
+
+[Passage 5]
+Integer (computer science)",True,0.0,0.0,0.0,0,0.54557276,0.45721662,0.49750215,0.07911581546068192,True,0.07145082205533981,True
+256,What is one way in which graphs can be encoded? ,Run-length encoding,adjacency matrices,"[Passage 1]
+Run-length encoding
+
+[Passage 2]
+Run-length encoding
+
+[Passage 3]
+Run-length encoding
+
+[Passage 4]
+Run-length encoding
+
+[Passage 5]
+Run-length encoding",True,0.0,0.0,0.0,0,0.62088495,0.6460667,0.6332256,0.00045427013537846506,True,0.8624441623687744,False
+257,What is a string over a Greek number when considering a computational problem?,unanswerable,unanswerable,"[Passage 1]
+String (computer science)
+
+[Passage 2]
+String (computer science)
+
+[Passage 3]
+String (computer science)
+
+[Passage 4]
+String (computer science)
+
+[Passage 5]
+String (computer science)",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.009872854687273502,True
+258,What is the name of the alphabet that is rarely used in a problem instance?,unanswerable,unanswerable,"[Passage 1]
+Alphabet
+
+[Passage 2]
+Alphabet
+
+[Passage 3]
+Alphabet
+
+[Passage 4]
+Alphabet
+
+[Passage 5]
+Alphabet",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.00969337671995163,True
+259,What is another term for the the string of a problem question?,groups,unanswerable,"[Passage 1]
+Word problem for groups
+
+[Passage 2]
+Word problem for groups
+
+[Passage 3]
+Word problem for groups
+
+[Passage 4]
+Word problem for groups
+
+[Passage 5]
+Word problem for groups",False,0.0,0.0,0.0,0,0.32582,0.27512652,0.29833508,0.003604608355090022,True,0.43931326270103455,False
+260,What is represented by non-binary notation in the encoding of mathematical objects?,unanswerable,unanswerable,"[Passage 1]
+Binary-coded decimal
+
+[Passage 2]
+Binary-coded decimal
+
+[Passage 3]
+Binary-coded decimal
+
+[Passage 4]
+Binary-coded decimal
+
+[Passage 5]
+Binary-coded decimal",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.0008111005881801248,True
+261,How can graphs be encoded indirectly?,unanswerable,unanswerable,"[Passage 1]
+Character encoding
+
+[Passage 2]
+Character encoding
+
+[Passage 3]
+Character encoding
+
+[Passage 4]
+Run-length encoding
+
+[Passage 5]
+Run-length encoding",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.0013607018627226353,True
+262,What kind of problems are one of the main topics studied in computational complexity theory?,one of the main topics studied in computational complexity theory,Decision problems,"[Passage 1]
+Computational complexity theory
+
+[Passage 2]
+Computational complexity theory
+
+[Passage 3]
+Computational complexity theory
+
+[Passage 4]
+Computational complexity theory
+
+[Passage 5]
+Computational complexity theory",True,0.0,0.0,0.0,0,0.47568965,0.48223165,0.4789383,0.0023320550099015236,True,0.03687440603971481,True
+263,What are the two simple word responses to a decision problem?,yes or no,yes or no,"[Passage 1]
+Decision problem
+
+[Passage 2]
+Decision problem
+
+[Passage 3]
+Decision problem
+
+[Passage 4]
+Decision problem
+
+[Passage 5]
+Decision problem",True,1.0,1.0,1.0,1,1.0,1.0,1.0,0.9835143089294434,False,0.014762106351554394,True
+264,What are the two integer responses to a decision problem?,yes or no,1 or 0,"[Passage 1]
+Decision problem
+
+[Passage 2]
+Decision problem
+
+[Passage 3]
+Decision problem
+
+[Passage 4]
+Decision problem
+
+[Passage 5]
+Decision problem",True,0.3333333333333333,0.0,0.3333333333333333,0,0.69713974,0.69713974,0.69713974,0.25791841745376587,True,0.014762106351554394,True
+265,What will the output be for a member of the language of a decision problem?,a member of the language,yes,"[Passage 1]
+Decision problem
+
+[Passage 2]
+Decision problem
+
+[Passage 3]
+Decision problem
+
+[Passage 4]
+Decision problem
+
+[Passage 5]
+Decision problem",True,0.0,0.0,0.0,0,0.289719,0.54495126,0.3783116,0.8090084791183472,False,0.9832152724266052,False
+266,What answer denotes that an algorithm has accepted an input string?,unanswerable,yes,"[Passage 1]
+String (computer science)
+
+[Passage 2]
+String (computer science)
+
+[Passage 3]
+String (computer science)
+
+[Passage 4]
+String (computer science)
+
+[Passage 5]
+String (computer science)",True,0.0,0.0,0.0,0,0.27107632,0.5526965,0.36374816,0.00016191253962460905,True,0.009872854687273502,True
+267,What kind of solutions are one of the central objects of study in computational complexity theory?,one of the central objects of study in computational complexity theory,unanswerable,"[Passage 1]
+Computational complexity theory
+
+[Passage 2]
+Computational complexity theory
+
+[Passage 3]
+Computational complexity theory
+
+[Passage 4]
+Computational complexity theory
+
+[Passage 5]
+Computational complexity theory",False,0.0,0.0,0.0,0,0.3978431,0.3513854,0.3731739,0.0013396905269473791,True,0.08526560664176941,True
+268,What is a typical type of computational problem whose answer is either yer or no?,yes or no,unanswerable,"[Passage 1]
+Computational complexity
+
+[Passage 2]
+Computational complexity
+
+[Passage 3]
+Computational complexity
+
+[Passage 4]
+Computational complexity
+
+[Passage 5]
+Computational complexity",False,0.0,0.0,0.0,0,0.32602474,0.33334363,0.32964355,0.004037193022668362,True,0.021240564063191414,True
+269,What can be viewed as an informal language where the language instances whose input is yes?,unanswerable,unanswerable,"[Passage 1]
+Formal language
+
+[Passage 2]
+Formal language
+
+[Passage 3]
+Formal language
+
+[Passage 4]
+Formal language
+
+[Passage 5]
+Formal language",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.003132629208266735,True
+270,What are the three integer responses to a decision problem?,"yes, no and maybe",unanswerable,"[Passage 1]
+Decision problem
+
+[Passage 2]
+Decision problem
+
+[Passage 3]
+Decision problem
+
+[Passage 4]
+Decision problem
+
+[Passage 5]
+Decision problem",False,0.0,0.0,0.0,0,0.29235566,0.32472378,0.3076908,0.0002897657686844468,True,0.0021644593216478825,True
+271,What answer denotes that a solution has accepted an input string?,unanswerable,unanswerable,"[Passage 1]
+Solution
+
+[Passage 2]
+Solution
+
+[Passage 3]
+Solution
+
+[Passage 4]
+Solution
+
+[Passage 5]
+Solution",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.0024628276005387306,True
+272,What kind of graph is an example of an input used in a decision problem?,unanswerable,arbitrary graph,"[Passage 1]
+Decision problem
+
+[Passage 2]
+Decision problem
+
+[Passage 3]
+Decision problem
+
+[Passage 4]
+Decision problem
+
+[Passage 5]
+Decision problem",True,0.0,0.0,0.0,0,0.52530354,0.53294814,0.5290982,0.05913955718278885,True,0.000666550942696631,True
+273,What is the term for the set of all connected graphs related to this decision problem?,unanswerable,formal language,"[Passage 1]
+Decision problem
+
+[Passage 2]
+Decision problem
+
+[Passage 3]
+Decision problem
+
+[Passage 4]
+Decision problem
+
+[Passage 5]
+Decision problem",True,0.0,0.0,0.0,0,0.36181587,0.38838804,0.37463135,0.0004605538852047175,True,0.000666550942696631,True
+274,What encoding decision needs to be made in order to determine an exact definition of the formal language?,unanswerable,how graphs are encoded as binary strings,"[Passage 1]
+Formal language
+
+[Passage 2]
+Formal language
+
+[Passage 3]
+Formal language
+
+[Passage 4]
+Formal language
+
+[Passage 5]
+Formal language",True,0.0,0.0,0.0,0,0.33613074,0.39989147,0.36524934,0.0003102224145550281,True,0.003132629208266735,True
+275,What type of graph is an example of an output used in a decision problem?,unanswerable,unanswerable,"[Passage 1]
+Decision problem
+
+[Passage 2]
+Decision problem
+
+[Passage 3]
+Decision problem
+
+[Passage 4]
+Decision problem
+
+[Passage 5]
+Decision problem",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.000666550942696631,True
+276,What is the term for the set of all unconnected graphs related to this decision problem?,unanswerable,unanswerable,"[Passage 1]
+Decision problem
+
+[Passage 2]
+Decision problem
+
+[Passage 3]
+Decision problem
+
+[Passage 4]
+Decision problem
+
+[Passage 5]
+Decision problem",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.000666550942696631,True
+277,What encoding decision needs to be made in order to determine an inaccurate definition of the formal language? ,unanswerable,unanswerable,"[Passage 1]
+Formal language
+
+[Passage 2]
+Formal language
+
+[Passage 3]
+Formal language
+
+[Passage 4]
+Formal language
+
+[Passage 5]
+Formal language",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.003132629208266735,True
+278,How does one obtain an indefinite definition of this language?,unanswerable,unanswerable,"[Passage 1]
+Interpreted language
+
+[Passage 2]
+Interpreted language
+
+[Passage 3]
+Interpreted language
+
+[Passage 4]
+Interpreted language
+
+[Passage 5]
+Interpreted language",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.0016290020430460572,True
+279,A function problem is an example of what?,unanswerable,a computational problem,"[Passage 1]
+Examples of differential equations
+
+[Passage 2]
+Examples of differential equations
+
+[Passage 3]
+Examples of differential equations
+
+[Passage 4]
+Examples of differential equations
+
+[Passage 5]
+Examples of differential equations",True,0.0,0.0,0.0,0,0.40675187,0.49326736,0.4458514,0.0008734848815947771,True,0.000968222098890692,True
+280,How many outputs are expected for each input in a function problem?,unanswerable,a single output,"[Passage 1]
+Theory of computation
+
+[Passage 2]
+Theory of computation
+
+[Passage 3]
+Theory of computation
+
+[Passage 4]
+Theory of computation
+
+[Passage 5]
+Theory of computation",True,0.0,0.0,0.0,0,0.46248657,0.45198613,0.45717606,0.00031594402389600873,True,0.001445548958145082,True
+281,The traveling salesman problem is an example of what type of problem?,optimization problem,A function problem,"[Passage 1]
+Travelling salesman problem
+
+[Passage 2]
+Travelling salesman problem
+
+[Passage 3]
+Travelling salesman problem
+
+[Passage 4]
+Travelling salesman problem
+
+[Passage 5]
+Travelling salesman problem",True,0.4,0.0,0.4,0,0.73762596,0.7015642,0.7191433,0.0025941680651158094,True,0.00026200892170891166,True
+282,"In addition to the traveling salesman problem, what is another example of a function problem?",unanswerable,the integer factorization problem,"[Passage 1]
+Travelling salesman problem
+
+[Passage 2]
+Travelling salesman problem
+
+[Passage 3]
+Travelling salesman problem
+
+[Passage 4]
+Travelling salesman problem
+
+[Passage 5]
+Travelling salesman problem",True,0.0,0.0,0.0,0,0.38961935,0.47243634,0.42704976,0.0008978047408163548,True,0.0008775871829129755,True
+283,Is the output of a functional problem typically characterized by a simple or complex answer?,simple,complex,"[Passage 1]
+Functional decomposition
+
+[Passage 2]
+Functional decomposition
+
+[Passage 3]
+Functional decomposition
+
+[Passage 4]
+Functional decomposition
+
+[Passage 5]
+Functional decomposition",True,0.0,0.0,0.0,0,0.65210634,0.65210634,0.65210634,0.0005005625425837934,True,0.015760233625769615,True
+284,What is a computational solution where a single input is expected for every input?,unanswerable,unanswerable,"[Passage 1]
+Computation
+
+[Passage 2]
+Computation
+
+[Passage 3]
+Computation
+
+[Passage 4]
+Computation
+
+[Passage 5]
+Computation",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.0013651419430971146,True
+285,What is expected where a computational problems offers multiple outputs are expected for every input?,unanswerable,unanswerable,"[Passage 1]
+Computation
+
+[Passage 2]
+Computation
+
+[Passage 3]
+Computation
+
+[Passage 4]
+Computation
+
+[Passage 5]
+Computation",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.0013651419430971146,True
+286,What is a function solution an example of?,differential equations,unanswerable,"[Passage 1]
+Solution
+
+[Passage 2]
+Examples of differential equations
+
+[Passage 3]
+Examples of differential equations
+
+[Passage 4]
+Examples of differential equations
+
+[Passage 5]
+Examples of differential equations",False,0.0,0.0,0.0,0,0.53649306,0.40887076,0.46406755,0.0020307775121182203,True,0.6965579986572266,False
+287,What are other irrelevant examples of a function problem>,unanswerable,unanswerable,"[Passage 1]
+Examples of differential equations
+
+[Passage 2]
+Examples of differential equations
+
+[Passage 3]
+Examples of differential equations
+
+[Passage 4]
+Examples of differential equations
+
+[Passage 5]
+Examples of differential equations",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.000968222098890692,True
+288,Is the output of a functional solution typically characterized by a simple or complex answer?,complex,unanswerable,"[Passage 1]
+Functional decomposition
+
+[Passage 2]
+Functional decomposition
+
+[Passage 3]
+Functional decomposition
+
+[Passage 4]
+Functional decomposition
+
+[Passage 5]
+Functional decomposition",False,0.0,0.0,0.0,0,0.36788458,0.32409394,0.34460366,0.02216803841292858,True,0.07117139548063278,True
+289,How can function problems typically be restated?,unanswerable,decision problems,"[Passage 1]
+Functional programming
+
+[Passage 2]
+Functional programming
+
+[Passage 3]
+Functional programming
+
+[Passage 4]
+Functional programming
+
+[Passage 5]
+Functional programming",True,0.0,0.0,0.0,0,0.46363428,0.46931884,0.46645924,0.008355405181646347,True,0.0016335989348590374,True
+290,"If two integers are multiplied and output a value, what is this expression set called?",unanswerable,set of triples,"[Passage 1]
+Multiplication
+
+[Passage 2]
+Multiplication
+
+[Passage 3]
+Multiplication
+
+[Passage 4]
+Multiplication
+
+[Passage 5]
+Multiplication",True,0.0,0.0,0.0,0,0.33617133,0.5331486,0.41234365,0.0023692594841122627,True,0.007541208062320948,True
+291,What can not be restated as decision problems?,unanswerable,unanswerable,"[Passage 1]
+Decision problem
+
+[Passage 2]
+Decision problem
+
+[Passage 3]
+Decision problem
+
+[Passage 4]
+Decision problem
+
+[Passage 5]
+Decision problem",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.000666550942696631,True
+292,What is the expression set called where three integers are multiplied?,triple product,unanswerable,"[Passage 1]
+Multiplication
+
+[Passage 2]
+Multiplication
+
+[Passage 3]
+Multiplication
+
+[Passage 4]
+Multiplication
+
+[Passage 5]
+Multiplication",False,0.0,0.0,0.0,0,0.4217765,0.42913005,0.4254215,0.0009000701829791069,True,0.6028004288673401,False
+293,What corresponds to solving the problem of multiplying three numbers/,unanswerable,unanswerable,"[Passage 1]
+Multiplication
+
+[Passage 2]
+Multiplication
+
+[Passage 3]
+Multiplication
+
+[Passage 4]
+Multiplication
+
+[Passage 5]
+Multiplication",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.007541208062320948,True
+294,What is a commonly used measurement used to determine the complexity of a computational problem?,computational complexity,how much time the best algorithm requires to solve the problem,"[Passage 1]
+Computational complexity
+
+[Passage 2]
+Computational complexity
+
+[Passage 3]
+Computational complexity
+
+[Passage 4]
+Computational complexity
+
+[Passage 5]
+Computational complexity",True,0.0,0.0,0.0,0,0.6409566,0.49987978,0.56169534,0.003988845739513636,True,0.9162806272506714,False
+295,What is one variable on which the running time may be contingent?,unanswerable,the instance,"[Passage 1]
+Random variable
+
+[Passage 2]
+Random variable
+
+[Passage 3]
+Random variable
+
+[Passage 4]
+Random variable
+
+[Passage 5]
+Random variable",True,0.0,0.0,0.0,0,0.33912978,0.35746455,0.34805587,0.011739997193217278,True,0.0012534301495179534,True
+296,How is the time needed to obtain the solution to a problem calculated?,unanswerable,as a function of the size of the instance,"[Passage 1]
+Solution
+
+[Passage 2]
+Solution
+
+[Passage 3]
+Solution
+
+[Passage 4]
+Solution
+
+[Passage 5]
+Solution",True,0.0,0.0,0.0,0,0.36865205,0.43695682,0.39990878,0.00013579193910118192,True,0.0024628276005387306,True
+297,In what unit is the size of the input measured?,unanswerable,bits,"[Passage 1]
+Measurement
+
+[Passage 2]
+Measurement
+
+[Passage 3]
+Measurement
+
+[Passage 4]
+Measurement
+
+[Passage 5]
+Measurement",True,0.0,0.0,0.0,0,0.3019609,0.39434233,0.34202328,0.1073344275355339,True,0.004555120598524809,True
+298,Complexity theory seeks to define the relationship between the scale of algorithms with respect to what other variable?,scale of algorithms,an increase in the input size,"[Passage 1]
+Computational complexity
+
+[Passage 2]
+Computational complexity
+
+[Passage 3]
+Computational complexity
+
+[Passage 4]
+Computational complexity
+
+[Passage 5]
+Computational complexity",True,0.0,0.0,0.0,0,0.4604751,0.5215627,0.48911893,0.004401280079036951,True,0.0033347774296998978,True
+299,How does one measure the simplicity of a computational problem?,unanswerable,unanswerable,"[Passage 1]
+Computational complexity
+
+[Passage 2]
+Computational complexity
+
+[Passage 3]
+Computational complexity
+
+[Passage 4]
+Computational complexity
+
+[Passage 5]
+Computational complexity",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.0009421533904969692,True
+300,What is one variable which the running of time be not be contingent?,unanswerable,unanswerable,"[Passage 1]
+Random variable
+
+[Passage 2]
+Random variable
+
+[Passage 3]
+Random variable
+
+[Passage 4]
+Random variable
+
+[Passage 5]
+Random variable",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.0012534301495179534,True
+301,How is the time needed to obtain the question to a problem calculated?,unanswerable,unanswerable,"[Passage 1]
+Economic calculation problem
+
+[Passage 2]
+Economic calculation problem
+
+[Passage 3]
+Economic calculation problem
+
+[Passage 4]
+Economic calculation problem
+
+[Passage 5]
+Economic calculation problem",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.0009772672783583403,True
+302,What is  interested in how algorithms scale with a decrease in the input size?,unanswerable,unanswerable,"[Passage 1]
+Analysis of algorithms
+
+[Passage 2]
+Analysis of algorithms
+
+[Passage 3]
+Analysis of algorithms
+
+[Passage 4]
+Analysis of algorithms
+
+[Passage 5]
+Analysis of algorithms",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.0016014209249988198,True
+303,How is time not required to solve a problem calculated?,unanswerable,unanswerable,"[Passage 1]
+Time constraint
+
+[Passage 2]
+Time constraint
+
+[Passage 3]
+Time constraint
+
+[Passage 4]
+Solution
+
+[Passage 5]
+Solution",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.0036057946272194386,True
+304,Whose thesis states that the solution to a problem is solvable with reasonable resources assuming it allows for a polynomial time algorithm?,Papadimitriou,Cobham's thesis,"[Passage 1]
+Computational complexity theory
+
+[Passage 2]
+Computational complexity theory
+
+[Passage 3]
+Computational complexity theory
+
+[Passage 4]
+Computational complexity theory
+
+[Passage 5]
+Computational complexity theory",True,0.0,0.0,0.0,0,0.624607,0.66695225,0.6450855,0.0004344055778346956,True,0.0035754863638430834,True
+305,"If input size is is equal to n, what can respectively be assumed is the function of n?",unanswerable,the time taken,"[Passage 1]
+Elementary function
+
+[Passage 2]
+Elementary function
+
+[Passage 3]
+Elementary function
+
+[Passage 4]
+Elementary function
+
+[Passage 5]
+Elementary function",True,0.0,0.0,0.0,0,0.3289547,0.33669597,0.33278033,0.006340743508189917,True,0.0009769797325134277,True
+306,What term corresponds to the maximum measurement of time across all functions of n? ,unanswerable,worst-case time complexity,"[Passage 1]
+Time signature
+
+[Passage 2]
+Time signature
+
+[Passage 3]
+Time signature
+
+[Passage 4]
+Time signature
+
+[Passage 5]
+Time signature",True,0.0,0.0,0.0,0,0.37959176,0.45823652,0.41522303,0.006346752867102623,True,0.002634533680975437,True
+307,How is worst-case time complexity written as an expression?,unanswerable,T(n),"[Passage 1]
+Irreducible complexity
+
+[Passage 2]
+Irreducible complexity
+
+[Passage 3]
+Irreducible complexity
+
+[Passage 4]
+Irreducible complexity
+
+[Passage 5]
+Irreducible complexity",True,0.0,0.0,0.0,0,0.2675739,0.38779634,0.3166582,0.0035979405511170626,True,0.0035593395587056875,True
+308,"Assuming that T represents a polynomial in T(n), what is the term given to the corresponding algorithm?",unanswerable,polynomial time algorithm,"[Passage 1]
+Polynomial
+
+[Passage 2]
+Polynomial
+
+[Passage 3]
+Polynomial
+
+[Passage 4]
+Polynomial
+
+[Passage 5]
+Polynomial",True,0.0,0.0,0.0,0,0.4265262,0.5070094,0.46329844,0.0001354570413241163,True,0.0009884830797091126,True
+309,How is time taken expressed as a function of x?,unanswerable,unanswerable,"[Passage 1]
+Exponential function
+
+[Passage 2]
+Exponential function
+
+[Passage 3]
+Exponential function
+
+[Passage 4]
+Exponential function
+
+[Passage 5]
+Exponential function",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.000613922777120024,True
+310,Whose hypothesis states the the solution to a problem is solvable with reasonable resources assuming it allows for monoinomial time algorithm?,Sipser,unanswerable,"[Passage 1]
+Solution
+
+[Passage 2]
+Solution
+
+[Passage 3]
+Solution
+
+[Passage 4]
+Solution
+
+[Passage 5]
+Solution",False,0.0,0.0,0.0,0,0.44031978,0.3687613,0.40137607,0.005475801415741444,True,0.0209615807980299,True
+311,What term corresponds to the minimum measurement of the time across all functions of n?,unanswerable,unanswerable,"[Passage 1]
+Time signature
+
+[Passage 2]
+Time signature
+
+[Passage 3]
+Time signature
+
+[Passage 4]
+Time signature
+
+[Passage 5]
+Time signature",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.002634533680975437,True
+312,How is best-case time complexity written as an expression?,O(n),unanswerable,"[Passage 1]
+Computational complexity
+
+[Passage 2]
+Computational complexity
+
+[Passage 3]
+Computational complexity
+
+[Passage 4]
+Computational complexity
+
+[Passage 5]
+Computational complexity",False,0.0,0.0,0.0,0,0.3910041,0.29444143,0.33592108,0.027221187949180603,True,0.005886627361178398,True
+313,What is the term given to the corresponding algorithm assuming that T represents a mononominal in T(n)?,unanswerable,unanswerable,"[Passage 1]
+Algorithm
+
+[Passage 2]
+Algorithm
+
+[Passage 3]
+Algorithm
+
+[Passage 4]
+Algorithm
+
+[Passage 5]
+Algorithm",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.0005369357531890273,True
+314,What is the term for a mathematical model that theoretically represents a general computing machine?,unanswerable,A Turing machine,"[Passage 1]
+Mathematical model
+
+[Passage 2]
+Mathematical model
+
+[Passage 3]
+Mathematical model
+
+[Passage 4]
+Mathematical model
+
+[Passage 5]
+Mathematical model",True,0.0,0.0,0.0,0,0.40922952,0.4217826,0.41541126,0.00602214178070426,True,0.0013399820309132338,True
+315,It is generally assumed that a Turing machine can solve anything capable of also being solved using what?,mathematics,an algorithm,"[Passage 1]
+Turing machine
+
+[Passage 2]
+Turing machine
+
+[Passage 3]
+Turing machine
+
+[Passage 4]
+Turing machine
+
+[Passage 5]
+Turing machine",True,0.0,0.0,0.0,0,0.62469083,0.6590638,0.6414172,0.07528699934482574,True,0.030335988849401474,True
+316,What is the most commonplace model utilized in complexity theory?,unanswerable,the Turing machine,"[Passage 1]
+Computational complexity theory
+
+[Passage 2]
+Computational complexity theory
+
+[Passage 3]
+Computational complexity theory
+
+[Passage 4]
+Computational complexity theory
+
+[Passage 5]
+Computational complexity theory",True,0.0,0.0,0.0,0,0.4118324,0.42355782,0.41761282,0.005538271274417639,True,0.0012006990145891905,True
+317,What does a Turing machine handle on a strip of tape?,strip of tape,symbols,"[Passage 1]
+Turing machine
+
+[Passage 2]
+Turing machine
+
+[Passage 3]
+Turing machine
+
+[Passage 4]
+Turing machine
+
+[Passage 5]
+Turing machine",True,0.0,0.0,0.0,0,0.58277565,0.44425833,0.50417596,0.007751196622848511,True,0.006679841782897711,True
+318,What a scientific model of a general computing machine?,unanswerable,unanswerable,"[Passage 1]
+Theory of computation
+
+[Passage 2]
+Theory of computation
+
+[Passage 3]
+Theory of computation
+
+[Passage 4]
+Theory of computation
+
+[Passage 5]
+Computation",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.000800316920503974,True
+319,What is a scientific device that manipulates symbols contained on a strip of tape?,unanswerable,unanswerable,"[Passage 1]
+Magnetic tape
+
+[Passage 2]
+Magnetic tape
+
+[Passage 3]
+Magnetic tape
+
+[Passage 4]
+Magnetic tape
+
+[Passage 5]
+Magnetic tape",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.003991185687482357,True
+320,What are intended as a practical computing technology?,unanswerable,unanswerable,"[Passage 1]
+Computing
+
+[Passage 2]
+Computing
+
+[Passage 3]
+Computing
+
+[Passage 4]
+Computing
+
+[Passage 5]
+Computing",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.004374338313937187,True
+321,What is a scientific experiment that can solve a problem by algorithms?,unanswerable,unanswerable,"[Passage 1]
+Algorithm
+
+[Passage 2]
+Algorithm
+
+[Passage 3]
+Algorithm
+
+[Passage 4]
+Algorithm
+
+[Passage 5]
+Algorithm",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.0005369357531890273,True
+322,What is generally considered to be the most basic iteration of a Turing machine?,unanswerable,A deterministic Turing machine,"[Passage 1]
+Turing completeness
+
+[Passage 2]
+Turing completeness
+
+[Passage 3]
+Turing completeness
+
+[Passage 4]
+Turing completeness
+
+[Passage 5]
+Turing completeness",True,0.0,0.0,0.0,0,0.44238177,0.45025,0.4462812,0.00018684263341128826,True,0.0019055239390581846,True
+323,What fixed set of factors determine the actions of a deterministic Turing machine,unanswerable,rules,"[Passage 1]
+Non-deterministic Turing machine
+
+[Passage 2]
+Non-deterministic Turing machine
+
+[Passage 3]
+Non-deterministic Turing machine
+
+[Passage 4]
+Non-deterministic Turing machine
+
+[Passage 5]
+Non-deterministic Turing machine",True,0.0,0.0,0.0,0,0.26793295,0.42449397,0.32851386,0.00032130072941072285,True,0.0015040204161778092,True
+324,What is the term used to identify a deterministic Turing machine that has additional random bits?,unanswerable,A probabilistic Turing machine,"[Passage 1]
+Non-deterministic Turing machine
+
+[Passage 2]
+Non-deterministic Turing machine
+
+[Passage 3]
+Non-deterministic Turing machine
+
+[Passage 4]
+Non-deterministic Turing machine
+
+[Passage 5]
+Non-deterministic Turing machine",True,0.0,0.0,0.0,0,0.4094057,0.48278886,0.44307938,0.0009239798528142273,True,0.0015040204161778092,True
+325,What type of Turing machine is capable of multiple actions and extends into a variety of computational paths?,unanswerable,A non-deterministic Turing machine,"[Passage 1]
+Turing machine
+
+[Passage 2]
+Turing machine
+
+[Passage 3]
+Turing machine
+
+[Passage 4]
+Turing machine
+
+[Passage 5]
+Turing machine",True,0.0,0.0,0.0,0,0.48828468,0.5220303,0.5045939,0.3551447093486786,False,0.0018864799058064818,True
+326,What is the term given to algorithms that utilize random bits?,unanswerable,randomized algorithms,"[Passage 1]
+Pseudorandomness
+
+[Passage 2]
+Pseudorandomness
+
+[Passage 3]
+Pseudorandomness
+
+[Passage 4]
+Pseudorandomness
+
+[Passage 5]
+Pseudorandomness",True,0.0,0.0,0.0,0,0.36015922,0.50918204,0.42189786,0.011047203093767166,True,0.0012399069964885712,True
+327,What uses a flexible set of rules to determine its future actions?,unanswerable,unanswerable,"[Passage 1]
+Cahn–Ingold–Prelog priority rules
+
+[Passage 2]
+Cahn–Ingold–Prelog priority rules
+
+[Passage 3]
+Cahn–Ingold–Prelog priority rules
+
+[Passage 4]
+Cahn–Ingold–Prelog priority rules
+
+[Passage 5]
+Cahn–Ingold–Prelog priority rules",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.002677332377061248,True
+328,What is a deterministic Turing machine with an extra supply of random ribbons?,unanswerable,unanswerable,"[Passage 1]
+Non-deterministic Turing machine
+
+[Passage 2]
+Non-deterministic Turing machine
+
+[Passage 3]
+Non-deterministic Turing machine
+
+[Passage 4]
+Non-deterministic Turing machine
+
+[Passage 5]
+Non-deterministic Turing machine",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.0015040204161778092,True
+329,What does not often help algorithms solve problems more efficiently?,unanswerable,unanswerable,"[Passage 1]
+Analysis of algorithms
+
+[Passage 2]
+Analysis of algorithms
+
+[Passage 3]
+Analysis of algorithms
+
+[Passage 4]
+Analysis of algorithms
+
+[Passage 5]
+Analysis of algorithms",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.0016014209249988198,True
+330,Which machine allows the machine to have multiple possible past actions from a given state?,unanswerable,unanswerable,"[Passage 1]
+Finite-state machine
+
+[Passage 2]
+Finite-state machine
+
+[Passage 3]
+Finite-state machine
+
+[Passage 4]
+Finite-state machine
+
+[Passage 5]
+Finite-state machine",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.0018987510120496154,True
+331,How is one way that one should not view non-determinism?,unanswerable,unanswerable,"[Passage 1]
+Non-deterministic Turing machine
+
+[Passage 2]
+Non-deterministic Turing machine
+
+[Passage 3]
+Non-deterministic Turing machine
+
+[Passage 4]
+Non-deterministic Turing machine
+
+[Passage 5]
+Non-deterministic Turing machine",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.0015040204161778092,True
+332,Turing machines are commonly employed to define what? ,computational complexity,complexity classes,"[Passage 1]
+Turing machine
+
+[Passage 2]
+Turing machine
+
+[Passage 3]
+Turing machine
+
+[Passage 4]
+Turing machine
+
+[Passage 5]
+Turing machine",True,0.5,0.0,0.5,0,0.68179786,0.72688025,0.7036177,0.005359800066798925,True,0.04573064297437668,True
+333,What are two factors that directly effect how powerful a Turing machine may or may not be?,unanswerable,time or space,"[Passage 1]
+Non-deterministic Turing machine
+
+[Passage 2]
+Non-deterministic Turing machine
+
+[Passage 3]
+Non-deterministic Turing machine
+
+[Passage 4]
+Non-deterministic Turing machine
+
+[Passage 5]
+Non-deterministic Turing machine",True,0.0,0.0,0.0,0,0.3262902,0.33730903,0.3317081,0.005578153766691685,True,0.0015040204161778092,True
+334,"In the determination of complexity classes, what are two examples of types of Turing machines?",unanswerable,"probabilistic Turing machines, non-deterministic Turing machines","[Passage 1]
+Non-deterministic Turing machine
+
+[Passage 2]
+Non-deterministic Turing machine
+
+[Passage 3]
+Non-deterministic Turing machine
+
+[Passage 4]
+Non-deterministic Turing machine
+
+[Passage 5]
+Non-deterministic Turing machine",True,0.0,0.0,0.0,0,0.4174866,0.38622096,0.40124562,0.892212450504303,False,0.0015040204161778092,True
+335,What are many types of Turing machines not used for?,unanswerable,unanswerable,"[Passage 1]
+Non-deterministic Turing machine
+
+[Passage 2]
+Non-deterministic Turing machine
+
+[Passage 3]
+Non-deterministic Turing machine
+
+[Passage 4]
+Non-deterministic Turing machine
+
+[Passage 5]
+Non-deterministic Turing machine",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.0015040204161778092,True
+336,What are three factors that directly effect how powerful a Turing machine may or may not be?,unanswerable,unanswerable,"[Passage 1]
+Non-deterministic Turing machine
+
+[Passage 2]
+Non-deterministic Turing machine
+
+[Passage 3]
+Non-deterministic Turing machine
+
+[Passage 4]
+Non-deterministic Turing machine
+
+[Passage 5]
+Non-deterministic Turing machine",False,1.0,0.0,1.0,1,0.99999964,0.99999964,0.99999964,0.9859851598739624,False,0.0015040204161778092,True
+337,What machines are not equally powerful in principle?,unanswerable,unanswerable,"[Passage 1]
+Simple machine
+
+[Passage 2]
+Simple machine
+
+[Passage 3]
+Simple machine
+
+[Passage 4]
+Simple machine
+
+[Passage 5]
+Simple machine",False,1.0,0.0,1.0,1,0.99999964,0.99999964,0.99999964,0.9859851598739624,False,0.002638061298057437,True
+338,What may not be more powerful than others when the resources of time or space of considered?,resources of time or space,unanswerable,"[Passage 1]
+Power (physics)
+
+[Passage 2]
+Power (physics)
+
+[Passage 3]
+Power (physics)
+
+[Passage 4]
+Power (physics)
+
+[Passage 5]
+Power (physics)",False,0.0,0.0,0.0,0,0.2852176,0.3093048,0.29677325,0.3273938298225403,False,0.9739365577697754,False
+339,What is an example of a machine model that deviates from a generally accepted multi-tape Turing machine?,Non-deterministic Turing machine,random access machines,"[Passage 1]
+Non-deterministic Turing machine
+
+[Passage 2]
+Non-deterministic Turing machine
+
+[Passage 3]
+Non-deterministic Turing machine
+
+[Passage 4]
+Non-deterministic Turing machine
+
+[Passage 5]
+Non-deterministic Turing machine",True,0.28571428571428575,0.0,0.28571428571428575,0,0.566735,0.63448,0.5986972,0.9351990222930908,False,0.7888545989990234,False
+340,"In considering Turing machines and alternate variables, what measurement left unaffected by conversion between machine models? ",unanswerable,computational power,"[Passage 1]
+Non-deterministic Turing machine
+
+[Passage 2]
+Non-deterministic Turing machine
+
+[Passage 3]
+Non-deterministic Turing machine
+
+[Passage 4]
+Non-deterministic Turing machine
+
+[Passage 5]
+Non-deterministic Turing machine",True,0.0,0.0,0.0,0,0.42922968,0.5036093,0.46345416,0.0016603264957666397,True,0.0015040204161778092,True
+341,What two resources commonly consumed by alternate models are typically known to vary?,unanswerable,time and memory,"[Passage 1]
+Model theory
+
+[Passage 2]
+Model theory
+
+[Passage 3]
+Model theory
+
+[Passage 4]
+Model theory
+
+[Passage 5]
+Model theory",True,0.0,0.0,0.0,0,0.34990475,0.37850153,0.36364177,0.00048392536700703204,True,0.001778522040694952,True
+342,"What commonality do alternate machine models, such as random access machines, share with Turing machines?",unanswerable,the machines operate deterministically,"[Passage 1]
+Turing machine
+
+[Passage 2]
+Turing machine
+
+[Passage 3]
+Turing machine
+
+[Passage 4]
+Turing machine
+
+[Passage 5]
+Turing machine",True,0.0,0.0,0.0,0,0.39813966,0.4843174,0.43702063,8.130426431307569e-05,True,0.0018864799058064818,True
+343,What is not an example of a machine model that deviates from a generally accepted multi-tape Turing machine?,unanswerable,unanswerable,"[Passage 1]
+Non-deterministic Turing machine
+
+[Passage 2]
+Non-deterministic Turing machine
+
+[Passage 3]
+Non-deterministic Turing machine
+
+[Passage 4]
+Non-deterministic Turing machine
+
+[Passage 5]
+Non-deterministic Turing machine",False,1.0,0.0,1.0,1,0.99999964,0.99999964,0.99999964,0.9859851598739624,False,0.0015040204161778092,True
+344,What measurement is affected by conversion between machine models?,unanswerable,unanswerable,"[Passage 1]
+Conversion of units
+
+[Passage 2]
+Conversion of units
+
+[Passage 3]
+Conversion of units
+
+[Passage 4]
+Conversion of units
+
+[Passage 5]
+Conversion of units",False,1.0,0.0,1.0,1,0.99999964,0.99999964,0.99999964,0.9859851598739624,False,0.0035578340757638216,True
+345,What two resources are uncommonly consumed by alternate models and are typically known to vary?,unanswerable,unanswerable,"[Passage 1]
+Model theory
+
+[Passage 2]
+Model theory
+
+[Passage 3]
+Model theory
+
+[Passage 4]
+Model theory
+
+[Passage 5]
+Model theory",False,1.0,0.0,1.0,1,0.99999964,0.99999964,0.99999964,0.9859851598739624,False,0.001778522040694952,True
+346,What do all these models not have in common?,unanswerable,unanswerable,"[Passage 1]
+Model theory
+
+[Passage 2]
+Model theory
+
+[Passage 3]
+Model theory
+
+[Passage 4]
+Model theory
+
+[Passage 5]
+Model theory",False,1.0,0.0,1.0,1,0.99999964,0.99999964,0.99999964,0.9859851598739624,False,0.001778522040694952,True
+347,What type of Turing machine can be characterized by checking multiple possibilities at the same time?,Non-deterministic Turing machine,non-deterministic,"[Passage 1]
+Non-deterministic Turing machine
+
+[Passage 2]
+Non-deterministic Turing machine
+
+[Passage 3]
+Non-deterministic Turing machine
+
+[Passage 4]
+Non-deterministic Turing machine
+
+[Passage 5]
+Non-deterministic Turing machine",True,0.6666666666666666,0.5,0.6666666666666666,0,0.7146547,0.86960804,0.7845535,0.015475613065063953,True,0.7888545989990234,False
+348,What often affects or facilitates ease of analysis in computational problems?,ease of analysis,unusual resources,"[Passage 1]
+Computational complexity
+
+[Passage 2]
+Computational complexity
+
+[Passage 3]
+Computational complexity
+
+[Passage 4]
+Computational complexity
+
+[Passage 5]
+Computational complexity",True,0.0,0.0,0.0,0,0.5982377,0.5142369,0.5530659,0.009889624081552029,True,0.005753517150878906,True
+349,A non-deterministic Turing machine has the ability to capture what facet of useful analysis?,unanswerable,mathematical models,"[Passage 1]
+Non-deterministic Turing machine
+
+[Passage 2]
+Non-deterministic Turing machine
+
+[Passage 3]
+Non-deterministic Turing machine
+
+[Passage 4]
+Non-deterministic Turing machine
+
+[Passage 5]
+Non-deterministic Turing machine",True,0.0,0.0,0.0,0,0.42119083,0.52952117,0.4691841,0.0003517460427246988,True,0.0015040204161778092,True
+350,What is the most critical resource in the analysis of computational problems associated with non-deterministic Turing machines?,resource in the analysis of computational problems associated with non-deterministic Turing machines,time,"[Passage 1]
+Non-deterministic Turing machine
+
+[Passage 2]
+Non-deterministic Turing machine
+
+[Passage 3]
+Non-deterministic Turing machine
+
+[Passage 4]
+Non-deterministic Turing machine
+
+[Passage 5]
+Non-deterministic Turing machine",True,0.0,0.0,0.0,0,0.33010042,0.3331,0.33159342,0.1026628240942955,True,0.09509479999542236,True
+351,What is harder to analyze in terms of more unusual resources?,unanswerable,unanswerable,"[Passage 1]
+Non-standard analysis
+
+[Passage 2]
+Non-standard analysis
+
+[Passage 3]
+Non-standard analysis
+
+[Passage 4]
+Non-standard analysis
+
+[Passage 5]
+Non-standard analysis",False,1.0,0.0,1.0,1,0.99999964,0.99999964,0.99999964,0.9859851598739624,False,0.001505757332779467,True
+352,What type of machine is a computational model that is not allowed to branch out to check many different possibilities at once?,unanswerable,unanswerable,"[Passage 1]
+Non-deterministic Turing machine
+
+[Passage 2]
+Non-deterministic Turing machine
+
+[Passage 3]
+Non-deterministic Turing machine
+
+[Passage 4]
+Non-deterministic Turing machine
+
+[Passage 5]
+Non-deterministic Turing machine",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.0015040204161778092,True
+353,What has a lot to do with how we physically want to compute algorithms?,unanswerable,unanswerable,"[Passage 1]
+Computation
+
+[Passage 2]
+Computation
+
+[Passage 3]
+Computation
+
+[Passage 4]
+Computation
+
+[Passage 5]
+Computation",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.0013651419430971146,True
+354,What machine's branching does not exactly capture many of the mathematical models we want to analyze?,unanswerable,unanswerable,"[Passage 1]
+Analytical Engine
+
+[Passage 2]
+Analytical Engine
+
+[Passage 3]
+Analytical Engine
+
+[Passage 4]
+Analytical Engine
+
+[Passage 5]
+Analytical Engine",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.005186805967241526,True
+355,What is the least critical resource in the analysis of computational problems associated with non-deterministic Turing machines?,unanswerable,unanswerable,"[Passage 1]
+Non-deterministic Turing machine
+
+[Passage 2]
+Non-deterministic Turing machine
+
+[Passage 3]
+Non-deterministic Turing machine
+
+[Passage 4]
+Non-deterministic Turing machine
+
+[Passage 5]
+Non-deterministic Turing machine",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.0015040204161778092,True
+356,The time required to output an answer on a deterministic Turing machine is expressed as what?,unanswerable,state transitions,"[Passage 1]
+Non-deterministic Turing machine
+
+[Passage 2]
+Non-deterministic Turing machine
+
+[Passage 3]
+Non-deterministic Turing machine
+
+[Passage 4]
+Non-deterministic Turing machine
+
+[Passage 5]
+Non-deterministic Turing machine",True,0.0,0.0,0.0,0,0.28221342,0.4996627,0.36070043,0.0005164463073015213,True,0.0015040204161778092,True
+357,Complexity theory classifies problems based on what primary attribute?,the inherent difficulty of the problem,difficulty,"[Passage 1]
+Computational complexity theory
+
+[Passage 2]
+Computational complexity theory
+
+[Passage 3]
+Computational complexity theory
+
+[Passage 4]
+Computational complexity theory
+
+[Passage 5]
+Computational complexity theory",True,0.2857142857142857,0.0,0.2857142857142857,0,0.6164484,0.6843724,0.648637,0.08432305604219437,True,0.003322657896205783,True
+358,What is the expression used to identify any given series of problems capable of being solved within time on a deterministic Turing machine?,unanswerable,DTIME(f(n)),"[Passage 1]
+Non-deterministic Turing machine
+
+[Passage 2]
+Non-deterministic Turing machine
+
+[Passage 3]
+Non-deterministic Turing machine
+
+[Passage 4]
+Non-deterministic Turing machine
+
+[Passage 5]
+Non-deterministic Turing machine",True,0.0,0.0,0.0,0,0.33088914,0.371541,0.35003874,0.0023724997881799936,True,0.0015040204161778092,True
+359,What is the most critical resource measured to in assessing the determination of a Turing machine's ability to solve any given set of problems?,time,time,"[Passage 1]
+Turing machine
+
+[Passage 2]
+Turing machine
+
+[Passage 3]
+Turing machine
+
+[Passage 4]
+Turing machine
+
+[Passage 5]
+Turing machine",True,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9381709694862366,False,0.052848607301712036,True
+360,What is not used for a precise definition of what it means to solve a problem using a given amount of time and space?,unanswerable,unanswerable,"[Passage 1]
+Solution
+
+[Passage 2]
+Solution
+
+[Passage 3]
+Solution
+
+[Passage 4]
+Solution
+
+[Passage 5]
+Solution",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.0024628276005387306,True
+361,How is Turing machine M said not to operate?,unanswerable,unanswerable,"[Passage 1]
+Turing machine
+
+[Passage 2]
+Turing machine
+
+[Passage 3]
+Turing machine
+
+[Passage 4]
+Turing machine
+
+[Passage 5]
+Turing machine",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.0018864799058064818,True
+362,What is the expression used to identify any given series of solutions capable of being solved within time on a deterministic Turing machine?,unanswerable,unanswerable,"[Passage 1]
+Non-deterministic Turing machine
+
+[Passage 2]
+Non-deterministic Turing machine
+
+[Passage 3]
+Non-deterministic Turing machine
+
+[Passage 4]
+Non-deterministic Turing machine
+
+[Passage 5]
+Non-deterministic Turing machine",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.0015040204161778092,True
+363,What is the least critical resource measured in assessing the determination of a Turing machine's ability to solve any given set of problems?,unanswerable,unanswerable,"[Passage 1]
+Turing completeness
+
+[Passage 2]
+Turing completeness
+
+[Passage 3]
+Turing completeness
+
+[Passage 4]
+Turing completeness
+
+[Passage 5]
+Turing completeness",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.0019055239390581846,True
+364,How can decision problem B be solved in time x(f)?,unanswerable,unanswerable,"[Passage 1]
+Decision problem
+
+[Passage 2]
+Decision problem
+
+[Passage 3]
+Decision problem
+
+[Passage 4]
+Decision problem
+
+[Passage 5]
+Decision problem",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.000666550942696631,True
+365,Time and space are both examples of what type of resource?,unanswerable,complexity resources,"[Passage 1]
+Spacetime
+
+[Passage 2]
+Spacetime
+
+[Passage 3]
+Spacetime
+
+[Passage 4]
+Spacetime
+
+[Passage 5]
+Spacetime",True,0.0,0.0,0.0,0,0.33294588,0.4762897,0.3919222,0.03257333114743233,True,0.004365009721368551,True
+366,A complexity resource can also be described as what other type of resource?,unanswerable,computational resource,"[Passage 1]
+Complexity
+
+[Passage 2]
+Complexity
+
+[Passage 3]
+Complexity
+
+[Passage 4]
+Complexity
+
+[Passage 5]
+Complexity",True,0.0,0.0,0.0,0,0.443994,0.5228853,0.48022115,0.00019498090841807425,True,0.0014574796659871936,True
+367,What is typically used to broadly define complexity measures?,unanswerable,Blum complexity axioms,"[Passage 1]
+Complexity
+
+[Passage 2]
+Complexity
+
+[Passage 3]
+Complexity
+
+[Passage 4]
+Complexity
+
+[Passage 5]
+Complexity",True,0.0,0.0,0.0,0,0.37311208,0.44576102,0.4062139,0.041929084807634354,True,0.0014574796659871936,True
+368,Communication complexity is an example of what type of measure?,unanswerable,Complexity measures,"[Passage 1]
+Complexity
+
+[Passage 2]
+Complexity
+
+[Passage 3]
+Complexity
+
+[Passage 4]
+Complexity
+
+[Passage 5]
+Complexity",True,0.0,0.0,0.0,0,0.41712344,0.53460926,0.46861488,0.01511472463607788,True,0.0014574796659871936,True
+369,Decision tree is an example of what type of measure?,unanswerable,Complexity measures,"[Passage 1]
+Tree (data structure)
+
+[Passage 2]
+Tree (data structure)
+
+[Passage 3]
+Tree (data structure)
+
+[Passage 4]
+Tree (data structure)
+
+[Passage 5]
+Tree (data structure)",True,0.0,0.0,0.0,0,0.41712344,0.53460926,0.46861488,0.01511472463607788,True,0.004238024819642305,True
+370,What can not be made for space requirements?,unanswerable,unanswerable,"[Passage 1]
+Space
+
+[Passage 2]
+Space
+
+[Passage 3]
+Space
+
+[Passage 4]
+Space
+
+[Passage 5]
+Space",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.0023251327220350504,True
+371,What are the least well known complexity resources?,unanswerable,unanswerable,"[Passage 1]
+Complexity
+
+[Passage 2]
+Complexity
+
+[Passage 3]
+Complexity
+
+[Passage 4]
+Complexity
+
+[Passage 5]
+Complexity",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.0014574796659871936,True
+372,How are complexity measures generally not defined?,unanswerable,unanswerable,"[Passage 1]
+Complexity
+
+[Passage 2]
+Complexity
+
+[Passage 3]
+Complexity
+
+[Passage 4]
+Complexity
+
+[Passage 5]
+Complexity",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.0014574796659871936,True
+373,What are other complexity measures not used in complexity theory?,unanswerable,unanswerable,"[Passage 1]
+Complexity
+
+[Passage 2]
+Complexity
+
+[Passage 3]
+Complexity
+
+[Passage 4]
+Complexity
+
+[Passage 5]
+Complexity",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.0014574796659871936,True
+374,What type of measure is communication complexity not an example of?,unanswerable,unanswerable,"[Passage 1]
+Computational complexity
+
+[Passage 2]
+Computational complexity
+
+[Passage 3]
+Computational complexity
+
+[Passage 4]
+Computational complexity
+
+[Passage 5]
+Computational complexity",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.0009421533904969692,True
+375,What are the three primary expressions used to represent case complexity?,unanswerable,"best, worst and average","[Passage 1]
+NC (complexity)
+
+[Passage 2]
+NC (complexity)
+
+[Passage 3]
+NC (complexity)
+
+[Passage 4]
+NC (complexity)
+
+[Passage 5]
+NC (complexity)",True,0.0,0.0,0.0,0,0.29805568,0.3121203,0.3049259,0.00023778071044944227,True,0.011116791516542435,True
+376,Case complexity likelihoods provide variable probabilities of what general measure? ,unanswerable,complexity measure,"[Passage 1]
+Kolmogorov complexity
+
+[Passage 2]
+Kolmogorov complexity
+
+[Passage 3]
+Kolmogorov complexity
+
+[Passage 4]
+Kolmogorov complexity
+
+[Passage 5]
+Kolmogorov complexity",True,0.0,0.0,0.0,0,0.34723836,0.49929708,0.40961096,0.0005960862617939711,True,0.003584727644920349,True
+377,What is one common example of a critical complexity measure?,unanswerable,time,"[Passage 1]
+Complexity
+
+[Passage 2]
+Complexity
+
+[Passage 3]
+Complexity
+
+[Passage 4]
+Complexity
+
+[Passage 5]
+Complexity",True,0.0,0.0,0.0,0,0.29046625,0.30504268,0.29757607,0.0025708978064358234,True,0.0014574796659871936,True
+378,Case complexities provide three likelihoods of what differing variable that remains the same size? ,unanswerable,inputs,"[Passage 1]
+Statistical regularity
+
+[Passage 2]
+Statistical regularity
+
+[Passage 3]
+Statistical regularity
+
+[Passage 4]
+Statistical assumption
+
+[Passage 5]
+Statistical assumption",True,0.0,0.0,0.0,0,0.38098818,0.37332278,0.37711653,0.0011386764235794544,True,0.0016143593238666654,True
+379,What are the three secondary expressions used to represent case complexity? ,unanswerable,unanswerable,"[Passage 1]
+Complexity
+
+[Passage 2]
+Complexity
+
+[Passage 3]
+Complexity
+
+[Passage 4]
+Complexity
+
+[Passage 5]
+Complexity",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.0014574796659871936,True
+380,What three different ways are used to measure space complexity?,unanswerable,unanswerable,"[Passage 1]
+Complexity
+
+[Passage 2]
+Complexity
+
+[Passage 3]
+Complexity
+
+[Passage 4]
+Complexity
+
+[Passage 5]
+Complexity",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.0014574796659871936,True
+381,What is one not common example of a critical complexity measure?,unanswerable,unanswerable,"[Passage 1]
+Complexity
+
+[Passage 2]
+Complexity
+
+[Passage 3]
+Complexity
+
+[Passage 4]
+Complexity
+
+[Passage 5]
+Complexity",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.0014574796659871936,True
+382,What differing variable remains the same size when providing the four likelihoods of case complexities?,case complexities,unanswerable,"[Passage 1]
+Likelihood principle
+
+[Passage 2]
+Likelihood principle
+
+[Passage 3]
+Likelihood principle
+
+[Passage 4]
+Likelihood principle
+
+[Passage 5]
+Likelihood principle",False,0.0,0.0,0.0,0,0.3384946,0.35521042,0.3466511,0.0025121732614934444,True,0.00573492469266057,True
+383,What provides a solution to a list of integers provided as input that ned to be sorted?,unanswerable,deterministic sorting algorithm quicksort,"[Passage 1]
+Sorting algorithm
+
+[Passage 2]
+Sorting algorithm
+
+[Passage 3]
+Sorting algorithm
+
+[Passage 4]
+Sorting algorithm
+
+[Passage 5]
+Sorting algorithm",True,0.0,0.0,0.0,0,0.42221642,0.39784193,0.40966693,9.841893916018307e-05,True,0.0007897599716670811,True
+384,"When extensive time is required to sort integers, this represents what case complexity?",unanswerable,worst-case,"[Passage 1]
+Computational complexity
+
+[Passage 2]
+Computational complexity
+
+[Passage 3]
+Computational complexity
+
+[Passage 4]
+Computational complexity
+
+[Passage 5]
+Computational complexity",True,0.0,0.0,0.0,0,0.4036114,0.5637297,0.47041884,0.009369822219014168,True,0.0009421533904969692,True
+385,What is the expression used to denote a worst case complexity as expressed by time taken?,unanswerable,O(n2),"[Passage 1]
+Irreducible complexity
+
+[Passage 2]
+Irreducible complexity
+
+[Passage 3]
+Irreducible complexity
+
+[Passage 4]
+Irreducible complexity
+
+[Passage 5]
+Irreducible complexity",True,0.0,0.0,0.0,0,0.32059526,0.41140154,0.36036602,0.00224363524466753,True,0.0035593395587056875,True
+386,What does not solve the problem of sorting a list of integers that is given as the input?,unanswerable,unanswerable,"[Passage 1]
+Sorting algorithm
+
+[Passage 2]
+Sorting algorithm
+
+[Passage 3]
+Sorting algorithm
+
+[Passage 4]
+Sorting algorithm
+
+[Passage 5]
+Sorting algorithm",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.0007897599716670811,True
+387,What does the deterministic parting algorithm quicksort do?,unanswerable,unanswerable,"[Passage 1]
+Sorting algorithm
+
+[Passage 2]
+Sorting algorithm
+
+[Passage 3]
+Sorting algorithm
+
+[Passage 4]
+Sorting algorithm
+
+[Passage 5]
+Sorting algorithm",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.0007897599716670811,True
+388,What case complexity is represented when limited time is required to sort integers?,unanswerable,unanswerable,"[Passage 1]
+Computational complexity
+
+[Passage 2]
+Computational complexity
+
+[Passage 3]
+Computational complexity
+
+[Passage 4]
+Computational complexity
+
+[Passage 5]
+Computational complexity",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.0009421533904969692,True
+389,What is the expression not used to denote worst case complexity as expressed by time taken?,unanswerable,unanswerable,"[Passage 1]
+Irreducible complexity
+
+[Passage 2]
+Irreducible complexity
+
+[Passage 3]
+Irreducible complexity
+
+[Passage 4]
+Irreducible complexity
+
+[Passage 5]
+Irreducible complexity",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.0035593395587056875,True
+390,"What case complexity is represented when each pivoting divides the list in thirds, also needing O(n log n) time?",unanswerable,unanswerable,"[Passage 1]
+Computational complexity
+
+[Passage 2]
+Computational complexity
+
+[Passage 3]
+Computational complexity
+
+[Passage 4]
+Computational complexity
+
+[Passage 5]
+Computational complexity",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.0009421533904969692,True
+391,Classification of resources is contingent on determining the upper and lower bounds of minimum time required by what?  ,unanswerable,the most efficient algorithm,"[Passage 1]
+Cahn–Ingold–Prelog priority rules
+
+[Passage 2]
+Cahn–Ingold–Prelog priority rules
+
+[Passage 3]
+Cahn–Ingold–Prelog priority rules
+
+[Passage 4]
+Cahn–Ingold–Prelog priority rules
+
+[Passage 5]
+Cahn–Ingold–Prelog priority rules",True,0.0,0.0,0.0,0,0.42108583,0.41447222,0.41775283,7.045485835988075e-05,True,0.002677332377061248,True
+392,The analysis of a specific algorithm is typically assigned to what field of computational science?,computational science,analysis of algorithms,"[Passage 1]
+Analysis of algorithms
+
+[Passage 2]
+Analysis of algorithms
+
+[Passage 3]
+Analysis of algorithms
+
+[Passage 4]
+Analysis of algorithms
+
+[Passage 5]
+Analysis of algorithms",True,0.0,0.0,0.0,0,0.66422516,0.7017033,0.68245006,0.8744683861732483,False,0.005761883687227964,True
+393,Which bound of time is more difficult to establish?,unanswerable,lower bounds,"[Passage 1]
+Time constraint
+
+[Passage 2]
+Time constraint
+
+[Passage 3]
+Time constraint
+
+[Passage 4]
+The Time in Between
+
+[Passage 5]
+The Time in Between",True,0.0,0.0,0.0,0,0.34412366,0.3702544,0.35671112,0.0667119175195694,True,0.0018069794168695807,True
+394,A specific algorithm demonstrating T(n) represents what measure of time complexity?,unanswerable,upper bound,"[Passage 1]
+Computational complexity
+
+[Passage 2]
+Computational complexity
+
+[Passage 3]
+Computational complexity
+
+[Passage 4]
+Computational complexity
+
+[Passage 5]
+Computational complexity",True,0.0,0.0,0.0,0,0.41318035,0.45269036,0.43203393,0.014299575239419937,True,0.0009421533904969692,True
+395,What is the colloquial phrase used to convey the continuum of algorithms with unlimited availability irrespective of time? ,unanswerable,all possible algorithms,"[Passage 1]
+Computation
+
+[Passage 2]
+Computation
+
+[Passage 3]
+Computation
+
+[Passage 4]
+Computation
+
+[Passage 5]
+Computation",True,0.0,0.0,0.0,0,0.44902682,0.44902682,0.44902682,0.0003560174081940204,True,0.0013651419430971146,True
+396,How does one note classify the computation time (or similar resources)?,unanswerable,unanswerable,"[Passage 1]
+Computation
+
+[Passage 2]
+Computation
+
+[Passage 3]
+Computation
+
+[Passage 4]
+Computation
+
+[Passage 5]
+Computation",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.0013651419430971146,True
+397,"What is usually taken as the best case complexity, unless specified otherwise?",unanswerable,unanswerable,"[Passage 1]
+Computational complexity
+
+[Passage 2]
+Computational complexity
+
+[Passage 3]
+Computational complexity
+
+[Passage 4]
+Computational complexity
+
+[Passage 5]
+Computational complexity",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.0009421533904969692,True
+398,What does not fall under the field of analysis of algorithms>,unanswerable,unanswerable,"[Passage 1]
+Analysis of algorithms
+
+[Passage 2]
+Analysis of algorithms
+
+[Passage 3]
+Analysis of algorithms
+
+[Passage 4]
+Analysis of algorithms
+
+[Passage 5]
+Analysis of algorithms",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.0016014209249988198,True
+399,When does one not need to show only that there is a particular algorithm running time at mons T(nO?,unanswerable,unanswerable,"[Passage 1]
+Analysis of algorithms
+
+[Passage 2]
+Analysis of algorithms
+
+[Passage 3]
+Analysis of algorithms
+
+[Passage 4]
+Analysis of algorithms
+
+[Passage 5]
+Analysis of algorithms",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.0016014209249988198,True
+400,What is easy about proving lower bounds?,unanswerable,unanswerable,"[Passage 1]
+Conditional proof
+
+[Passage 2]
+Conditional proof
+
+[Passage 3]
+Conditional proof
+
+[Passage 4]
+Automated theorem proving
+
+[Passage 5]
+Automated theorem proving",False,1.0,0.0,1.0,1,0.99999964,0.99999964,0.99999964,0.9859851598739624,False,0.0011057275114580989,True
+401,What expression is generally used to convey upper or lower bounds?,unanswerable,big O notation,"[Passage 1]
+Z notation
+
+[Passage 2]
+Z notation
+
+[Passage 3]
+Z notation
+
+[Passage 4]
+Polish notation
+
+[Passage 5]
+Polish notation",True,0.0,0.0,0.0,0,0.37692013,0.3358935,0.3552262,0.0008103212458081543,True,0.00408013304695487,True
+402,What does a big O notation hide?,unanswerable,constant factors and smaller terms,"[Passage 1]
+Analysis of algorithms
+
+[Passage 2]
+Analysis of algorithms
+
+[Passage 3]
+Analysis of algorithms
+
+[Passage 4]
+Analysis of algorithms
+
+[Passage 5]
+Analysis of algorithms",True,0.0,0.0,0.0,0,0.4145413,0.36006498,0.38538754,0.0005427786963991821,True,0.0016014209249988198,True
+403,How would one write T(n) = 7n2 + 15n + 40 in big O notation? ,T(n) = 7n2 + 15n + 40 in big O notation is written as O(n2).,T(n) = O(n2),"[Passage 1]
+Natural logarithm
+
+[Passage 2]
+Natural logarithm
+
+[Passage 3]
+Natural logarithm
+
+[Passage 4]
+Natural logarithm
+
+[Passage 5]
+Natural logarithm",True,0.4444444444444445,0.25,0.4444444444444445,0,0.6098412,0.82961893,0.7029522,0.011202419176697731,True,0.011839772574603558,True
+404,Big O notation provides autonomy to upper and lower bounds with relationship to what? ,time complexity,the computational model,"[Passage 1]
+Analysis of algorithms
+
+[Passage 2]
+Analysis of algorithms
+
+[Passage 3]
+Analysis of algorithms
+
+[Passage 4]
+Analysis of algorithms
+
+[Passage 5]
+Analysis of algorithms",True,0.0,0.0,0.0,0,0.4529652,0.5067364,0.47834444,0.013833713717758656,True,0.0005515556549653411,True
+405,What is usually not stated using the big O notation?,unanswerable,unanswerable,"[Passage 1]
+Square-free integer
+
+[Passage 2]
+Square-free integer
+
+[Passage 3]
+Square-free integer
+
+[Passage 4]
+Square-free integer
+
+[Passage 5]
+Square-free integer",False,1.0,0.0,1.0,1,0.99999964,0.99999964,0.99999964,0.9859851598739624,False,0.001675399369560182,True
+406,What does not hide constant factors or smaller terms?,unanswerable,unanswerable,"[Passage 1]
+Physical constant
+
+[Passage 2]
+Physical constant
+
+[Passage 3]
+Physical constant
+
+[Passage 4]
+Physical constant
+
+[Passage 5]
+Physical constant",False,1.0,0.0,1.0,1,0.99999964,0.99999964,0.99999964,0.9859851598739624,False,0.001350628910586238,True
+407,What makes the bounds dependent of the specific details of the computational model?,unanswerable,unanswerable,"[Passage 1]
+Computational complexity
+
+[Passage 2]
+Computational complexity
+
+[Passage 3]
+Computational complexity
+
+[Passage 4]
+Computational complexity
+
+[Passage 5]
+Computational complexity",False,1.0,0.0,1.0,1,0.99999964,0.99999964,0.99999964,0.9859851598739624,False,0.0009421533904969692,True
+408,How would one abbreviate T(n)=8n2 + 16n = 40 in big O notatation?,O(n²),unanswerable,"[Passage 1]
+N
+
+[Passage 2]
+N
+
+[Passage 3]
+N
+
+[Passage 4]
+Musical notation
+
+[Passage 5]
+Musical notation",False,0.0,0.0,0.0,0,0.40384248,0.336317,0.3669995,0.04676755890250206,True,0.0005273038987070322,True
+409,What has complicated definitions that prevent classification into a framework?,unanswerable,complexity classes,"[Passage 1]
+Library classification
+
+[Passage 2]
+Library classification
+
+[Passage 3]
+Library classification
+
+[Passage 4]
+Library classification
+
+[Passage 5]
+Library classification",True,0.0,0.0,0.0,0,0.3320846,0.50154936,0.39959222,0.00462015625089407,True,0.00299778557382524,True
+410,Complexity classes are generally classified into what?,computational complexity,framework,"[Passage 1]
+Computational complexity
+
+[Passage 2]
+Computational complexity
+
+[Passage 3]
+Computational complexity
+
+[Passage 4]
+Computational complexity
+
+[Passage 5]
+Computational complexity",True,0.0,0.0,0.0,0,0.068442605,0.13848165,0.09160883,0.04423823207616806,True,0.9162806272506714,False
+411,Difficulty in establishing a framework for complexity classes can be caused by what variable?,unanswerable,complicated definitions,"[Passage 1]
+Complexity
+
+[Passage 2]
+Complexity
+
+[Passage 3]
+Complexity
+
+[Passage 4]
+Complexity
+
+[Passage 5]
+Complexity",True,0.0,0.0,0.0,0,0.45789343,0.4774741,0.4674788,0.003952174913138151,True,0.0014574796659871936,True
+412,What fits the framework of complexity classes?,computational complexity theory,unanswerable,"[Passage 1]
+Computational complexity theory
+
+[Passage 2]
+Computational complexity theory
+
+[Passage 3]
+Computational complexity theory
+
+[Passage 4]
+Computational complexity theory
+
+[Passage 5]
+Computational complexity theory",False,0.0,0.0,0.0,0,0.49627674,0.43333054,0.4626725,0.0013434618012979627,True,0.8564092516899109,False
+413,What has uncomplicated definitions that prevent classification into a framework?,unanswerable,unanswerable,"[Passage 1]
+Library classification
+
+[Passage 2]
+Library classification
+
+[Passage 3]
+Library classification
+
+[Passage 4]
+Library classification
+
+[Passage 5]
+Library classification",False,1.0,0.0,1.0,1,0.99999964,0.99999964,0.99999964,0.9859851598739624,False,0.00299778557382524,True
+414,What are complexity classes generally not classified into?,unanswerable,unanswerable,"[Passage 1]
+Computational complexity
+
+[Passage 2]
+Computational complexity
+
+[Passage 3]
+Computational complexity
+
+[Passage 4]
+Computational complexity
+
+[Passage 5]
+Computational complexity",False,1.0,0.0,1.0,1,0.99999964,0.99999964,0.99999964,0.9859851598739624,False,0.0009421533904969692,True
+415,What variable is easy to establish in a framework for complexity classes?,unanswerable,unanswerable,"[Passage 1]
+Computational complexity theory
+
+[Passage 2]
+Computational complexity theory
+
+[Passage 3]
+Computational complexity theory
+
+[Passage 4]
+Computational complexity theory
+
+[Passage 5]
+Computational complexity theory",False,1.0,0.0,1.0,1,0.99999964,0.99999964,0.99999964,0.9859851598739624,False,0.0012006990145891905,True
+416,Concrete bounding of computation time frequently produces complexity classes contingent upon what?,the unanswerable,chosen machine model,"[Passage 1]
+Computational complexity
+
+[Passage 2]
+Computational complexity
+
+[Passage 3]
+Computational complexity
+
+[Passage 4]
+Computational complexity
+
+[Passage 5]
+Computational complexity",True,0.0,0.0,0.0,0,0.46636382,0.3464228,0.3975436,0.00014291195839177817,True,0.001449120813049376,True
+417,A multi-tape Turing machine requires what type of time for a solution?,unanswerable,linear time,"[Passage 1]
+Non-deterministic Turing machine
+
+[Passage 2]
+Non-deterministic Turing machine
+
+[Passage 3]
+Non-deterministic Turing machine
+
+[Passage 4]
+Non-deterministic Turing machine
+
+[Passage 5]
+Non-deterministic Turing machine",True,0.0,0.0,0.0,0,0.37334472,0.42473942,0.39738724,0.00034348119515925646,True,0.0015040204161778092,True
+418,A language solved in quadratic time implies the use of what type of Turing machine?,unanswerable,single-tape Turing machines,"[Passage 1]
+Turing machine
+
+[Passage 2]
+Turing machine
+
+[Passage 3]
+Turing machine
+
+[Passage 4]
+Turing machine
+
+[Passage 5]
+Turing machine",True,0.0,0.0,0.0,0,0.3916201,0.4484142,0.41809723,0.004695748910307884,True,0.0018864799058064818,True
+419,What thesis specifies that a polynomial relationship exists within time complexities in a computational model? ,unanswerable,Cobham-Edmonds thesis,"[Passage 1]
+Computational complexity
+
+[Passage 2]
+Computational complexity
+
+[Passage 3]
+Computational complexity
+
+[Passage 4]
+Computational complexity
+
+[Passage 5]
+Computational complexity",True,0.0,0.0,0.0,0,0.3829504,0.43113777,0.40561792,0.002203182317316532,True,0.0009421533904969692,True
+420,Decision problems capable of being solved by a deterministic Turing machine while maintaining adherence to polynomial time belong to what class?,P,complexity class P,"[Passage 1]
+Non-deterministic Turing machine
+
+[Passage 2]
+Non-deterministic Turing machine
+
+[Passage 3]
+Non-deterministic Turing machine
+
+[Passage 4]
+Non-deterministic Turing machine
+
+[Passage 5]
+Non-deterministic Turing machine",True,0.5,0.0,0.5,0,0.6391687,0.51905537,0.57288384,0.5038155317306519,False,0.0748554915189743,True
+421,What does not often yield complexity classes that depend on the chosen machine model?,unanswerable,unanswerable,"[Passage 1]
+Kolmogorov complexity
+
+[Passage 2]
+Kolmogorov complexity
+
+[Passage 3]
+Kolmogorov complexity
+
+[Passage 4]
+Kolmogorov complexity
+
+[Passage 5]
+Kolmogorov complexity",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.003584727644920349,True
+422,What does not frequently produce complexity classes that have concrete bounding of computation time?,unanswerable,unanswerable,"[Passage 1]
+Computational complexity
+
+[Passage 2]
+Computational complexity
+
+[Passage 3]
+Computational complexity
+
+[Passage 4]
+Computational complexity
+
+[Passage 5]
+Computational complexity",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.0009421533904969692,True
+423,What can not be solved in linear time on multi-tape Turing machine?,unanswerable,unanswerable,"[Passage 1]
+Non-deterministic Turing machine
+
+[Passage 2]
+Non-deterministic Turing machine
+
+[Passage 3]
+Non-deterministic Turing machine
+
+[Passage 4]
+Non-deterministic Turing machine
+
+[Passage 5]
+Non-deterministic Turing machine",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.0015040204161778092,True
+424,What is not a binary string?,unanswerable,unanswerable,"[Passage 1]
+String (computer science)
+
+[Passage 2]
+String (computer science)
+
+[Passage 3]
+String (computer science)
+
+[Passage 4]
+String (computer science)
+
+[Passage 5]
+String (computer science)",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.009872854687273502,True
+425,What thesis specifies that a trinomial relationship exists within time complexities in a computational model?,unanswerable,unanswerable,"[Passage 1]
+Computational complexity
+
+[Passage 2]
+Computational complexity
+
+[Passage 3]
+Computational complexity
+
+[Passage 4]
+Computational complexity
+
+[Passage 5]
+Computational complexity",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.0009421533904969692,True
+426,What are two examples of measurements are bound within algorithms to establish complexity classes?,unanswerable,time or space,"[Passage 1]
+Computational complexity
+
+[Passage 2]
+Computational complexity
+
+[Passage 3]
+Computational complexity
+
+[Passage 4]
+Computational complexity
+
+[Passage 5]
+Computational complexity",True,0.0,0.0,0.0,0,0.3262902,0.33730903,0.3317081,0.005578133277595043,True,0.0009421533904969692,True
+427,What function is used by algorithms to define measurements like time or space?,unanswerable,bounding,"[Passage 1]
+Measurement
+
+[Passage 2]
+Measurement
+
+[Passage 3]
+Measurement
+
+[Passage 4]
+Measurement
+
+[Passage 5]
+Measurement",True,0.0,0.0,0.0,0,0.4495195,0.45875663,0.4540911,0.06182744354009628,True,0.004555120598524809,True
+428,Bounding of time and space or similar measurements is often used by algorithms to define what?,unanswerable,complexity classes,"[Passage 1]
+Algorithm
+
+[Passage 2]
+Algorithm
+
+[Passage 3]
+Algorithm
+
+[Passage 4]
+Algorithm
+
+[Passage 5]
+Algorithm",True,0.0,0.0,0.0,0,0.3320846,0.50154924,0.39959216,0.0046201166696846485,True,0.0005369357531890273,True
+429,What cannot be defined by bounding the time or space used the the algorithm?,unanswerable,unanswerable,"[Passage 1]
+Algorithm
+
+[Passage 2]
+Algorithm
+
+[Passage 3]
+Algorithm
+
+[Passage 4]
+Algorithm
+
+[Passage 5]
+Algorithm",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.0005369357531890273,True
+430,What are three examples of measurement that are bound within algorithms to establish complexity classes?,unanswerable,unanswerable,"[Passage 1]
+Computational complexity
+
+[Passage 2]
+Computational complexity
+
+[Passage 3]
+Computational complexity
+
+[Passage 4]
+Computational complexity
+
+[Passage 5]
+Computational complexity",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.0009421533904969692,True
+431,What function is used by algorithms to define measurements like time and numbers?,unanswerable,unanswerable,"[Passage 1]
+Measurement
+
+[Passage 2]
+Measurement
+
+[Passage 3]
+Measurement
+
+[Passage 4]
+Measurement
+
+[Passage 5]
+Measurement",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.004555120598524809,True
+432,What is often used by algorithms to measure bounding of space and atmosphere measurements?,unanswerable,unanswerable,"[Passage 1]
+Analysis of algorithms
+
+[Passage 2]
+Analysis of algorithms
+
+[Passage 3]
+Analysis of algorithms
+
+[Passage 4]
+Analysis of algorithms
+
+[Passage 5]
+Analysis of algorithms",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.0016014209249988198,True
+433,What are three examples of complexity classes associated with definitions established by probabilistic Turing machines?,unanswerable,"BPP, ZPP and RP","[Passage 1]
+Computational complexity
+
+[Passage 2]
+Computational complexity
+
+[Passage 3]
+Computational complexity
+
+[Passage 4]
+Computational complexity
+
+[Passage 5]
+Computational complexity",True,0.0,0.0,0.0,0,0.30770496,0.29556304,0.3015118,0.000259915686910972,True,0.0009421533904969692,True
+434,AC and NC are complexity classes typically associated with what type of circuit?,unanswerable,Boolean,"[Passage 1]
+NC (complexity)
+
+[Passage 2]
+NC (complexity)
+
+[Passage 3]
+NC (complexity)
+
+[Passage 4]
+NC (complexity)
+
+[Passage 5]
+NC (complexity)",True,0.0,0.0,0.0,0,0.39795545,0.45775482,0.42576566,0.002883901819586754,True,0.011116791516542435,True
+435,BQP and QMA are examples of complexity classes most commonly associated with what type of Turing machine?,quantum,quantum,"[Passage 1]
+Computational complexity
+
+[Passage 2]
+Computational complexity
+
+[Passage 3]
+Computational complexity
+
+[Passage 4]
+Computational complexity
+
+[Passage 5]
+Computational complexity",True,1.0,0.0,1.0,1,0.99999994,0.99999994,0.99999994,0.9455631375312805,False,0.003024837700650096,True
+436,What is the expression used to represent a complexity class of counting problems?,unanswerable,#P,"[Passage 1]
+Computational complexity theory
+
+[Passage 2]
+Computational complexity theory
+
+[Passage 3]
+Computational complexity theory
+
+[Passage 4]
+Computational complexity theory
+
+[Passage 5]
+Computational complexity theory",True,0.0,0.0,0.0,0,0.28665453,0.3138799,0.29965007,0.002350166207179427,True,0.0012006990145891905,True
+437,IP and AM are most commonly defined by what type of proof system?,unanswerable,Interactive,"[Passage 1]
+Proof by contradiction
+
+[Passage 2]
+Proof by contradiction
+
+[Passage 3]
+Proof by contradiction
+
+[Passage 4]
+Proof by contradiction
+
+[Passage 5]
+Proof by contradiction",True,0.0,0.0,0.0,0,0.45709264,0.53627527,0.4935281,0.0006208691629581153,True,0.00276082381606102,True
+438,What are the other four important complexity classes?,"PSPACE, NP, RP, ZPP",unanswerable,"[Passage 1]
+Computational complexity
+
+[Passage 2]
+Computational complexity
+
+[Passage 3]
+Computational complexity
+
+[Passage 4]
+Computational complexity
+
+[Passage 5]
+Computational complexity",False,0.0,0.0,0.0,0,0.34003285,0.3278498,0.33383018,0.002543285023421049,True,0.018639640882611275,True
+439,"What machine does not define BPP, ZPP, and RP?",unanswerable,unanswerable,"[Passage 1]
+BPP (complexity)
+
+[Passage 2]
+BPP (complexity)
+
+[Passage 3]
+BPP (complexity)
+
+[Passage 4]
+BPP (complexity)
+
+[Passage 5]
+BPP (complexity)",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.012680375017225742,True
+440,What machine does not define BQP or QMA?,unanswerable,unanswerable,"[Passage 1]
+BQP
+
+[Passage 2]
+BQP
+
+[Passage 3]
+BQP
+
+[Passage 4]
+BQP
+
+[Passage 5]
+BQP",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.0027824731077998877,True
+441,What is least important complexity class of counting problems?,unanswerable,unanswerable,"[Passage 1]
+Computational complexity theory
+
+[Passage 2]
+Computational complexity theory
+
+[Passage 3]
+Computational complexity theory
+
+[Passage 4]
+Computational complexity theory
+
+[Passage 5]
+Computational complexity theory",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.0012006990145891905,True
+442,What system not often define classes like IP and AM/,unanswerable,unanswerable,"[Passage 1]
+IP address
+
+[Passage 2]
+IP address
+
+[Passage 3]
+IP address
+
+[Passage 4]
+IP address
+
+[Passage 5]
+IP address",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.0005713165737688541,True
+443,What is an example of a measurement within a complexity class that would create a bigger set of problems if the bounds were relaxed?,unanswerable,computation time,"[Passage 1]
+Computational complexity
+
+[Passage 2]
+Computational complexity
+
+[Passage 3]
+Computational complexity
+
+[Passage 4]
+Computational complexity
+
+[Passage 5]
+Computational complexity",True,0.0,0.0,0.0,0,0.44160855,0.53541636,0.48400903,0.0001988768926821649,True,0.0009421533904969692,True
+444,In what expression can one expect to find DTIME(n),unanswerable,DTIME(n2),"[Passage 1]
+Time signature
+
+[Passage 2]
+Time signature
+
+[Passage 3]
+Time signature
+
+[Passage 4]
+Time signature
+
+[Passage 5]
+Time signature",True,0.0,0.0,0.0,0,0.33131784,0.40307367,0.36369023,0.0011666014324873686,True,0.002634533680975437,True
+445,What theorems are responsible for determining questions of time and space requirements?,unanswerable,time and space hierarchy theorems,"[Passage 1]
+Known Space
+
+[Passage 2]
+Known Space
+
+[Passage 3]
+Known Space
+
+[Passage 4]
+Known Space
+
+[Passage 5]
+Known Space",True,0.0,0.0,0.0,0,0.37653705,0.4016974,0.3887105,0.0002642320760060102,True,0.003412083489820361,True
+446,Resources are constrained by hierarchy theorems to produce what?,unanswerable,a proper hierarchy on the classes defined,"[Passage 1]
+Hierarchy
+
+[Passage 2]
+Hierarchy
+
+[Passage 3]
+Hierarchy
+
+[Passage 4]
+Hierarchy
+
+[Passage 5]
+Hierarchy",True,0.0,0.0,0.0,0,0.38692996,0.42703518,0.40599453,4.033878940390423e-05,True,0.0017724517965689301,True
+447,What kind of statement is made in the effort of establishing the time and space requirements needed to enhance the ultimate number of problems solved?,unanswerable,quantitative statements,"[Passage 1]
+Final Solution
+
+[Passage 2]
+Final Solution
+
+[Passage 3]
+Final Solution
+
+[Passage 4]
+Final Solution
+
+[Passage 5]
+Final Solution",True,0.0,0.0,0.0,0,0.42404282,0.4550501,0.43899962,0.00027593428967520595,True,0.0021261894144117832,True
+448,What is not an example of a measurement within a complexity class that would create a bigger set of problems if the bounds were relaxed?,unanswerable,unanswerable,"[Passage 1]
+Computational complexity
+
+[Passage 2]
+Computational complexity
+
+[Passage 3]
+Computational complexity
+
+[Passage 4]
+Computational complexity
+
+[Passage 5]
+Computational complexity",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.0009421533904969692,True
+449,What does not define a bigger set of problems?,unanswerable,unanswerable,"[Passage 1]
+Problem of universals
+
+[Passage 2]
+Problem of universals
+
+[Passage 3]
+Problem of universals
+
+[Passage 4]
+Problem of universals
+
+[Passage 5]
+Problem of universals",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.0007413490675389767,True
+450,What expression does not usually contain DTIME(n)?,unanswerable,unanswerable,"[Passage 1]
+Time signature
+
+[Passage 2]
+Time signature
+
+[Passage 3]
+Time signature
+
+[Passage 4]
+Time signature
+
+[Passage 5]
+Time signature",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.002634533680975437,True
+451,What does not induce a proper hierarchy on the classes defined by constraining the respective resources?,unanswerable,unanswerable,"[Passage 1]
+Equivalence class
+
+[Passage 2]
+Equivalence class
+
+[Passage 3]
+Equivalence class
+
+[Passage 4]
+Equivalence class
+
+[Passage 5]
+Equivalence class",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.004701442550867796,True
+452,What kind of statement is not made in an effort of establishing the time and space requirements needed to enhance the ultimate number of problems solved?,unanswerable,unanswerable,"[Passage 1]
+Time constraint
+
+[Passage 2]
+Time constraint
+
+[Passage 3]
+Time constraint
+
+[Passage 4]
+Time management
+
+[Passage 5]
+Time management",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.0013069574488326907,True
+453,What is the foundation for separation results within complexity classes?,unanswerable,time and space hierarchy theorems,"[Passage 1]
+Computational complexity theory
+
+[Passage 2]
+Computational complexity theory
+
+[Passage 3]
+Computational complexity theory
+
+[Passage 4]
+Computational complexity theory
+
+[Passage 5]
+Computational complexity theory",True,0.0,0.0,0.0,0,0.37653705,0.4016974,0.3887105,0.00026423181407153606,True,0.0012006990145891905,True
+454,What is responsible for constraining P according to the time hierarchy theorem?,I am unable to provide an accurate response based on the provided context.,EXPTIME,"[Passage 1]
+Time constraint
+
+[Passage 2]
+Time constraint
+
+[Passage 3]
+Time constraint
+
+[Passage 4]
+Uncertainty principle
+
+[Passage 5]
+Uncertainty principle",True,0.0,0.0,0.0,0,0.40722644,0.34491432,0.3734892,0.00313369813375175,True,0.000416441704146564,True
+455,Within what variable is L constrained according to the space hierarchy theorem?,unanswerable,PSPACE,"[Passage 1]
+Intermediate value theorem
+
+[Passage 2]
+Intermediate value theorem
+
+[Passage 3]
+Intermediate value theorem
+
+[Passage 4]
+Intermediate value theorem
+
+[Passage 5]
+Intermediate value theorem",True,0.0,0.0,0.0,0,0.33432317,0.49537927,0.39921966,0.03189000487327576,True,0.0009606374078430235,True
+456,What does not form the basis for most separation results of complexity classes?,unanswerable,unanswerable,"[Passage 1]
+Kolmogorov complexity
+
+[Passage 2]
+Kolmogorov complexity
+
+[Passage 3]
+Kolmogorov complexity
+
+[Passage 4]
+Kolmogorov complexity
+
+[Passage 5]
+Kolmogorov complexity",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.003584727644920349,True
+457,What does the past time and space hierarchy theorems form the basis of?,unanswerable,unanswerable,"[Passage 1]
+Hilbert's basis theorem
+
+[Passage 2]
+Hilbert's basis theorem
+
+[Passage 3]
+Hilbert's basis theorem
+
+[Passage 4]
+Hilbert's basis theorem
+
+[Passage 5]
+Hilbert's basis theorem",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.0005515015800483525,True
+458,What is not strictly contained in EXPTIME?,unanswerable,unanswerable,"[Passage 1]
+Law of excluded middle
+
+[Passage 2]
+Law of excluded middle
+
+[Passage 3]
+Law of excluded middle
+
+[Passage 4]
+Law of excluded middle
+
+[Passage 5]
+Law of excluded middle",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.0014557657996192575,True
+459,What is not strictly contained in PSPACE?,unanswerable,unanswerable,"[Passage 1]
+Namespace
+
+[Passage 2]
+Namespace
+
+[Passage 3]
+Namespace
+
+[Passage 4]
+Namespace
+
+[Passage 5]
+Namespace",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.0030975218396633863,True
+460,What concept is frequently used to define complexity classes?,computational complexity theory,reduction,"[Passage 1]
+Computational complexity theory
+
+[Passage 2]
+Computational complexity theory
+
+[Passage 3]
+Computational complexity theory
+
+[Passage 4]
+Computational complexity theory
+
+[Passage 5]
+Computational complexity theory",True,0.0,0.0,0.0,0,0.5603109,0.566817,0.56354517,0.11295619606971741,True,0.8564092516899109,False
+461,Reduction essentially takes one problem and converts into what?,unanswerable,another problem,"[Passage 1]
+Biconditional elimination
+
+[Passage 2]
+Biconditional elimination
+
+[Passage 3]
+Equivalence relation
+
+[Passage 4]
+Equivalence relation
+
+[Passage 5]
+Equivalence relation",True,0.0,0.0,0.0,0,0.381533,0.41503173,0.39757803,0.002867551986128092,True,0.0029012083541601896,True
+462,"According to reduction, if X and Y can be solved by the same algorithm then X performs what function in relationship to Y?",unanswerable,reduces,"[Passage 1]
+Algorithm
+
+[Passage 2]
+Algorithm
+
+[Passage 3]
+Algorithm
+
+[Passage 4]
+Algorithm
+
+[Passage 5]
+Algorithm",True,0.0,0.0,0.0,0,0.38930452,0.42116416,0.40460813,0.0006230165017768741,True,0.0005369357531890273,True
+463,What are two examples of different types of reduction?,unanswerable,Karp reductions and Levin reductions,"[Passage 1]
+Examples of differential equations
+
+[Passage 2]
+Examples of differential equations
+
+[Passage 3]
+Examples of differential equations
+
+[Passage 4]
+Examples of differential equations
+
+[Passage 5]
+Examples of differential equations",True,0.0,0.0,0.0,0,0.33926845,0.32497317,0.33196697,0.00020332746498752385,True,0.000968222098890692,True
+464,Polynomial time reductions are an example of what?,NP (complexity),the bound on the complexity of reductions,"[Passage 1]
+NP (complexity)
+
+[Passage 2]
+NP (complexity)
+
+[Passage 3]
+NP (complexity)
+
+[Passage 4]
+NP (complexity)
+
+[Passage 5]
+NP (complexity)",True,0.22222222222222224,0.0,0.22222222222222224,0,0.6692403,0.5341929,0.59413916,0.0014681307366117835,True,0.9447131752967834,False
+465,What are many complexity classes not defined by?,I cannot provide an accurate answer as the question is unanswerable with the given context.,unanswerable,"[Passage 1]
+Irreducible complexity
+
+[Passage 2]
+Irreducible complexity
+
+[Passage 3]
+Irreducible complexity
+
+[Passage 4]
+Irreducible complexity
+
+[Passage 5]
+Irreducible complexity",False,0.125,0.0,0.125,0,0.49176925,0.64164424,0.5567975,0.002477061003446579,True,0.0010808329097926617,True
+466,What is defined by using the theorem of reduction?,unanswerable,unanswerable,"[Passage 1]
+Theorem
+
+[Passage 2]
+Theorem
+
+[Passage 3]
+Theorem
+
+[Passage 4]
+Theorem
+
+[Passage 5]
+Theorem",False,1.0,0.0,1.0,1,0.99999964,0.99999964,0.99999964,0.9859851598739624,False,0.0006449038628488779,True
+467,What is a transformation of two problems into on three problems?,unanswerable,unanswerable,"[Passage 1]
+Affine transformation
+
+[Passage 2]
+Affine transformation
+
+[Passage 3]
+Affine transformation
+
+[Passage 4]
+Affine transformation
+
+[Passage 5]
+Affine transformation",False,1.0,0.0,1.0,1,0.99999964,0.99999964,0.99999964,0.9859851598739624,False,0.004248169716447592,True
+468,What captures the formal notion of a problem being at lease as difficult as another problem?,Decision problem,unanswerable,"[Passage 1]
+Decision problem
+
+[Passage 2]
+Decision problem
+
+[Passage 3]
+Decision problem
+
+[Passage 4]
+Decision problem
+
+[Passage 5]
+Decision problem",False,0.0,0.0,0.0,0,0.46625233,0.4623284,0.46428204,0.0006564426585100591,True,0.27826252579689026,True
+469,What are the six types of reductions?,unanswerable,unanswerable,"[Passage 1]
+Cut-up technique
+
+[Passage 2]
+Cut-up technique
+
+[Passage 3]
+Cut-up technique
+
+[Passage 4]
+Cut-up technique
+
+[Passage 5]
+Cut-up technique",False,1.0,0.0,1.0,1,0.99999964,0.99999964,0.99999964,0.9859851598739624,False,0.00221161893568933,True
+470,What is the most frequently employed type of reduction?,Cut-up technique,polynomial-time reduction,"[Passage 1]
+Cut-up technique
+
+[Passage 2]
+Cut-up technique
+
+[Passage 3]
+Cut-up technique
+
+[Passage 4]
+Cut-up technique
+
+[Passage 5]
+Cut-up technique",True,0.0,0.0,0.0,0,0.5906134,0.5309615,0.5592012,0.08135345578193665,True,0.9136236310005188,False
+471,What equates to a squared integer according to polynomial time reduction?,unanswerable,multiplying two integers,"[Passage 1]
+Square-free integer
+
+[Passage 2]
+Square-free integer
+
+[Passage 3]
+Square-free integer
+
+[Passage 4]
+Square-free integer
+
+[Passage 5]
+Square-free integer",True,0.0,0.0,0.0,0,0.38850135,0.42801213,0.4073008,0.00040742495912127197,True,0.001675399369560182,True
+472,What measurement of time is used in polynomial time reduction?,unanswerable,polynomial time,"[Passage 1]
+NP (complexity)
+
+[Passage 2]
+NP (complexity)
+
+[Passage 3]
+NP (complexity)
+
+[Passage 4]
+NP (complexity)
+
+[Passage 5]
+NP (complexity)",True,0.0,0.0,0.0,0,0.43239668,0.5253762,0.47437328,0.00023548111494164914,True,0.0054156119003891945,True
+473,What would need to remain constant in a multiplication algorithm to produce the same outcome whether multiplying or squaring two integers?  ,unanswerable,input,"[Passage 1]
+Multiplication
+
+[Passage 2]
+Multiplication
+
+[Passage 3]
+Multiplication
+
+[Passage 4]
+Multiplication
+
+[Passage 5]
+Multiplication",True,0.0,0.0,0.0,0,0.058885843,0.10651515,0.07584277,0.0009545643115416169,True,0.007541208062320948,True
+474,According to polynomial time reduction squaring can ultimately be logically reduced to what?,unanswerable,multiplication,"[Passage 1]
+Exponentiation by squaring
+
+[Passage 2]
+Exponentiation by squaring
+
+[Passage 3]
+Exponentiation by squaring
+
+[Passage 4]
+Exponentiation by squaring
+
+[Passage 5]
+Exponentiation by squaring",True,0.0,0.0,0.0,0,0.3815675,0.4319572,0.40520176,0.0015288706636056304,True,0.007286565378308296,True
+475,What is the least used type of reduction?,unanswerable,unanswerable,"[Passage 1]
+Minimal pair
+
+[Passage 2]
+Minimal pair
+
+[Passage 3]
+Minimal pair
+
+[Passage 4]
+Minimal pair
+
+[Passage 5]
+Minimal pair",False,1.0,0.0,1.0,1,0.99999964,0.99999964,0.99999964,0.9859851598739624,False,0.001897216192446649,True
+476,What is the meaning of polynomial-space reduction?,unanswerable,unanswerable,"[Passage 1]
+Polynomial
+
+[Passage 2]
+Polynomial
+
+[Passage 3]
+Polynomial
+
+[Passage 4]
+Polynomial
+
+[Passage 5]
+Polynomial",False,1.0,0.0,1.0,1,0.99999964,0.99999964,0.99999964,0.9859851598739624,False,0.0009884830797091126,True
+477,What can the problem of dividing an integer be reduced to?,Integer factorization,unanswerable,"[Passage 1]
+Integer factorization
+
+[Passage 2]
+Integer factorization
+
+[Passage 3]
+Integer factorization
+
+[Passage 4]
+Integer factorization
+
+[Passage 5]
+Integer factorization",False,0.0,0.0,0.0,0,0.4949962,0.39146554,0.43718517,0.00017372948059346527,True,0.9362800121307373,False
+478,What does one not need to remain constant in a multiplication algorithm to produce the same outcome whether multiplying or squaring two integers?,unanswerable,unanswerable,"[Passage 1]
+Multiplication
+
+[Passage 2]
+Multiplication
+
+[Passage 3]
+Multiplication
+
+[Passage 4]
+Multiplication
+
+[Passage 5]
+Multiplication",False,1.0,0.0,1.0,1,0.99999964,0.99999964,0.99999964,0.9859851598739624,False,0.007541208062320948,True
+479,What is more difficult that multiplication?,unanswerable,unanswerable,"[Passage 1]
+Multiplication
+
+[Passage 2]
+Multiplication
+
+[Passage 3]
+Multiplication
+
+[Passage 4]
+Multiplication
+
+[Passage 5]
+Multiplication",False,1.0,0.0,1.0,1,0.99999964,0.99999964,0.99999964,0.9859851598739624,False,0.007541208062320948,True
+480,The complexity of problems often depends on what?,the number of variables involved,the type of reduction being used,"[Passage 1]
+Complexity
+
+[Passage 2]
+Complexity
+
+[Passage 3]
+Complexity
+
+[Passage 4]
+Complexity
+
+[Passage 5]
+Complexity",True,0.3636363636363636,0.0,0.3636363636363636,0,0.6926654,0.68414664,0.6883797,0.004933411721140146,True,0.446568101644516,False
+481,What would create a conflict between a problem X and problem C within the context of reduction? ,unanswerable,if every problem in C can be reduced to X,"[Passage 1]
+Decision problem
+
+[Passage 2]
+Decision problem
+
+[Passage 3]
+Decision problem
+
+[Passage 4]
+Decision problem
+
+[Passage 5]
+Decision problem",True,0.0,0.0,0.0,0,0.37902206,0.40932637,0.39359176,0.0004243301518727094,True,0.000666550942696631,True
+482,An algorithm for X which reduces to C would us to do what?,unanswerable,solve any problem in C,"[Passage 1]
+Algorithm
+
+[Passage 2]
+Algorithm
+
+[Passage 3]
+Algorithm
+
+[Passage 4]
+Algorithm
+
+[Passage 5]
+Algorithm",True,0.0,0.0,0.0,0,0.43742695,0.37415332,0.4033236,8.944232831709087e-05,True,0.0005369357531890273,True
+483,A problem set that that is hard for the expression NP can also be stated how?,easy,NP-hard,"[Passage 1]
+NP (complexity)
+
+[Passage 2]
+NP (complexity)
+
+[Passage 3]
+NP (complexity)
+
+[Passage 4]
+NP (complexity)
+
+[Passage 5]
+NP (complexity)",True,0.0,0.0,0.0,0,0.43127978,0.39625823,0.41302797,0.0004003480134997517,True,0.02223297953605652,True
+484,What does the complexity of problems not often depend on?,unanswerable,unanswerable,"[Passage 1]
+Complexity
+
+[Passage 2]
+Complexity
+
+[Passage 3]
+Complexity
+
+[Passage 4]
+Complexity
+
+[Passage 5]
+Complexity",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.0014574796659871936,True
+485,What would not create a conflict between a problem X and problem C within the context of reduction?,unanswerable,unanswerable,"[Passage 1]
+Decision problem
+
+[Passage 2]
+Decision problem
+
+[Passage 3]
+Decision problem
+
+[Passage 4]
+Decision problem
+
+[Passage 5]
+Decision problem",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.000666550942696631,True
+486,What problem in C is harder than X?,unanswerable,unanswerable,"[Passage 1]
+P versus NP problem
+
+[Passage 2]
+P versus NP problem
+
+[Passage 3]
+P versus NP problem
+
+[Passage 4]
+P versus NP problem
+
+[Passage 5]
+P versus NP problem",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.0005438138614408672,True
+487,How is a problem set that is hard for expression QP be stated?,unanswerable,unanswerable,"[Passage 1]
+NP (complexity)
+
+[Passage 2]
+NP (complexity)
+
+[Passage 3]
+NP (complexity)
+
+[Passage 4]
+NP (complexity)
+
+[Passage 5]
+NP (complexity)",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.0054156119003891945,True
+488,The hardest problems in NP can be analogously written as what class of problems?,P (complexity),NP-complete,"[Passage 1]
+NP (complexity)
+
+[Passage 2]
+NP (complexity)
+
+[Passage 3]
+NP (complexity)
+
+[Passage 4]
+NP (complexity)
+
+[Passage 5]
+NP (complexity)",True,0.0,0.0,0.0,0,0.6202308,0.52692264,0.56978196,0.700872540473938,False,0.5931025147438049,False
+489,NP complete problems contain the lowest likelihood of being located in what problem class?,unanswerable,NP,"[Passage 1]
+NP (complexity)
+
+[Passage 2]
+NP (complexity)
+
+[Passage 3]
+NP (complexity)
+
+[Passage 4]
+NP (complexity)
+
+[Passage 5]
+NP (complexity)",True,0.0,0.0,0.0,0,0.26266235,0.35821214,0.30308488,0.019038667902350426,True,0.0054156119003891945,True
+490,"If P = NP is unsolved, and reduction is applied to a known NP-complete problem vis a vis Π2 to  Π1, what conclusion can be drawn for Π1?",unanswerable,there is no known polynomial-time solution,"[Passage 1]
+P versus NP problem
+
+[Passage 2]
+P versus NP problem
+
+[Passage 3]
+P versus NP problem
+
+[Passage 4]
+P versus NP problem
+
+[Passage 5]
+P versus NP problem",True,0.0,0.0,0.0,0,0.48971587,0.44829452,0.46809065,0.0133082689717412,True,0.0005438138614408672,True
+491,"If polynomial time can be utilized within an NP-complete problem, what does the imply P is equal to?",NP,NP,"[Passage 1]
+P versus NP problem
+
+[Passage 2]
+P versus NP problem
+
+[Passage 3]
+P versus NP problem
+
+[Passage 4]
+P versus NP problem
+
+[Passage 5]
+P versus NP problem",True,1.0,0.0,1.0,1,1.0000001,1.0000001,1.0000001,0.9602265357971191,False,0.10423765331506729,True
+492,"What happens if a problem X is in C, and soft for C?",unanswerable,unanswerable,"[Passage 1]
+C (programming language)
+
+[Passage 2]
+C (programming language)
+
+[Passage 3]
+C (programming language)
+
+[Passage 4]
+C (programming language)
+
+[Passage 5]
+C (programming language)",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.006557939574122429,True
+493,What is the softest problem in C?,unanswerable,unanswerable,"[Passage 1]
+C (programming language)
+
+[Passage 2]
+C (programming language)
+
+[Passage 3]
+C (programming language)
+
+[Passage 4]
+C (programming language)
+
+[Passage 5]
+C (programming language)",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.006557939574122429,True
+494,What is class contains the the least difficult problems in NP?,unanswerable,unanswerable,"[Passage 1]
+NP (complexity)
+
+[Passage 2]
+NP (complexity)
+
+[Passage 3]
+NP (complexity)
+
+[Passage 4]
+NP (complexity)
+
+[Passage 5]
+NP (complexity)",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.0054156119003891945,True
+495,What would indicate that there is a known polynomial-time solution for Ii1?,unanswerable,unanswerable,"[Passage 1]
+Irreducible complexity
+
+[Passage 2]
+Irreducible complexity
+
+[Passage 3]
+Irreducible complexity
+
+[Passage 4]
+Irreducible complexity
+
+[Passage 5]
+Irreducible complexity",False,1.0,0.0,1.0,1,1.0,1.0,1.0,0.9859851598739624,False,0.0035593395587056875,True
+496,What complexity class is characterized by a computational tasks and efficient algorithms?,unanswerable,P,"[Passage 1]
+Computational complexity
+
+[Passage 2]
+Computational complexity
+
+[Passage 3]
+Computational complexity
+
+[Passage 4]
+Computational complexity
+
+[Passage 5]
+Computational complexity",True,0.0,0.0,0.0,0,0.2639988,0.3257145,0.29162726,0.008171480149030685,True,0.0009421533904969692,True
+497,What hypothesis is associated with the complexity class of P viewed as a mathematical abstraction with efficient algorithmic functionality?,NP-complete,Cobham–Edmonds thesis,"[Passage 1]
+Computational complexity
+
+[Passage 2]
+Computational complexity
+
+[Passage 3]
+Computational complexity
+
+[Passage 4]
+Computational complexity
+
+[Passage 5]
+Computational complexity",True,0.0,0.0,0.0,0,0.42248434,0.49030223,0.45387393,0.006136156618595123,True,0.00034759301343001425,True
+498,What complexity class is commonly characterized by unknown algorithms to enhance solvability?,PSPACE,NP,"[Passage 1]
+Computational complexity
+
+[Passage 2]
+Computational complexity
+
+[Passage 3]
+Computational complexity
+
+[Passage 4]
+Computational complexity
+
+[Passage 5]
+Computational complexity",True,0.0,0.0,0.0,0,0.51362324,0.47122252,0.49151012,0.028654124587774277,True,0.00801829807460308,True
+499,What is an example of a problem that rests within the NP complexity class?,unanswerable,Boolean satisfiability problem,"[Passage 1]
+NP (complexity)
+
+[Passage 2]
+NP (complexity)
+
+[Passage 3]
+NP (complexity)
+
+[Passage 4]
+NP (complexity)
+
+[Passage 5]
+NP (complexity)",True,0.0,0.0,0.0,0,0.4464817,0.5043787,0.47366756,0.0004482354561332613,True,0.0054156119003891945,True
